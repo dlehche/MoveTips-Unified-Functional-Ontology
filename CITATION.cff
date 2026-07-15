@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use MUFO or the Human Function Framework in research, please cite the canonical publication below."
+title: "MUFO — MoveTips Unified Functional Ontology"
+version: "2.0"
+authors:
+  - family-names: "Che"
+    given-names: "Lei"
+    email: "dlehche@gmail.com"
+date-released: 2026-07-15
+doi: 10.5281/zenodo.21368412
+repository-code: "https://github.com/dlehche/MoveTips-Unified-Functional-Ontology"
+url: "https://doi.org/10.5281/zenodo.21368412"
+preferred-citation:
+  type: generic
+  authors:
+    - family-names: "Che"
+      given-names: "Lei"
+      email: "dlehche@gmail.com"
+  title: "MUFO Definition 2.0: A Unified Ontology for Human Function"
+  year: 2026
+  version: "2.0"
+  doi: 10.5281/zenodo.21368412
+  url: "https://doi.org/10.5281/zenodo.21368412"
