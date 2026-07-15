@@ -4,6 +4,15 @@
 
 **MUFO Definition Version 2.0**
 
+**Proposed by:** Lei Che  
+**Developed by:** Lei Che Research & Engineering Team, MoveTips Technology (Beijing) Co., Ltd.  
+**Current authoritative definition:** MUFO Definition 2.0  
+**Canonical publication:** [MUFO Definition 2.0: A Unified Ontology for Human Function](https://doi.org/10.5281/zenodo.21368412)  
+**DOI:** `10.5281/zenodo.21368412`  
+**Copyright © 2026 Lei Che and MoveTips Technology (Beijing) Co., Ltd.**
+
+For formal citation, please use the canonical publication above or the repository citation metadata in `CITATION.cff`.
+
 MUFO (MoveTips Unified Functional Ontology) is a domain ontology for human function. It provides a unified semantic and rule foundation for human function inference, state modeling, safety constraints, longitudinal write-back, and the Human Function World Model.
 
 **MOVETIPS**
