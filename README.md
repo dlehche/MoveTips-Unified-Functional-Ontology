@@ -2,7 +2,7 @@
 
 ## A Unified Ontology for Human Function and the Human Function World Model
 
-**Current authoritative framework: MUFO Definition 2.0**
+**Current authoritative framework definition: MUFO Definition 2.0**
 
 **Proposed by:** Lei Che  
 **Developed by:** Lei Che Research & Engineering Team, MoveTips Technology (Beijing) Co., Ltd.  
@@ -13,7 +13,7 @@
 
 > **Human function is the body's capacity to be appropriately engaged for real-world tasks.**
 
-MUFO establishes **human function as a shared computational object**.
+MUFO establishes **human function as a shared, first-class computational object**.
 
 Its purpose is to provide a unified semantic and rule foundation through which medicine, rehabilitation, movement training, other professional systems, and specialized AI models can work around the **continuous human function state of the same person**.
 
@@ -85,7 +85,7 @@ Functional engagement is not equivalent to conscious command. It is not one musc
 
 > **It is a task-conditioned organization process.**
 
-This provides a semantic middle layer between biological mechanism and visible task outcome.
+This provides a middle layer between biological mechanism and visible task outcome.
 
 ### Appropriate engagement
 
