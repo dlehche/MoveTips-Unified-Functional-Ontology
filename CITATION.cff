@@ -1,23 +1,46 @@
 cff-version: 1.2.0
-message: "If you use MUFO or the Human Function Framework in research, please cite the canonical publication below."
-title: "MUFO — MoveTips Unified Functional Ontology"
-version: "2.0"
+message: "If you use MUFO or the Human Function Framework in research, please cite MUFO Definition 2.1 using the canonical publication below."
+title: "MUFO Definition 2.1: A Unified Ontology for Human Function"
+version: "2.1"
 authors:
   - family-names: "Che"
     given-names: "Lei"
     email: "dlehche@gmail.com"
-date-released: 2026-07-15
-doi: 10.5281/zenodo.21368412
+    affiliation: "MoveTips Technology (Beijing) Co., Ltd."
+date-released: 2026-07-16
+doi: 10.5281/zenodo.21399269
 repository-code: "https://github.com/dlehche/MoveTips-Unified-Functional-Ontology"
-url: "https://doi.org/10.5281/zenodo.21368412"
+url: "https://zenodo.org/records/21399269"
+abstract: >-
+  MUFO Definition 2.1 defines human function as the body's capacity to be
+  appropriately engaged to meet internal and external demands. It provides a
+  governed ontology and semantic-rule architecture for demand, functional
+  engagement, state inference, safety constraints, action, feedback,
+  longitudinal individual modeling, and the Human Function World Model.
+keywords:
+  - human function
+  - ontology
+  - internal demand
+  - external demand
+  - functional engagement
+  - world model
+  - whole-person modeling
+  - state inference
+  - knowledge representation
+  - longitudinal modeling
+  - auditable AI
+  - health AI
 preferred-citation:
-  type: generic
+  type: report
   authors:
     - family-names: "Che"
       given-names: "Lei"
       email: "dlehche@gmail.com"
-  title: "MUFO Definition 2.0: A Unified Ontology for Human Function"
+      affiliation: "MoveTips Technology (Beijing) Co., Ltd."
+  title: "MUFO Definition 2.1: A Unified Ontology for Human Function"
   year: 2026
-  version: "2.0"
-  doi: 10.5281/zenodo.21368412
-  url: "https://doi.org/10.5281/zenodo.21368412"
+  version: "2.1"
+  institution:
+    name: "MoveTips Technology (Beijing) Co., Ltd."
+  doi: 10.5281/zenodo.21399269
+  url: "https://zenodo.org/records/21399269"
