@@ -3,7 +3,7 @@
 [English](README.md) | [中文](MUFO_DEFINITION_ZH.md)
 
 **当前权威框架定义：** MUFO Definition 2.1  
-**作者：** Lei Che（车磊）  
+**作者：** Lei Che（车雷）  
 **贡献团队：** 木梯研究与工程团队  
 **机构：** 木梯科技（北京）有限公司  
 **联系邮箱：** dlehche@gmail.com  
