@@ -2,420 +2,386 @@
 
 ## A Unified Ontology for Human Function and the Human Function World Model
 
-**Current authoritative framework definition: MUFO Definition 2.0**
+[English](README.md) | [中文](MUFO_DEFINITION_ZH.md)
 
-**Proposed by:** Lei Che  
-**Developed by:** Lei Che Research & Engineering Team, MoveTips Technology (Beijing) Co., Ltd.  
-**Canonical publication:** [MUFO Definition 2.0: A Unified Ontology for Human Function](https://doi.org/10.5281/zenodo.21368412)  
-**DOI:** `10.5281/zenodo.21368412`  
-**Version:** 2.0  
-**Copyright © 2026 Lei Che and MoveTips Technology (Beijing) Co., Ltd.**
+**Current authoritative framework definition:** MUFO Definition 2.1  
+**Author:** Lei Che  
+**Contributors:** MoveTips Research & Engineering Team  
+**Affiliation:** MoveTips Technology (Beijing) Co., Ltd.  
+**Correspondence:** dlehche@gmail.com  
+**Version:** 2.1  
+**Release date:** July 16, 2026  
+**Canonical publication:** [MUFO Definition 2.1: A Unified Ontology for Human Function](https://zenodo.org/records/21399269)  
+**DOI:** [`10.5281/zenodo.21399269`](https://doi.org/10.5281/zenodo.21399269)  
+**Copyright:** © 2026 Lei Che and MoveTips Technology (Beijing) Co., Ltd.
 
-> **Human function is the body's capacity to be appropriately engaged for real-world tasks.**
+> **Human function is the body's capacity to be appropriately engaged to meet internal and external demands.**
 
-MUFO establishes **human function as a shared, first-class computational object**.
+> **“Demand” includes ongoing internal requirements for physiological maintenance, regulation, development, defense, adaptation, repair, and recovery, as well as external behavioral, environmental, and real-world task demands.**
 
-Its purpose is to provide a unified semantic and rule foundation through which medicine, rehabilitation, movement training, other professional systems, and specialized AI models can work around the **continuous human function state of the same person**.
+The compact Chinese philosophical definition remains:
 
-For the complete framework, relation semantics, operational inference sequence, implementation position, limitations, and validation agenda, see **MUFO Definition 2.0**.
+> **人体功能，就是身体被正常调用的能力。**
+
+MUFO provides a governed ontology and semantic-rule foundation for representing human function as a shared domain object in computational systems. It is designed to support continuous, evidence-bounded, safety-constrained, traceable, auditable, and revisable reasoning across medicine, physiology, rehabilitation, movement training, behavior, environment, and longitudinal whole-person modeling.
 
 ---
 
-## The Problem
+## 1. Why MUFO Is Needed
 
-Human knowledge about disease, anatomy, rehabilitation, movement, behavior, and health is extensive.
+Knowledge about disease, anatomy, physiology, rehabilitation, movement, behavior, and health is extensive. The unresolved problem appears when different professional and computational systems face the same person.
 
-The deeper problem appears when different professional systems face **the same individual**.
+A medical record may describe diagnoses, imaging, laboratory findings, medications, and clinical events. A physiological model may describe organ-system regulation and mechanism. A rehabilitation record may describe pain, task difficulty, and treatment response. A training system may describe load, performance, and recovery. A person may report fatigue, instability, slower recovery, or declining ability to sustain ordinary life tasks.
 
-A medical record may describe diagnoses, imaging, laboratory findings, medication, and clinical events. A rehabilitation record may describe pain, range of motion, balance, task difficulty, and treatment response. A training system may describe load, exercise performance, recovery, and progression. Real life may reveal fatigue, instability, pain, slower recovery, or a growing inability to sustain ordinary tasks.
+Each representation may be valid within its own scope, but they do not automatically form one shared object that can continuously answer:
 
-Each representation may be valid within its own scope.
-
-They do not automatically form a stable shared computational object that can continuously answer:
-
-- What real-world task is this person trying to undertake?
-- What must the body engage to meet that task?
+- What internal or external demand is present?
+- What must the body organize to meet that demand?
 - How is the body actually organizing itself?
-- What was directly observed?
-- What cost is being paid?
-- Where is the current boundary?
-- What is the person's current functional state?
-- What action is permissible now?
-- What changed after execution?
+- What was observed, reported, or measured?
+- What cost and accumulated burden are being carried?
+- Where are the current boundaries, and how much reserve remains?
+- What human function state is supported under the specified demand, context, evidence, and time?
+- What endogenous regulation is occurring?
+- What external action, reassessment, or professional entry point is permissible?
+- What actually changed after time, exposure, regulation, intervention, or execution?
 
-MUFO addresses this representation and inference problem at the **human function layer**.
-
----
-
-## The Root Object: Human Function
-
-MUFO defines human function as:
-
-> **Human function is the body's capacity to be appropriately engaged for real-world tasks.**
-
-This definition is task-oriented, but it is not reducible to task completion.
-
-A person may complete a task through marked breath holding, external support, slowed speed, painful protection, excessive tension, repeated interruption, or a recovery cost that prevents the next task.
-
-MUFO therefore distinguishes between:
-
-> **producing a task outcome**
-
-and
-
-> **establishing appropriate functional engagement**.
-
-### Functional engagement
-
-In MUFO, **functional engagement** is the process through which the body organizes the resources required to undertake a specific task.
-
-These resources may include:
-
-- structural support;
-- functional capacities;
-- sensory feedback;
-- motor control;
-- energy supply;
-- protective responses;
-- recovery regulation;
-- cognitive participation;
-- behavioral participation.
-
-Functional engagement is not equivalent to conscious command. It is not one muscle contraction, one joint motion, or one isolated capacity.
-
-> **It is a task-conditioned organization process.**
-
-This provides a middle layer between biological mechanism and visible task outcome.
-
-### Appropriate engagement
-
-MUFO currently uses three foundational conditions:
-
-1. **Task goal achievable**
-2. **Organization relatively stable**
-3. **Associated cost controllable**
-
-Safety boundaries remain a separate constraint layer.
+MUFO addresses this representation, inference, governance, and longitudinal write-back problem at the human function layer.
 
 ---
 
-## Human Function as a Shared Computational Object
+## 2. What Changed in Version 2.1
 
-The need for MUFO does not arise from the absence of the word *function*.
+MUFO Definition 2.1 is a cross-language scope correction and ontology-architecture clarification.
 
-It arises from the absence of a sufficiently stable shared object for **longitudinal cross-domain inference**.
+The original Chinese philosophical definition did not limit human function to real-world tasks. Version 2.0 used a task-centered English wording that could be read as the final boundary of the framework. Version 2.1 restores and formally expresses the complete scope:
 
-MUFO assigns different concepts to different semantic roles:
+- **Internal demands:** physiological maintenance, regulation, development, defense, adaptation, repair, and recovery.
+- **External demands:** behavioral, environmental, and real-world task demands.
+- **Real-world tasks:** a principal operational specialization of external demand, not the total boundary of human function.
+- **Functional Engagement:** generalized from task-conditioned organization to demand-conditioned organization.
+- **Multiscale trajectory:** molecular, cellular, tissue, organ, organ-system, behavioral, environmental, and whole-person state transitions are included in the intended modeling range, without claiming completed multiscale implementation.
 
-- **Disease** provides medical context, mechanism, and safety constraints.
-- **Movement** provides an observable window into functional organization.
-- **Structure** provides anatomical anchors.
-- **Functional capacity** represents a capability that may be required and engaged.
-- **Assessment and measurement** provide evidence.
-- **Action** represents a bounded attempt to alter a state or its conditions.
-- **Human function** is the shared object continuously observed, inferred, and influenced.
-
-A shared object does not imply shared professional authority.
-
-MUFO preserves professional scope, evidence requirements, confirmation rights, and bounded action permissions.
+The task-centered operational architecture of Version 2.0 remains valid within its stated scope. Its English root definition is superseded by Version 2.1.
 
 ---
 
-## A Governed Semantic Coordinate System
+## 3. Root Objects
 
-MUFO is not a terminology list and is not defined as an ordinary knowledge graph.
+### 3.1 Demand
 
-A relation in MUFO must be more informative than **"associated with."**
+**Demand** is an internal or external requirement that calls upon the body and creates the conditions under which engagement, burden, boundary, reserve, and state may be evaluated.
 
-The governed object space includes, but is not limited to:
+MUFO distinguishes:
 
-- real-world tasks and task contexts;
-- task demands;
-- functional capacities;
-- anatomical structures and structural anchors;
-- actual engagement patterns;
-- observable manifestations;
-- costs and post-task burdens;
-- safety and task boundaries;
-- diseases, injuries, surgeries, medications, and clinical events as contextual constraints;
-- assessments, tests, scales, observations, and evidence;
-- limiting-factor candidates and primary-problem candidates;
-- human function states;
-- recommendation directions and professional entry points;
-- solution methods and execution arrangements;
-- execution feedback;
-- reassessment;
-- longitudinal monitoring.
+- **Demand** — the real requirement condition;
+- **Demand Specification** — a versioned information object describing that demand;
+- **Task** — a goal-directed activity or activity situation;
+- **Task Demand** — the external requirement generated, imposed, or specified by the task under relevant context, load, duration, complexity, environment, and consequences;
+- **Task Demand Specification** — a versioned representation of that task demand.
 
-MUFO governs how these objects may be related.
+A Task is not identical to a Task Demand.
 
-A governed relation may require:
+### 3.2 Functional Engagement
 
-- direction;
-- relation type;
-- domain and range constraints;
-- applicable conditions;
-- evidence requirements;
-- role or authority restrictions;
-- provenance;
-- version;
-- lifecycle status.
+**Functional Engagement** is the process through which the body organizes what is required to meet a specified internal or external demand.
 
-The objective is to make human function knowledge **computable, constrained, traceable, auditable, and continuously updatable**.
+Depending on scale and context, engagement may involve molecular and cellular processes, tissues and organs, organ-system interactions, structural support, functional capacities, sensory feedback, motor control, energy supply, metabolic regulation, protective responses, defense, repair, recovery, cognitive participation, behavioral participation, and interaction with environmental conditions.
 
----
+Functional Engagement is not equivalent to conscious command, one muscle contraction, one joint motion, one organ process, one laboratory value, or one isolated capacity.
 
-## Core Semantic State–Action Spine
+### 3.3 Required and Actual Engagement
 
-MUFO 2.0 uses the following high-level semantic spine:
+MUFO separates:
 
-> **Task → Engagement → Manifestation → Cost → Boundary → State → Action → Feedback**
+- **Engagement Requirement** — what organization must be realized for a demand to be adequately met;
+- **Required Engagement Process Type** — the type of process expected to realize that requirement;
+- **Actual Engagement Process** — the real process that occurs;
+- **Actual Engagement Inference** — an evidence-bounded conclusion about that process;
+- **Actual Engagement Representation** — a versioned information object representing the inference.
 
-The operational inference sequence is more explicit:
+A requirement, a process type, a real process, an inference, and an information representation are not the same entity.
 
-> **Safety Boundary → Task → Required Engagement → Actual Engagement → Manifestation → Cost → Boundary → Limiting-Factor Hypotheses → Evidence Convergence → Primary Problem → State → Action Direction → Execution → Feedback → Reassessment → Write-back**
+### 3.4 Appropriate Engagement
 
-The semantic spine provides a stable cross-domain coordinate system.
+At the generalized level, appropriate engagement requires:
 
-The operational sequence preserves evidence handling, limiting-factor hypotheses, primary-problem convergence, action, reassessment, and longitudinal revision.
+1. the demand is adequately met;
+2. the organization remains sufficiently stable and adaptive;
+3. cost and regulatory burden remain within context-, time-, and demand-dependent sustainable boundaries.
 
-### Observation is not explanation
+Safety remains a separate constraint layer.
 
-A foundational governance rule in MUFO is:
+For real-world tasks, the current operational specialization remains:
 
-> **What was observed and why it may have happened must remain separate.**
-
-Manifestation is not cause.
-
-An unverified explanation must not silently become a factual record.
-
-Candidate inferences remain open to:
-
-> **verification, falsification, revision, and recomputation.**
+1. task goal achievable;
+2. organization relatively stable;
+3. associated cost controllable.
 
 ---
 
-## Human Function State
+## 4. Core Object Distinctions
 
-State is not a permanent label.
+MUFO explicitly separates domain objects, processes, inferences, and information representations. Core distinctions include:
 
-It is a task-, context-, evidence-, and time-dependent inference outcome.
+- Human Function is not Human Function State.
+- Human Function State is not State Inference.
+- State Inference is not State Representation.
+- Task is not Task Demand.
+- Demand is not Demand Specification.
+- Actual Engagement Process is not Actual Engagement Inference or Representation.
+- Actual Response is not Manifestation.
+- Manifestation is not Measurement Result.
+- Immediate Cost is not Accumulated Burden.
+- Boundary is not Reserve.
+- Endogenous Regulation is not Governed External Action.
+- Actual Response is not necessarily identical to Actual Change.
+- Actual Change is not Feedback Information.
+- Observation is not explanation.
 
-MUFO currently uses four foundational state classes:
+Unverified explanations must not silently become factual records. Candidate inferences remain open to verification, falsification, revision, and recomputation.
+
+---
+
+## 5. Generalized Semantic Architecture
+
+The generalized MUFO architecture is a governed state-transition loop rather than one undifferentiated chain:
+
+> **Internal or External Demand**  
+> → **Engagement Requirement**  
+> → **Required Engagement Process Type**  
+> → **Actual Engagement Process**  
+> → **Actual Response**  
+> → **Manifestation and Measurement Result**  
+> → **Immediate Cost and Accumulated Burden**  
+> → **Boundary and Reserve Estimates**  
+> → **Domain-/Scale-Specific State Inference and Representation**  
+> → **Person-Level Human Function State Inference and Representation, where applicable**
+
+Actual Change may arise through external action, endogenous regulation, continued time, exposure, or uncontrolled events:
+
+> **Governed External Action where applicable and permitted, and/or Endogenous Regulation / Time / Exposure / Event**  
+> → **Actual Change**  
+> → **New Evidence**  
+> → **Feedback Interpretation**  
+> → **Reassessment**  
+> → **Versioned Write-back**
+
+MUFO does not authorize endogenous regulation. It observes, represents, and evaluates it. Governance gates apply to external action, professional response, and system behavior.
+
+---
+
+## 6. Current Task-Centered Operational Specialization
+
+Current implementation is strongest in real-world task reasoning and longitudinal service workflows.
+
+The task-centered operational chain is:
+
+> **Safety Boundary**  
+> → **Task + Context**  
+> → **Task Demand / Task Demand Specification**  
+> → **Engagement Requirement**  
+> → **Required Engagement Process Type**  
+> → **Actual Engagement Process, Inference, and Representation**  
+> → **Actual Response**  
+> → **Manifestation and Measurement Result**  
+> → **Immediate Cost, Accumulated Burden, Boundary, and Reserve Estimate**  
+> → **Limiting-Factor Hypotheses**  
+> → **Evidence Convergence**  
+> → **Primary-Problem Convergence**  
+> → **Person-Level Human Function State Inference and Representation**  
+> → **Governed Action Direction and Execution**  
+> → **Actual Change**  
+> → **New Evidence**  
+> → **Feedback and Reassessment**  
+> → **Versioned Write-back**
+
+This chain supports assessment, safety gating, action selection, execution, feedback, reassessment, and longitudinal updating without treating one observation or score as a final explanation.
+
+---
+
+## 7. Person-Level Task-Centered State Framework
+
+MUFO currently retains four foundational state classes for person-level, task-centered inference:
 
 | State | Functional interpretation |
 |---|---|
-| **Normal** | The task is achievable; engagement is relatively stable; cost is controllable; usable reserve remains. |
-| **Compensatory** | The task remains achievable, but engagement has changed and a higher cost is being paid. |
-| **Critical** | The task may remain achievable, but functional reserve has substantially narrowed and small demand changes may cross the current boundary. |
-| **Functional Incapacity** | Required engagement cannot be effectively established or maintained; the task is clearly impossible or severely limited. |
+| **Normal Functional State** | The task is achievable; engagement is relatively stable; cost is controllable; usable reserve remains. |
+| **Compensatory Functional State** | The task remains achievable, but engagement has changed and higher cost or burden is being carried. |
+| **Boundary-Critical Functional State** | The task may remain achievable, but usable reserve has substantially narrowed and small demand changes may cross the current boundary. |
+| **Functional Incapacity State** | The demand cannot be adequately met through any currently available or admissible Required Engagement Process Type; the task is impossible or severely limited under the stated conditions. |
 
-These states are **not medical diagnoses**.
+These states:
 
----
+- are task-, context-, evidence-, and time-dependent;
+- are not medical diagnoses;
+- are not permanent identities;
+- are not asserted as universal labels for organ, cellular, molecular, or other multiscale processes.
 
-## Three-Layer Architecture
-
-MUFO 2.0 explicitly separates three architectural layers.
-
-### 1. MUFO
-
-MUFO defines how the human function domain is represented and constrained.
-
-It provides:
-
-> **objects • relations • constraints • evidence semantics • state rules • safety boundaries • action semantics • feedback semantics • provenance • versioning**
-
-MUFO answers:
-
-> **What kinds of things exist in this reasoning domain, how may they relate, and under what rules may they participate in inference and action?**
-
-### 2. Individual Human Function Model — IHFM
-
-The IHFM records the longitudinal state of one person within the semantic coordinates provided by MUFO.
-
-It is not simply a health record.
-
-> **It is structured person-specific state memory organized around human function.**
-
-### 3. Human Function World Model — HFWM
-
-The HFWM adds time, action, transition, and prediction.
-
-At a high level:
-
-> **s(t+1) ~ F(s(t), a(t), c(t), h(t))**
-
-where:
-
-- `s(t)` is the current functional-state representation;
-- `a(t)` is an action or exposure;
-- `c(t)` is the current task and context;
-- `h(t)` is relevant longitudinal history.
-
-State-transition components may be rule-based, probabilistic, learned, or hybrid, provided that safety constraints, provenance, and inference boundaries remain governed.
-
-The relationship among the three layers is:
-
-> **MUFO defines the human function world.**
->
-> **The IHFM records one person's longitudinal position in that world.**
->
-> **The HFWM learns or models how that position may change under time, context, and action.**
-
-### Development progression
-
-> **MUFO → Individual Human Function Model → Human Function World Model**
-
-Or operationally:
-
-> **define the domain → infer current state → preserve longitudinal state memory → model action-conditioned transitions**
+Internal-demand and multiscale contexts may require linked or different domain-specific state frameworks.
 
 ---
 
-## Bidirectional Disease–Function Reasoning
+## 8. Governed Architecture
 
-MUFO does not position human function outside medicine.
+MUFO Definition 2.1 distinguishes four connected components.
 
-Disease and human function are distinct semantic objects that interact in both directions.
+### MUFO
 
-### Disease and medical events → human function impact
+The governed ontology and semantic-rule layer. It defines objects, relations, constraints, evidence semantics, state rules, safety boundaries, action semantics, provenance, versioning, and lifecycle governance.
 
-Diseases, injuries, surgeries, medications, abnormal tests, and pathological mechanisms may affect structures, capacities, recovery conditions, safety boundaries, task tolerance, and engagement strategies.
+### Human Function Engine
 
-MUFO organizes how medical context may change functional interpretation and permissible action.
+The bounded runtime layer that reads governed MUFO assets and evidence, applies constraints and inference logic, produces current inferences and representations, and supports versioned write-back.
+
+### Individual Human Function Model — IHFM
+
+The person-specific longitudinal state memory. It preserves current and historical state representations, context, evidence, boundaries, reserve estimates, actions, feedback, reassessments, provenance, and version identity.
+
+### Human Function World Model — HFWM
+
+The temporal and action-conditioned modeling layer. It represents or learns how relevant states may change under demand, context, time, exposure, endogenous regulation, and external action.
+
+A predicted state representation is not a current inferred state representation. Prediction must remain separately identified, evaluated, revised, or expired.
+
+---
+
+## 9. Bidirectional Disease–Function Reasoning
+
+Disease and human function are distinct but connected objects.
+
+### Disease, mechanism, and medical events → human function impact
+
+Diseases, injuries, surgeries, medications, abnormal tests, pathological mechanisms, and clinical events may alter structures, capacities, regulation, recovery, boundaries, reserve, task tolerance, engagement strategies, and permissible action.
 
 ### Longitudinal human function change → disease-risk candidates
 
-Persistent compensatory engagement, repeated exposure beyond current boundaries, progressive narrowing of task reserve, declining recovery capacity, repeated unexplained manifestations, and longitudinal decline in life-task ability may become candidate risk signals.
+Persistent compensatory engagement, repeated exposure beyond current boundaries, progressive reserve narrowing, declining recovery capacity, repeated unexplained manifestations, and longitudinal decline in life-task ability may become candidate risk signals.
 
-MUFO may support:
-
-- risk-window identification;
-- early-change signal organization;
-- escalation triggers;
-- evidence packaging for clinical review.
-
-This is **upward signal reasoning**, not autonomous diagnosis.
+MUFO may support risk-window identification, escalation triggers, and evidence packaging for clinical review. This is upward signal reasoning, not autonomous diagnosis.
 
 ---
 
-## Specialized AI Model Coordination
+## 10. Specialized AI and Model Coordination
 
-Medicine, rehabilitation, movement training, nutrition, psychology, and other fields may each develop increasingly capable specialized AI models.
+Medicine, physiology, rehabilitation, movement training, nutrition, psychology, sleep, behavior, and environmental-health systems may each contribute specialized models.
 
-Their outputs do not automatically share:
+MUFO does not collapse them into one universal model. It provides a governed coordination layer for:
 
-- object identity;
-- evidence semantics;
-- state definitions;
-- authority boundaries;
-- temporal context.
-
-MUFO provides a human-function semantic coordination layer that can support:
-
-- semantic object mapping;
-- semantic normalization;
+- object identity and semantic mapping;
 - relation alignment;
-- evidence annotation;
-- authority-constraint checking;
+- evidence and uncertainty annotation;
+- scale, time, and context preservation;
+- authority and professional-scope constraints;
 - conflict identification;
 - state-impact analysis;
-- provenance recording;
+- provenance and version control;
 - write-back to the same IHFM.
 
-The objective is not one universal **"super model."**
-
-> **The objective is to allow specialized models to work around the same person without losing semantic identity, professional boundaries, or longitudinal continuity.**
+The objective is to allow specialized models to work around the same whole person without losing scientific scope, semantic identity, professional boundaries, or longitudinal continuity.
 
 ---
 
-## Current Operational Position
+## 11. Relationship With Existing Standards and Models
 
-MUFO 2.0 is not presented only as a conceptual ontology proposal.
+MUFO does not replace ICF, SNOMED CT, UMLS, PROV-O, OWL, JSON-LD, OBO Foundry ontologies, BFO, Uberon, Gene Ontology, the Human Reference Atlas, Physiome, CellML, or domain-specific physiological and clinical models.
 
-A governed operational implementation is under active development and is already used to organize:
-
-- governed concept domains;
-- stable internal identifiers;
-- typed semantic relations;
-- relation contracts;
-- domain and range constraints;
-- relation direction and applicable-condition rules;
-- ontology-asset lifecycle governance;
-- evidence interpretation structures;
-- limiting-factor hypothesis representation;
-- primary-problem convergence;
-- state convergence;
-- action-direction semantics;
-- execution and feedback semantics;
-- longitudinal write-back and monitoring.
-
-The current operational architecture can be summarized as:
-
-> **Task semantics → Functional capacity requirements → Structural anchors → Assessment evidence → Limiting-factor hypotheses → Primary-problem convergence → State inference → Action direction → Execution → Feedback → Longitudinal monitoring**
-
-The complete production ontology, relationship topology, relation contracts, governance state, and operational data assets are maintained as governed implementation assets and are **not reproduced in full in the public framework definition**.
+MUFO uses mapping, provenance, and interoperability strategies. External concepts should retain their established identifiers and meanings. MUFO-specific objects and relations provide a human-function coordination and governance layer across demands, engagement, state, action, feedback, and longitudinal change.
 
 ---
 
-## Relationship With Existing Standards
+## 12. Current Implementation and Claim Boundary
 
-MUFO does not replace ICF, SNOMED CT, UMLS, or established anatomical and clinical terminology systems.
+The governed implementation currently supports concept domains, stable internal identifiers, typed relations, relation contracts, evidence structures, authority constraints, lifecycle governance, task-centered state convergence, action semantics, execution feedback, reassessment, and longitudinal monitoring.
 
-MUFO uses a **mapping and interoperability strategy**.
+The complete production ontology, relation topology, implementation rules, and operational data assets are not reproduced in full in this public framework definition.
 
-External medical, anatomical, assessment, and other domain concepts should retain established identifiers and semantics where available. Human-function-specific concepts and relations may be governed within MUFO and connected to external systems through explicit mapping objects.
+Version 2.1 does **not** claim:
 
-MUFO focuses specifically on:
+- completed BFO conformance;
+- completed OWL axiomatization;
+- universal physiological state classification;
+- external expert consensus;
+- clinical outcome validation;
+- a completed molecular-to-person simulator;
+- autonomous diagnosis or treatment.
 
-> **how the body is engaged in real-world tasks, how current human function state is inferred, how evidence and safety constrain that inference, and how state enters action, feedback, and longitudinal updating.**
+Internal-demand operationalization and multiscale modeling remain research, formalization, and validation work.
 
 ---
 
-## What MUFO Is Not
+## 13. Four-Stage Development Pathway
 
-MUFO is not:
+1. **MUFO Object–Relation Topology and Human Function Collaboration Network**  
+   Governed objects, relations, evidence, authority, safety, and lifecycle rules.
+
+2. **Human Function Engine and IHFM Operational Loop**  
+   Evidence-bounded current-state inference, action support, feedback, reassessment, and longitudinal write-back.
+
+3. **Multiscale Human Function World Model**  
+   Temporal and action-conditioned modeling across physiological, behavioral, environmental, and whole-person state transitions.
+
+4. **Integrated Computable Whole-Person System**  
+   Coordinated use of validated domain models, multiscale representations, person-specific memory, prediction, and governed decision support.
+
+> **Governed ontology topology → Human Function Engine → Human Function World Model → Integrated computable whole-person system**
+
+---
+
+## 14. Scope Clarification
+
+MUFO is a knowledge-representation, semantic-governance, and decision-support framework.
+
+It is not:
 
 - a medical diagnosis system;
 - an autonomous treatment system;
-- a replacement for physicians or licensed professional judgment;
-- a movement library;
-- a collection of tests or scales;
+- a completed whole-person physiological simulator;
+- a replacement for licensed professional judgment;
+- a movement library or test collection;
 - a universal black-box AI model.
-
-MUFO is a **knowledge-representation, semantic-governance, and decision-support framework**.
-
-Its purpose is to make human function inference more bounded, replayable, inspectable, auditable, and revisable.
-
----
-
-## Read and Cite MUFO Definition 2.0
-
-**Canonical publication**
-
-> **Lei Che Research & Engineering Team. MUFO Definition 2.0: A Unified Ontology for Human Function. MoveTips Technology (Beijing) Co., Ltd.; 2026.**
-
-**DOI:** `10.5281/zenodo.21368412`
-
-Canonical record: https://doi.org/10.5281/zenodo.21368412
-
-For formal citation, use the canonical publication above or the repository citation metadata in [`CITATION.cff`](CITATION.cff).
-
-MUFO V1.0 remains part of the version history. **MUFO Definition 2.0 is the current authoritative framework definition.**
-
----
-
-## Scope Clarification
-
-MUFO is a knowledge-representation, semantic-governance, and decision-support framework. It is not a medical diagnosis system, autonomous treatment system, or substitute for licensed professional judgment.
 
 Disease diagnosis, medical restrictions, prescriptions, surgery decisions, emergency assessment, and other regulated clinical actions remain within the relevant professional and legal scope.
 
 ---
 
-**MoveTips Technology (Beijing) Co., Ltd.**
+## 15. Read and Cite
 
-**MOVETIPS**
+**Canonical publication**
 
-**Human Function, in One Shared Language.**
+> Che, Lei. *MUFO Definition 2.1: A Unified Ontology for Human Function*. MoveTips Technology (Beijing) Co., Ltd., 2026. DOI: [10.5281/zenodo.21399269](https://doi.org/10.5281/zenodo.21399269).
+
+Zenodo record: <https://zenodo.org/records/21399269>
+
+Repository citation metadata is maintained in [`CITATION.cff`](CITATION.cff).
+
+### Version history
+
+- **MUFO V1.0** — initial ontology-driven, safety-constrained, auditable human function inference framework and early TCM/MVSS operationalization.
+- **MUFO Definition 2.0** — task-centered functional-engagement architecture, semantic state–action spine, operational inference sequence, continuous write-back, and separation of MUFO, IHFM, and HFWM.
+- **MUFO Definition 2.1** — current authoritative framework definition; restores the full English scope of the Chinese philosophical definition, introduces internal and external Demand, separates Task from Task Demand, generalizes Functional Engagement, and defines the multiscale development trajectory.
+
+---
+
+## 16. Copyright and Reuse
+
+**Copyright © 2026 Lei Che and MoveTips Technology (Beijing) Co., Ltd.**
+
+The copyright holders retain authorship and version identity for the MUFO framework definition. Record-specific access, license, attribution, and reuse terms are governed by the canonical Zenodo record:
+
+<https://zenodo.org/records/21399269>
+
+When citing, adapting, translating, mapping, or implementing MUFO, preserve:
+
+- the author and copyright attribution;
+- the MUFO name and version number;
+- the canonical DOI;
+- provenance of modifications and mappings;
+- the distinction between the public framework definition and governed production assets;
+- the medical, safety, evidence, and professional-scope limitations stated in the paper.
+
+---
+
+MoveTips Technology (Beijing) Co., Ltd.  
+**MOVETIPS**  
+Human Function, in One Shared Language.
