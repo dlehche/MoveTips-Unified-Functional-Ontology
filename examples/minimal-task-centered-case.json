@@ -1,0 +1,102 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "exampleStatus": "non-normative",
+  "mufoVersion": "2.1",
+  "exampleId": "MUFO-EXAMPLE-STAIRS-001",
+  "title": "Minimal task-centered human-function case",
+  "personReference": "de-identified-person-001",
+  "time": "2026-07-17T09:00:00+08:00",
+  "context": {
+    "task": {
+      "label": "Climb two flights of stairs",
+      "type": "real-world task"
+    },
+    "environment": {
+      "stairHeight": "standard indoor stairs",
+      "handrailAvailable": true
+    },
+    "relevantHistory": [
+      "The person previously completed the same task without stopping."
+    ]
+  },
+  "demand": {
+    "demandType": "external task demand",
+    "taskDemandSpecification": {
+      "duration": "approximately 90 seconds",
+      "load": "body weight plus a light bag",
+      "requiredConditions": [
+        "maintain balance",
+        "generate repeated lower-limb force",
+        "support cardiopulmonary demand",
+        "pace effort",
+        "recover sufficiently after completion"
+      ]
+    }
+  },
+  "engagement": {
+    "engagementRequirement": [
+      "stable repeated stepping",
+      "adequate lower-limb force production",
+      "cardiopulmonary support",
+      "sensory integration and balance control",
+      "post-task recovery"
+    ],
+    "actualEngagementInference": {
+      "summary": "The task is completed with reduced pace, intermittent handrail support, and higher-than-usual recovery burden.",
+      "confidence": "moderate",
+      "evidenceBounded": true
+    }
+  },
+  "evidence": {
+    "reported": [
+      "The person reports that stair climbing now feels more tiring than before."
+    ],
+    "observed": [
+      "Pace decreases on the second flight.",
+      "Handrail support is used intermittently.",
+      "A short stop is required after completion."
+    ],
+    "measured": [
+      {
+        "measure": "recovery time to comfortable breathing",
+        "value": 150,
+        "unit": "seconds"
+      }
+    ],
+    "notYetEstablished": [
+      "medical cause",
+      "primary limiting factor",
+      "long-term trajectory"
+    ]
+  },
+  "costAndBoundary": {
+    "immediateCost": [
+      "increased breathlessness",
+      "increased perceived exertion"
+    ],
+    "accumulatedBurden": "not established from this single observation",
+    "boundaryEstimate": "task remains achievable, but usable reserve appears reduced",
+    "safetyStatus": "no red-flag condition represented in this example"
+  },
+  "stateInference": {
+    "frameworkScope": "person-level task-centered",
+    "candidateState": "Boundary-Critical Functional State",
+    "rationale": "The task remains achievable, but pace, support use, and recovery burden suggest substantially narrowed usable reserve.",
+    "notADiagnosis": true,
+    "requiresReassessment": true
+  },
+  "governedNextStep": {
+    "actionType": "reassessment and evidence collection",
+    "permittedActions": [
+      "repeat the task under controlled conditions",
+      "compare recovery response",
+      "review relevant medical and physiological context",
+      "escalate to an appropriate professional if safety concerns emerge"
+    ],
+    "prohibitedInference": "Do not infer a disease diagnosis from this example."
+  },
+  "writeBack": {
+    "representationType": "versioned individual human-function record",
+    "revisionRule": "Update the state representation when new evidence, reassessment, exposure, intervention, or time changes the supported interpretation."
+  }
+}
