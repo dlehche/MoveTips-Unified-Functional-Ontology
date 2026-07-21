@@ -11,13 +11,15 @@
 **DOI:** [10.5281/zenodo.21399269](https://doi.org/10.5281/zenodo.21399269)  
 **Copyright:** © 2026 Lei Che and MoveTips Technology (Beijing) Co., Ltd.
 
+**Philosophical starting point:**
+
+> **Life continually calls upon the body.**
+
+**Formal definition:**
+
 > **Human function is the body's capacity to be appropriately engaged to meet internal and external demands.**
 
-Plain-language expression:
-
-> **Human function is the body's capacity to respond appropriately when called upon.**
-
-Chinese philosophical definition:
+**Chinese philosophical definition:**
 
 > **人体功能，就是身体被正常调用的能力。**
 
