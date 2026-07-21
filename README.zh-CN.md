@@ -11,15 +11,18 @@
 **DOI：** [10.5281/zenodo.21399269](https://doi.org/10.5281/zenodo.21399269)  
 **著作权：** © 2026 车雷与木梯科技（北京）有限公司
 
+**哲学传播起点：**
+
+> **Life continually calls upon the body.**  
+> **生活不断调用身体。**
+
+**中文哲学根定义：**
+
 > **人体功能，就是身体被正常调用的能力。**
 
-正式英文定义：
+**正式英文定义：**
 
 > **Human function is the body's capacity to be appropriately engaged to meet internal and external demands.**
-
-口语化英文表达：
-
-> **Human function is the body's capacity to respond appropriately when called upon.**
 
 ---
 
