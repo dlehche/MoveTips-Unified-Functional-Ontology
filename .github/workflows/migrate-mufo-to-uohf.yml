@@ -1,22 +1,24 @@
 name: One-time MUFO to UOHF migration
 
 on:
-  push:
-    branches:
-      - main
-    paths:
-      - .github/workflows/migrate-mufo-to-uohf.yml
+  pull_request_target:
+    types:
+      - opened
+      - synchronize
+      - reopened
 
 permissions:
   contents: write
 
 jobs:
   migrate:
+    if: github.event.pull_request.head.repo.full_name == github.repository && github.event.pull_request.head.ref == 'agent/uohf-migration-trigger'
     runs-on: ubuntu-latest
     steps:
-      - name: Check out repository
+      - name: Check out main
         uses: actions/checkout@v4
         with:
+          ref: main
           fetch-depth: 0
 
       - name: Replace project identity in tracked text files and paths
@@ -55,8 +57,6 @@ jobs:
               if updated != text:
                   path.write_text(updated, encoding="utf-8", newline="")
 
-          # Rename every tracked path whose filename or directory contains the old identity.
-          # Processing deepest paths first avoids parent-directory conflicts.
           for raw_path in sorted(tracked, key=lambda p: (p.count("/"), len(p)), reverse=True):
               new_path = raw_path
               for old, new in replacements:
@@ -88,10 +88,7 @@ jobs:
           source = Path("papers/unification/UOHF_Unification_EN_V1.0.md")
           output = Path("papers/unification/UOHF_Unification_EN_V1.0.pdf")
           text = source.read_text(encoding="utf-8")
-          body = markdown.markdown(
-              text,
-              extensions=["extra", "tables", "fenced_code", "toc", "sane_lists"],
-          )
+          body = markdown.markdown(text, extensions=["extra", "tables", "fenced_code", "toc", "sane_lists"])
           css = """
           @page { size: A4; margin: 22mm 20mm 22mm 20mm; }
           body { font-family: 'DejaVu Serif', serif; font-size: 10.5pt; line-height: 1.55; color: #111; }
@@ -119,19 +116,16 @@ jobs:
         shell: bash
         run: |
           set -euo pipefail
-
-          if git grep -n -i 'mufo' -- . ':(exclude).git' > /tmp/old-identity.txt; then
+          if git grep -n -i 'mufo' -- . > /tmp/old-identity.txt; then
             echo 'Old MUFO identity remains in tracked text:'
             cat /tmp/old-identity.txt
             exit 1
           fi
-
           if find . -path './.git' -prune -o -iname '*mufo*' -print | grep -q .; then
             echo 'Old MUFO identity remains in a path:'
             find . -path './.git' -prune -o -iname '*mufo*' -print
             exit 1
           fi
-
           test -s README.md
           test -s README.zh-CN.md
           test -s UOHF_DEFINITION_ZH.md
