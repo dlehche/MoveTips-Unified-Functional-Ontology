@@ -1,13 +1,13 @@
-# 人体功能统一本体 MUFO Definition 2.0——中文历史版本
+# 人体功能统一本体 UOHF Definition 2.0——中文历史版本
 
 [English](README.md) | [中文](README.zh-CN.md) | [版本档案](../README.md)
 
-> **历史版本说明：** MUFO Definition 2.0 是人体功能统一本体正式发展历史的一部分。其任务中心运行架构在原有适用范围内仍然有效；其英文根定义和上层范围已由 MUFO Definition 2.1 替代。
+> **历史版本说明：** UOHF Definition 2.0 是人体功能统一本体正式发展历史的一部分。其任务中心运行架构在原有适用范围内仍然有效；其英文根定义和上层范围已由 UOHF Definition 2.1 替代。
 
 ## 出版信息
 
-**英文标题：** *MUFO Definition 2.0: A Unified Ontology for Human Function*  
-**中文参考译名：**《MUFO Definition 2.0：人体功能统一本体》  
+**当前项目英文标题：** *UOHF Definition 2.0: Unified Ontology of Human Function*  
+**中文参考译名：**《UOHF Definition 2.0：人体功能统一本体》  
 **作者：** 车雷（Lei Che）  
 **贡献团队：** 木梯研究与工程团队  
 **机构：** 木梯科技（北京）有限公司  
@@ -23,7 +23,7 @@ Definition 2.0 使用的英文根定义为：
 
 > **Human function is the body's capacity to be appropriately engaged for real-world tasks.**
 
-这一表述建立了 V2.0 的任务中心运行入口，为保证版本真实性予以保留。MUFO Definition 2.1 后续明确：人体功能的完整哲学范围并不局限于现实任务，并采用当前权威英文表达：
+这一表述建立了 V2.0 的任务中心运行入口，为保证版本真实性予以保留。UOHF Definition 2.1 后续明确：人体功能的完整哲学范围并不局限于现实任务，并采用当前权威英文表达：
 
 > **Human function is the body's capacity to be appropriately engaged to meet internal and external demands.**
 
@@ -33,7 +33,7 @@ Definition 2.0 使用的英文根定义为：
 
 ## 主要贡献
 
-MUFO Definition 2.0 将 V1.0 以因素、评分和任务—能力匹配为重点的运行框架，推进为一套更完整的任务中心人体功能本体架构。
+UOHF Definition 2.0 将 V1.0 以因素、评分和任务—能力匹配为重点的运行框架，推进为一套更完整的任务中心人体功能本体架构。
 
 V2.0 主要建立了：
 
@@ -44,7 +44,7 @@ V2.0 主要建立了：
 - 引入显式安全边界与专业权限约束；
 - 建立四类人级任务中心人体功能状态；
 - 建立执行、反馈、复评与持续回写闭环；
-- 区分 MUFO、个人人体功能模型（IHFM）与人体功能世界模型（HFWM）；
+- 区分 UOHF、个人人体功能模型（IHFM）与人体功能世界模型（HFWM）；
 - 建立疾病—功能双向推理；
 - 为不同专业 AI 模型提供语义协调层。
 
@@ -52,17 +52,7 @@ V2.0 主要建立了：
 
 V2.0 将 Functional Engagement 描述为：身体为了完成一个明确现实任务，对所需资源进行组织的过程。
 
-这些资源可以包括：
-
-- 结构支持；
-- 功能能力；
-- 感觉反馈；
-- 动作控制；
-- 能量供应；
-- 保护反应；
-- 恢复调节；
-- 认知参与；
-- 行为参与。
+这些资源可以包括结构支持、功能能力、感觉反馈、动作控制、能量供应、保护反应、恢复调节、认知参与和行为参与。
 
 V2.0 明确区分：
 
@@ -109,13 +99,13 @@ Definition 2.0 使用四类基础的人级任务中心状态：
 
 Definition 2.0 明确区分三层：
 
-### 1. MUFO
+### 1. UOHF
 
-MUFO 通过对象、关系、约束、证据语义、状态规则、安全边界、行动语义、反馈语义、来源和版本，定义并治理人体功能领域。
+UOHF 通过对象、关系、约束、证据语义、状态规则、安全边界、行动语义、反馈语义、来源和版本，定义并治理人体功能领域。
 
 ### 2. 个人人体功能模型——IHFM
 
-IHFM 在 MUFO 提供的语义坐标中，记录一个具体人的长期状态与历史。
+IHFM 在 UOHF 提供的语义坐标中，记录一个具体人的长期状态与历史。
 
 ### 3. 人体功能世界模型——HFWM
 
@@ -123,7 +113,7 @@ HFWM 在此基础上加入时间、行动、迁移和预测，建模一个人的
 
 发展关系被表达为：
 
-> **MUFO → 个人人体功能模型 → 人体功能世界模型**
+> **UOHF → 个人人体功能模型 → 人体功能世界模型**
 
 ## 疾病—功能双向推理
 
@@ -150,7 +140,7 @@ Definition 2.1 对 V2.0 的英文根定义和上层范围进行了替代与扩�
 
 ## 引用方式
 
-> Che, Lei. *MUFO Definition 2.0: A Unified Ontology for Human Function*. MoveTips Technology (Beijing) Co., Ltd., 2026. DOI: [10.5281/zenodo.21368412](https://doi.org/10.5281/zenodo.21368412).
+> Che, Lei. *UOHF Definition 2.0: Unified Ontology of Human Function*. MoveTips Technology (Beijing) Co., Ltd., 2026. DOI: [10.5281/zenodo.21368412](https://doi.org/10.5281/zenodo.21368412).
 
 ## 著作权与复用
 

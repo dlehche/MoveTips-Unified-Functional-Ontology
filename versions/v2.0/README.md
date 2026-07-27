@@ -1,12 +1,12 @@
-# MUFO Definition 2.0 — Historical English Version
+# UOHF Definition 2.0 — Historical English Version
 
 [English](README.md) | [中文](README.zh-CN.md) | [Version archive](../README.md)
 
-> **Historical version notice:** MUFO Definition 2.0 remains part of the formal development history. Its task-centered operational architecture remains valid within its stated scope. Its English root definition and upper-level scope are superseded by MUFO Definition 2.1.
+> **Historical version notice:** UOHF Definition 2.0 remains part of the formal development history. Its task-centered operational architecture remains valid within its stated scope. Its English root definition and upper-level scope are superseded by UOHF Definition 2.1.
 
 ## Publication metadata
 
-**Title:** *MUFO Definition 2.0: A Unified Ontology for Human Function*  
+**Current project title:** *UOHF Definition 2.0: Unified Ontology of Human Function*  
 **Author:** Lei Che  
 **Contributors:** MoveTips Research & Engineering Team  
 **Affiliation:** MoveTips Technology (Beijing) Co., Ltd.  
@@ -22,7 +22,7 @@ Definition 2.0 used the following English root definition:
 
 > **Human function is the body's capacity to be appropriately engaged for real-world tasks.**
 
-This wording established the task-centered operational entry point of Version 2.0. It is preserved here for historical accuracy. MUFO Definition 2.1 later clarified that the complete philosophical scope is not limited to real-world tasks and adopted the current authoritative expression:
+This wording established the task-centered operational entry point of Version 2.0. It is preserved for historical accuracy. UOHF Definition 2.1 later clarified that the complete philosophical scope is not limited to real-world tasks and adopted the current authoritative expression:
 
 > **Human function is the body's capacity to be appropriately engaged to meet internal and external demands.**
 
@@ -32,7 +32,7 @@ The compact Chinese philosophical root definition remained:
 
 ## Principal contribution
 
-MUFO Definition 2.0 moved MUFO from the factor-and-score-centered emphasis of V1.0 toward a broader ontology architecture for task-centered human-function reasoning.
+UOHF Definition 2.0 moved UOHF from the factor-and-score-centered emphasis of V1.0 toward a broader ontology architecture for task-centered human-function reasoning.
 
 It established:
 
@@ -43,7 +43,7 @@ It established:
 - explicit safety and professional-scope constraints;
 - four person-level task-centered state classes;
 - a continuous execution, feedback, reassessment, and write-back loop;
-- separation among MUFO, the Individual Human Function Model (IHFM), and the Human Function World Model (HFWM);
+- separation among UOHF, the Individual Human Function Model (IHFM), and the Human Function World Model (HFWM);
 - bidirectional disease–function reasoning;
 - semantic coordination of specialized AI models.
 
@@ -90,13 +90,13 @@ These state classes were not medical diagnoses or permanent labels.
 
 Definition 2.0 separated:
 
-### 1. MUFO
+### 1. UOHF
 
-MUFO defines and governs the human-function domain through objects, relations, constraints, evidence semantics, state rules, safety boundaries, action semantics, feedback semantics, provenance, and versioning.
+UOHF defines and governs the human-function domain through objects, relations, constraints, evidence semantics, state rules, safety boundaries, action semantics, feedback semantics, provenance, and versioning.
 
 ### 2. Individual Human Function Model — IHFM
 
-The IHFM records one person's longitudinal state and history within the semantic coordinates provided by MUFO.
+The IHFM records one person's longitudinal state and history within the semantic coordinates provided by UOHF.
 
 ### 3. Human Function World Model — HFWM
 
@@ -104,7 +104,7 @@ The HFWM adds time, action, transition, and prediction, modeling how a person's 
 
 The development progression was expressed as:
 
-> **MUFO → Individual Human Function Model → Human Function World Model**
+> **UOHF → Individual Human Function Model → Human Function World Model**
 
 ## Disease–function reasoning
 
@@ -131,7 +131,7 @@ Definition 2.1 supersedes the Version 2.0 English root definition and upper-leve
 
 ## Citation
 
-> Che, Lei. *MUFO Definition 2.0: A Unified Ontology for Human Function*. MoveTips Technology (Beijing) Co., Ltd., 2026. DOI: [10.5281/zenodo.21368412](https://doi.org/10.5281/zenodo.21368412).
+> Che, Lei. *UOHF Definition 2.0: Unified Ontology of Human Function*. MoveTips Technology (Beijing) Co., Ltd., 2026. DOI: [10.5281/zenodo.21368412](https://doi.org/10.5281/zenodo.21368412).
 
 ## Copyright and reuse
 

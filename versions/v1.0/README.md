@@ -1,12 +1,12 @@
-# MUFO V1.0 — Historical English Version
+# UOHF V1.0 — Historical English Version
 
 [English](README.md) | [中文](README.zh-CN.md) | [Version archive](../README.md)
 
-> **Historical version notice:** MUFO V1.0 remains part of the formal development history. It is not the current authoritative root definition. For the current framework, see [MUFO Definition 2.1](../../README.md).
+> **Historical version notice:** UOHF V1.0 remains part of the formal development history. It is not the current authoritative root definition. For the current framework, see [UOHF Definition 2.1](../../README.md).
 
 ## Publication metadata
 
-**Title:** *MUFO: A Unified Functional Ontology for Auditable Human Function Inference and Safety-Constrained Decision Support*  
+**Current project title:** *UOHF V1.0: An Auditable Human-Function Inference and Safety-Constrained Decision-Support Framework*  
 **Author:** Lei Che, with the MoveTips Research & Engineering Team  
 **Affiliation:** MoveTips Technology (Beijing) Co., Ltd.  
 **Publication date:** February 6, 2026  
@@ -17,7 +17,7 @@
 
 ## Historical purpose
 
-MUFO V1.0 presented the initial ontology-driven and governance-oriented framework for auditable human-function inference across rehabilitation and movement-training contexts. It addressed functional problems that may exist before or outside a clear disease diagnosis while still producing pain, compensation, reduced performance, unstable tolerance, and elevated risk.
+UOHF V1.0 presented the initial ontology-driven and governance-oriented framework for auditable human-function inference across rehabilitation and movement-training contexts. It addressed functional problems that may exist before or outside a clear disease diagnosis while still producing pain, compensation, reduced performance, unstable tolerance, and elevated risk.
 
 V1.0 emphasized four engineering commitments:
 
@@ -32,7 +32,7 @@ V1.0 used the following operational definition:
 
 > **The capacity to complete a task stably and efficiently under bounded physiological, biomechanical, and cognitive cost within explicit safety constraints.**
 
-This wording belongs to the V1.0 operational framework. It is preserved here for historical accuracy. The current MUFO Definition 2.1 uses the authoritative root definition:
+This wording belongs to the V1.0 operational framework. It is preserved for historical accuracy. The current UOHF Definition 2.1 uses the authoritative root definition:
 
 > **Human function is the body's capacity to be appropriately engaged to meet internal and external demands.**
 
@@ -105,14 +105,14 @@ Safety constraints were treated as hard gates. A reasoning artifact was expected
 ## Relationship to later versions
 
 - **V1.0** established the initial deterministic, task–capacity, safety-gated, and auditable implementation direction.
-- **Definition 2.0** moved from a factor-and-score-centered paper toward a broader task-centered ontology architecture, Functional Engagement, continuous write-back, and the MUFO–IHFM–HFWM separation.
+- **Definition 2.0** moved from a factor-and-score-centered paper toward a broader task-centered ontology architecture, Functional Engagement, continuous write-back, and the UOHF–IHFM–HFWM separation.
 - **Definition 2.1** became the current framework definition, restoring the full internal-and-external-demand scope and clarifying the multiscale ontology and world-model trajectory.
 
-V1.0 remains historically important and may still be useful for bounded task–capacity applications. It should not be treated as the complete present-day MUFO ontology architecture.
+V1.0 remains historically important and may still be useful for bounded task–capacity applications. It should not be treated as the complete present-day UOHF ontology architecture.
 
 ## Citation
 
-> Che, Lei, and the MoveTips Research & Engineering Team. *MUFO: A Unified Functional Ontology for Auditable Human Function Inference and Safety-Constrained Decision Support*. Zenodo, 2026. DOI: [10.5281/zenodo.20711332](https://doi.org/10.5281/zenodo.20711332).
+> Che, Lei, and the MoveTips Research & Engineering Team. *UOHF V1.0: An Auditable Human-Function Inference and Safety-Constrained Decision-Support Framework*. Zenodo, 2026. DOI: [10.5281/zenodo.20711332](https://doi.org/10.5281/zenodo.20711332).
 
 ## Copyright and reuse
 
