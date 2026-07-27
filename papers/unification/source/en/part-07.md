@@ -36,7 +36,7 @@ Disease may damage the biological basis of human function and may also affect en
 
 The absence of a clearly identified disease does not establish that human function is normal. If the required functions do not actually operate under appropriate internal or external demands, a human-function fact remains to be described and verified.
 
-Conversely, a negative investigation does not prove that the problem is necessarily one of engagement. MUFO unifies objects, relations, and judgment boundaries. The specific cause still requires evidence and professional judgment.
+Conversely, a negative investigation does not prove that the problem is necessarily one of engagement. UOHF unifies objects, relations, and judgment boundaries. The specific cause still requires evidence and professional judgment.
 
 ### 11.6 Evidentiary Boundaries of Unified Representation
 
@@ -54,7 +54,7 @@ A shared language does not conceal uncertainty. It enables different professions
 
 ## 12. Shared Language: Common Semantics for the Medicine-Rehabilitation-Exercise Axis and the Supporting Roles of Psychology and Nutrition
 
-Once MUFO has unified the object of human function, it must provide a language that different professions can use together. A shared language does not merge professional aims into one system and does not place all professions as equivalent stages. It enables professions to hand over and connect their work around the same person’s internal and external demands, human functions, engagement facts, evidence, boundaries, states, and change.
+Once UOHF has unified the object of human function, it must provide a language that different professions can use together. A shared language does not merge professional aims into one system and does not place all professions as equivalent stages. It enables professions to hand over and connect their work around the same person’s internal and external demands, human functions, engagement facts, evidence, boundaries, states, and change.
 
 ### 12.1 What the Shared Semantics Unify
 
@@ -82,7 +82,7 @@ The shared semantics can be compressed into one sentence:
 
 ### 12.2 Core Axis of Medicine, Rehabilitation, and Exercise
 
-This paper proposes that, within MUFO’s human-function framework, medicine, rehabilitation, and exercise can be interpreted through the following common axis. The statements describe the primary aim of each field; they are not an externally established professional standard and do not define exclusive scopes of practice.
+This paper proposes that, within UOHF’s human-function framework, medicine, rehabilitation, and exercise can be interpreted through the following common axis. The statements describe the primary aim of each field; they are not an externally established professional standard and do not define exclusive scopes of practice.
 
 > **Medicine primarily addresses functional capacities, their biological basis, and safety boundaries.**
 >
@@ -93,4 +93,3 @@ This paper proposes that, within MUFO’s human-function framework, medicine, re
 The core logic is:
 
 > **functional capacity - restoration of appropriate engagement - maintenance and enhancement of human function and expansion of engagement boundaries.**
-
