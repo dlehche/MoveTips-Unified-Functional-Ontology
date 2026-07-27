@@ -2,7 +2,7 @@
 
 ## 面向人体功能与人体功能世界模型的受治理本体
 
-[English](README.md) · [MUFO Definition 2.1 论文](https://doi.org/10.5281/zenodo.21399269) · [版本档案](versions/README.md) · [引用信息](CITATION.cff)
+[English](README.md) · [MUFO Definition 2.1 论文](https://doi.org/10.5281/zenodo.21399269) · [“统一”中英文论文](papers/unification/README.md) · [版本档案](versions/README.md) · [引用信息](CITATION.cff)
 
 **当前权威框架：** MUFO Definition 2.1  
 **作者：** 车雷（Lei Che）  
@@ -120,6 +120,7 @@ MUFO Definition 2.1 区分四个相互连接的组成部分：
 | 内容 | 用途 |
 |---|---|
 | [MUFO Definition 2.1](https://doi.org/10.5281/zenodo.21399269) | 当前权威框架论文 |
+| [人体功能统一本体中的“统一”](papers/unification/README.md) | 中英文专题论文：统一、人体功能与调用；Zenodo DOI 10.5281/zenodo.21618293 |
 | [中文完整定义](MUFO_DEFINITION_ZH.md) | 详细中文框架定义 |
 | [版本档案](versions/README.md) | V1.0、Definition 2.0 与 Definition 2.1 |
 | [最小任务案例](examples/minimal-task-centered-case.json) | 非规范性结构化案例 |
