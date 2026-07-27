@@ -6,15 +6,15 @@
 
 The complete logic can be stated as follows:
 
-> A person has functional capacities through which the body meets the requirements of life and real living. When internal or external demands arise, the corresponding functions are required to operate. Human functions depend on bodily structures and are realized through bodily processes; several functions may coordinate within the same person. Function describes what capacities the body has. Functional engagement describes whether those capacities actually operate in real situations. Coordination, compensation, boundaries, state, and change further explain how functions operate, what costs arise, how long operation can be maintained, and how function changes over time. MUFO reorganizes these realities, which already belong to the same person, through one coherent semantic system.
+> A person has functional capacities through which the body meets the requirements of life and real living. When internal or external demands arise, the corresponding functions are required to operate. Human functions depend on bodily structures and are realized through bodily processes; several functions may coordinate within the same person. Function describes what capacities the body has. Functional engagement describes whether those capacities actually operate in real situations. Coordination, compensation, boundaries, state, and change further explain how functions operate, what costs arise, how long operation can be maintained, and how function changes over time. UOHF reorganizes these realities, which already belong to the same person, through one coherent semantic system.
 
 The final definition therefore remains:
 
-> **Unification in MUFO means using one coherent semantic system to describe human functions as they exist within an integrated whole person, together with their functional engagement.**
+> **Unification in UOHF means using one coherent semantic system to describe human functions as they exist within an integrated whole person, together with their functional engagement.**
 
 ## 18. Limitations and Future Work
 
-This paper presents an English conceptual account and ontological framework for unification in MUFO. It has several limitations:
+This paper presents an English conceptual account and ontological framework for unification in UOHF. It has several limitations:
 
 1.  The current domain framework of human function has not undergone systematic multidisciplinary expert review and cannot be claimed to exhaust all human functions.
 
@@ -32,7 +32,7 @@ This paper presents an English conceptual account and ontological framework for 
 
 8.  The international comparison is a scoped conceptual comparison, not a systematic review.
 
-9.  Whether MUFO can become a general standard will depend on open governance, machine-readable implementation, cross-professional validation, and long-term testing against data.
+9.  Whether UOHF can become a general standard will depend on open governance, machine-readable implementation, cross-professional validation, and long-term testing against data.
 
 Future work should include:
 
@@ -56,11 +56,11 @@ Future work should include:
 
 A person exists as an integrated whole, yet knowledge of the body has long been organized separately around disease, structure, physiological process, functioning classifications, activity, task, and professional method. Fragmented knowledge does not imply a fragmented person, and professional differences should not deprive human function in the same person of a common representation.
 
-Unification in MUFO is not the mechanical combination of heterogeneous knowledge. It re-establishes a common center: the human functions of the same whole person and their functional engagement. Around this center, MUFO must unify what human functions exist, which functions are required by internal and external demands, the structures and processes through which functions are realized, whether functions actually operate under real demands, and how coordination, compensation, boundaries, state, and change unfold in the same person across continuous time.
+Unification in UOHF is not the mechanical combination of heterogeneous knowledge. It re-establishes a common center: the human functions of the same whole person and their functional engagement. Around this center, UOHF must unify what human functions exist, which functions are required by internal and external demands, the structures and processes through which functions are realized, whether functions actually operate under real demands, and how coordination, compensation, boundaries, state, and change unfold in the same person across continuous time.
 
-Functional engagement belongs within the concept of human function. Function describes what capacities the body has; engagement describes whether those capacities actually operate in real situations. The object of engagement is human function, while bodily structures and processes provide the basis and mode of realization. Within the MUFO framework, medicine can primarily address functional capacities, their biological basis, and safety boundaries; rehabilitation can primarily address the return of functional capacities to real-world tasks and the restoration of appropriate engagement; and exercise can maintain and enhance human function and expand engagement boundaries through sustained, appropriately dosed, and progressive engagement. Psychology and nutrition enter when indicated by the current primary limiting factor and evidence.
+Functional engagement belongs within the concept of human function. Function describes what capacities the body has; engagement describes whether those capacities actually operate in real situations. The object of engagement is human function, while bodily structures and processes provide the basis and mode of realization. Within the UOHF framework, medicine can primarily address functional capacities, their biological basis, and safety boundaries; rehabilitation can primarily address the return of functional capacities to real-world tasks and the restoration of appropriate engagement; and exercise can maintain and enhance human function and expand engagement boundaries through sustained, appropriately dosed, and progressive engagement. Psychology and nutrition enter when indicated by the current primary limiting factor and evidence.
 
-The meaning of unification in MUFO can therefore be reduced to one proposition:
+The meaning of unification in UOHF can therefore be reduced to one proposition:
 
 > **Use one coherent semantic system to describe human functions as they exist within an integrated whole person, together with their functional engagement.**
 
@@ -72,11 +72,11 @@ This paper is a conceptual ontology framework and research proposal. It has not 
 
 ### 20.2 Competing Interests
 
-Lei Che is the founder of MoveTips Technology (Beijing) Co., Ltd. MUFO and related research, software, products, and services may be associated with the company’s research, development, and commercial activities.
+Lei Che is the founder of MoveTips Technology (Beijing) Co., Ltd. UOHF and related research, software, products, and services may be associated with the company’s research, development, and commercial activities.
 
 ### 20.3 Funding
 
-This work was completed internally at MoveTips Technology (Beijing) Co., Ltd. and received no external project-specific funding.
+This work was completed internally at MoveTips Technology (Beijing) Co., Ltd. and received no external project-specific funding.
 
 ### 20.4 Data and Code Availability
 
@@ -85,4 +85,3 @@ This paper reports no newly generated clinical data, experimental data, or perso
 ### 20.5 Ethics Statement
 
 This work is conceptual ontology research and involved no human participants, animal experiments, or personal health data. Ethics approval was therefore not applicable.
-
