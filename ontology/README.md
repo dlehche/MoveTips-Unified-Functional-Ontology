@@ -2,13 +2,13 @@
 
 ## Current status
 
-This public repository currently provides the conceptual framework, governed architecture, version history, citation records, explanatory documents, and non-normative examples for MUFO.
+This public repository currently provides the conceptual framework, governed architecture, version history, citation records, explanatory documents, and non-normative examples for UOHF.
 
-A reviewed, authoritative machine-readable public release of MUFO in OWL, Turtle, RDF, JSON-LD, or SHACL has **not yet been published**. This is deliberate: an unreviewed formal file should not be mistaken for the production ontology, the frozen relation topology, or a validated interoperability release.
+A reviewed, authoritative machine-readable public release of UOHF in OWL, Turtle, RDF, JSON-LD, or SHACL has **not yet been published**. This is deliberate: an unreviewed formal file should not be mistaken for the production ontology, the frozen relation topology, or a validated interoperability release.
 
-本公共仓库目前提供 MUFO 的概念框架、受治理架构、版本历史、引用信息、说明文档和非规范性示例。
+本公共仓库目前提供 UOHF 的概念框架、受治理架构、版本历史、引用信息、说明文档和非规范性示例。
 
-MUFO 尚未发布经过审查、可作为权威版本使用的 OWL、Turtle、RDF、JSON-LD 或 SHACL 机器可读公共本体。这是有意的边界控制：未经审查的形式文件不应被误认为生产本体、已冻结关系拓扑或已经验证的互操作版本。
+UOHF 尚未发布经过审查、可作为权威版本使用的 OWL、Turtle、RDF、JSON-LD 或 SHACL 机器可读公共本体。这是有意的边界控制：未经审查的形式文件不应被误认为生产本体、已冻结关系拓扑或已经验证的互操作版本。
 
 ## Public-release requirements
 
@@ -40,9 +40,9 @@ A future public ontology subset should include, at minimum:
 
 ## What can be inspected now
 
-- [MUFO Definition 2.1](https://doi.org/10.5281/zenodo.21399269)
-- [Unification in the MoveTips Unified Functional Ontology](../papers/unification/README.md)
-- [Detailed Chinese framework definition](../MUFO_DEFINITION_ZH.md)
+- [UOHF Definition 2.1](https://doi.org/10.5281/zenodo.21399269)
+- [Unification in the Unified Ontology of Human Function](../papers/unification/README.md)
+- [Detailed Chinese framework definition](../UOHF_DEFINITION_ZH.md)
 - [Minimal task-centered example](../examples/minimal-task-centered-case.json)
 - [Version archive](../versions/README.md)
 - [Rights and reuse](../RIGHTS_AND_REUSE.md)
@@ -51,4 +51,4 @@ A future public ontology subset should include, at minimum:
 
 Proposals concerning namespace design, competency questions, formal class and relation boundaries, mappings, OWL axioms, SHACL constraints, and validation methods are welcome. See [COLLABORATION.md](../COLLABORATION.md).
 
-Until a versioned public ontology release is explicitly published here, no file in this directory should be treated as a complete or authoritative representation of the production MUFO ontology.
+Until a versioned public ontology release is explicitly published here, no file in this directory should be treated as a complete or authoritative representation of the production UOHF ontology.

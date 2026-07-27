@@ -1,8 +1,8 @@
 # Research and Collaboration / 研究与合作
 
-MUFO is being developed as a governed semantic and rule foundation for representing human function across internal and external demands, whole-person state, evidence, action, feedback, and longitudinal change.
+UOHF is being developed as a governed semantic and rule foundation for representing human function across internal and external demands, whole-person state, evidence, action, feedback, and longitudinal change.
 
-MUFO 正在被建设为一套受治理的语义与规则基础，用于表达内外需求下的人体功能、完整人体状态、证据、行动、反馈和长期变化。
+UOHF 正在被建设为一套受治理的语义与规则基础，用于表达内外需求下的人体功能、完整人体状态、证据、行动、反馈和长期变化。
 
 ## Current collaboration priorities / 当前重点合作方向
 
@@ -48,7 +48,7 @@ External researchers and practitioners can contribute through:
 
 ## Claim boundaries / 主张边界
 
-Collaboration does not imply that MUFO currently has:
+Collaboration does not imply that UOHF currently has:
 
 - completed BFO conformance;
 - completed OWL axiomatization;
@@ -57,7 +57,7 @@ Collaboration does not imply that MUFO currently has:
 - a completed molecular-to-person simulator;
 - authority to diagnose or prescribe treatment autonomously.
 
-参与讨论或合作不表示 MUFO 当前已经：
+参与讨论或合作不表示 UOHF 当前已经：
 
 - 完成 BFO 全面符合；
 - 完成 OWL 公理化；

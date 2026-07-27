@@ -1,8 +1,8 @@
 {
   "$schema": "https://json-schema.org/draft/2020-12/schema",
   "exampleStatus": "non-normative",
-  "mufoVersion": "2.1",
-  "exampleId": "MUFO-EXAMPLE-STAIRS-001",
+  "uohfVersion": "2.1",
+  "exampleId": "UOHF-EXAMPLE-STAIRS-001",
   "title": "Minimal task-centered human-function case",
   "personReference": "de-identified-person-001",
   "time": "2026-07-17T09:00:00+08:00",

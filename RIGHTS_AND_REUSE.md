@@ -12,9 +12,9 @@ The license, attribution requirements, and reuse conditions attached to each can
 
 Current canonical records include:
 
-- **MUFO Definition 2.1: A Unified Ontology for Human Function**  
+- **UOHF Definition 2.1: Unified Ontology of Human Function**  
   DOI: [10.5281/zenodo.21399269](https://doi.org/10.5281/zenodo.21399269)
-- **Unification in the MoveTips Unified Functional Ontology**  
+- **Unification in the Unified Ontology of Human Function**  
   DOI: [10.5281/zenodo.21618293](https://doi.org/10.5281/zenodo.21618293)
 
 If repository text and the corresponding Zenodo record differ on publication-specific licensing, the canonical Zenodo record controls.
@@ -49,7 +49,7 @@ Unless the applicable Zenodo license states otherwise, do not assume that public
 
 Any permitted derivative use should:
 
-1. identify MUFO and the original author;
+1. identify UOHF and the original author;
 2. cite the canonical DOI and source version;
 3. clearly mark all modifications and derivative assertions;
 4. avoid implying endorsement, validation, clinical approval, or institutional partnership;
@@ -57,7 +57,7 @@ Any permitted derivative use should:
 
 任何获准的衍生使用都应：
 
-1. 标明 MUFO 与原作者；
+1. 标明 UOHF 与原作者；
 2. 引用权威 DOI 和源版本；
 3. 明确标记全部修改和衍生主张；
 4. 不得暗示已经获得认可、验证、临床批准或机构合作；
@@ -83,6 +83,6 @@ Files under [`legacy-repositories/`](legacy-repositories/) are preserved for pro
 
 ## 6. Names and marks / 名称与标识
 
-MoveTips, 木梯, MUFO, MoveTips Unified Functional Ontology, and related product or project identifiers may function as names, marks, or source identifiers. No trademark or brand-use permission is granted by repository access alone.
+MoveTips, 木梯, UOHF, Unified Ontology of Human Function, and related product or project identifiers may function as names, marks, or source identifiers. No trademark or brand-use permission is granted by repository access alone.
 
-MoveTips、木梯、MUFO、MoveTips Unified Functional Ontology 及相关产品或项目标识可能构成名称、标识或来源识别。访问本仓库本身不授予品牌或商标使用许可。
+MoveTips、木梯、UOHF、Unified Ontology of Human Function 及相关产品或项目标识可能构成名称、标识或来源识别。访问本仓库本身不授予品牌或商标使用许可。
