@@ -1,0 +1,43 @@
+cff-version: 1.2.0
+message: "If you use this focused MUFO unification paper, please cite the canonical Zenodo publication below."
+title: "Unification in the MoveTips Unified Functional Ontology: A Whole-Person Conceptual Framework Centered on Human Function and Functional Engagement"
+version: "1.0"
+authors:
+  - family-names: "Che"
+    given-names: "Lei"
+    email: "dlehche@gmail.com"
+    affiliation: "MoveTips Technology (Beijing) Co., Ltd."
+date-released: 2026-07-27
+doi: 10.5281/zenodo.21618293
+repository-code: "https://github.com/dlehche/MoveTips-Unified-Functional-Ontology/tree/main/papers/unification"
+url: "https://doi.org/10.5281/zenodo.21618293"
+abstract: >-
+  This focused conceptual paper defines unification in MUFO as using one coherent
+  semantic system to describe human functions as they exist within an integrated
+  whole person, together with their functional engagement under internal and
+  external demands. It clarifies the relations among human function, demand,
+  bodily structure, bodily process, coordination, compensation, boundaries,
+  state, time, and change.
+keywords:
+  - human function
+  - functional engagement
+  - ontology
+  - unification
+  - whole person
+  - internal demand
+  - external demand
+  - MUFO
+preferred-citation:
+  type: report
+  authors:
+    - family-names: "Che"
+      given-names: "Lei"
+      email: "dlehche@gmail.com"
+      affiliation: "MoveTips Technology (Beijing) Co., Ltd."
+  title: "Unification in the MoveTips Unified Functional Ontology: A Whole-Person Conceptual Framework Centered on Human Function and Functional Engagement"
+  year: 2026
+  version: "1.0"
+  institution:
+    name: "MoveTips Technology (Beijing) Co., Ltd."
+  doi: 10.5281/zenodo.21618293
+  url: "https://doi.org/10.5281/zenodo.21618293"
