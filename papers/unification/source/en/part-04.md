@@ -28,7 +28,7 @@ The formal formulation is therefore:
 
 The object of engagement is human function.
 
-Bodily structures and bodily processes are not second objects of engagement parallel to human function. They are the basis and mode through which human functions actually operate. Everyday language may speak of “engaging the muscles,” “engaging the joints,” or “engaging the cardiopulmonary system.” At MUFO’s highest relational level, the more precise statement is that an internal or external demand requires particular human functions to operate, and those functions are realized through muscles, bones, joints, the heart, lungs, nerves, blood vessels, endocrine and immune systems, and relevant bodily processes.
+Bodily structures and bodily processes are not second objects of engagement parallel to human function. They are the basis and mode through which human functions actually operate. Everyday language may speak of “engaging the muscles,” “engaging the joints,” or “engaging the cardiopulmonary system.” At UOHF’s highest relational level, the more precise statement is that an internal or external demand requires particular human functions to operate, and those functions are realized through muscles, bones, joints, the heart, lungs, nerves, blood vessels, endocrine and immune systems, and relevant bodily processes.
 
 This distinction establishes a unified semantics for the question “what is engaged?”
 
@@ -36,7 +36,7 @@ This distinction establishes a unified semantics for the question “what is eng
 
 2.  **An engagement item is not a disease name.** Osteoarthritis, stroke, diabetes, or depressive disorder may explain background, mechanisms, risk, and limitations, but they are not the human functions being engaged.
 
-3.  **An engagement item is not an action, task, or particular life process.** Stair climbing, eating, work, and running are external behaviors or tasks. A particular episode of sleep, tissue repair, or recovery is a life process. Sleep-wake regulation, tissue-repair function, and recovery-regulation function are the corresponding functions that may be engaged. MUFO must answer which human functions are required to meet these demands or complete these tasks.
+3.  **An engagement item is not an action, task, or particular life process.** Stair climbing, eating, work, and running are external behaviors or tasks. A particular episode of sleep, tissue repair, or recovery is a life process. Sleep-wake regulation, tissue-repair function, and recovery-regulation function are the corresponding functions that may be engaged. UOHF must answer which human functions are required to meet these demands or complete these tasks.
 
 4.  **An engagement item is not a technique.** Manual therapy, medication, an exercise movement, a psychological technique, or a nutritional plan belongs to the application layer, not to human function itself.
 
@@ -56,5 +56,4 @@ Medicine may add disease and biological mechanism. Rehabilitation may add real-w
 
 Functional engagement is not the simple addition of components, nor is it the isolated activation of one structure. The engagement relation is realized through the actual operation of the required human functions, under a concrete internal or external demand, through their corresponding structures and processes.
 
-MUFO may unfold this bodily course of realization into seven connected moments:
-
+UOHF may unfold this bodily course of realization into seven connected moments:
