@@ -1,6 +1,10 @@
-# MUFO — MoveTips Unified Functional Ontology
+# A Unified Ontology of Human Function
 
-## A governed ontology for human function and the Human Function World Model
+## MUFO — project name and stable identifier
+
+**A Unified Ontology of Human Function** is the formal English title of the project. **MUFO** is its established project name and stable identifier. MUFO represents this ontology across publications, versions, ontology artifacts, and implementation work.
+
+## A governed semantic and computational ontology for human function and the Human Function World Model
 
 [中文](README.zh-CN.md) · [Definition 2.1 paper](https://doi.org/10.5281/zenodo.21399269) · [Unification paper](papers/unification/README.md) · [Version archive](versions/README.md) · [Citation metadata](CITATION.cff) · [Rights and reuse](RIGHTS_AND_REUSE.md) · [Collaboration](COLLABORATION.md)
 
@@ -27,7 +31,7 @@
 
 ## Latest focused publication
 
-### Unification in the MoveTips Unified Functional Ontology
+### Unification in MUFO
 
 **A Whole-Person Conceptual Framework Centered on Human Function and Functional Engagement**
 
