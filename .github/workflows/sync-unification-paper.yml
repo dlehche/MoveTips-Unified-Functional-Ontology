@@ -18,35 +18,39 @@ jobs:
       - name: Check out repository
         uses: actions/checkout@v4
 
-      - name: Assemble Chinese Markdown
+      - name: Assemble Chinese and English Markdown
         shell: bash
         run: |
           set -euo pipefail
           mkdir -p papers/unification
           cat papers/unification/source/zh/part-*.md > papers/unification/MUFO_Unification_ZH_V1.0.md
+          cat papers/unification/source/en/part-*.md > papers/unification/MUFO_Unification_EN_V1.0.md
 
-      - name: Download English academic PDF from Zenodo
+      - name: Optionally download English academic PDF from Zenodo
         shell: bash
         run: |
           set -euo pipefail
           API_URL='https://zenodo.org/api/records/21618293'
           RECORD_JSON="$(mktemp)"
-          curl --fail --location --retry 5 --retry-delay 3 "$API_URL" -o "$RECORD_JSON"
-          PDF_URL="$(jq -r '.files[] | select(.key | test("\\.pdf$"; "i")) | .links.self' "$RECORD_JSON" | head -n 1)"
-          if [ -z "$PDF_URL" ] || [ "$PDF_URL" = "null" ]; then
-            echo 'No PDF file was found in Zenodo record 21618293.' >&2
-            exit 1
+          if ! curl --fail --location --retry 3 --retry-delay 3 "$API_URL" -o "$RECORD_JSON"; then
+            echo 'Zenodo record is not currently available through the public API; keeping the version-controlled Markdown editions.'
+            exit 0
           fi
-          curl --fail --location --retry 5 --retry-delay 3 "$PDF_URL" -o papers/unification/MUFO_Unification_EN_V1.0.pdf
+          PDF_URL="$(jq -r '.files[]? | select(.key | test("\\.pdf$"; "i")) | .links.self' "$RECORD_JSON" | head -n 1)"
+          if [ -z "$PDF_URL" ] || [ "$PDF_URL" = "null" ]; then
+            echo 'No PDF file is currently exposed by Zenodo record 21618293; keeping the Markdown editions.'
+            exit 0
+          fi
+          curl --fail --location --retry 3 --retry-delay 3 "$PDF_URL" -o papers/unification/MUFO_Unification_EN_V1.0.pdf
 
-      - name: Verify generated files
+      - name: Verify assembled Markdown
         shell: bash
         run: |
           set -euo pipefail
           test -s papers/unification/MUFO_Unification_ZH_V1.0.md
-          test -s papers/unification/MUFO_Unification_EN_V1.0.pdf
+          test -s papers/unification/MUFO_Unification_EN_V1.0.md
           grep -q '10.5281/zenodo.21618293' papers/unification/MUFO_Unification_ZH_V1.0.md
-          file papers/unification/MUFO_Unification_EN_V1.0.pdf | grep -q PDF
+          grep -q '10.5281/zenodo.21618293' papers/unification/MUFO_Unification_EN_V1.0.md
 
       - name: Commit synchronized files
         shell: bash
@@ -54,7 +58,10 @@ jobs:
           set -euo pipefail
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git add papers/unification/MUFO_Unification_ZH_V1.0.md papers/unification/MUFO_Unification_EN_V1.0.pdf
+          git add papers/unification/MUFO_Unification_ZH_V1.0.md papers/unification/MUFO_Unification_EN_V1.0.md
+          if [ -f papers/unification/MUFO_Unification_EN_V1.0.pdf ]; then
+            git add papers/unification/MUFO_Unification_EN_V1.0.pdf
+          fi
           if git diff --cached --quiet; then
             echo 'No generated-file changes.'
             exit 0
