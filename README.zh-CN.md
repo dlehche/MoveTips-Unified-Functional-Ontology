@@ -1,6 +1,10 @@
-# MUFO——人体功能统一本体
+# 人体功能统一本体（MUFO）
 
-## 面向人体功能与人体功能世界模型的受治理本体
+## 正式英文标题：A Unified Ontology of Human Function
+
+**MUFO 是该项目的既定项目名称与稳定标识，代表 A Unified Ontology of Human Function。** MUFO 在论文、版本、本体制品和工程实现中继续保持不变。
+
+## 面向人体功能与人体功能世界模型的受治理语义与计算本体
 
 [English](README.md) · [MUFO Definition 2.1 论文](https://doi.org/10.5281/zenodo.21399269) · [“统一”中英文论文](papers/unification/README.md) · [版本档案](versions/README.md) · [引用信息](CITATION.cff) · [权利与复用](RIGHTS_AND_REUSE.md) · [研究与合作](COLLABORATION.md)
 
