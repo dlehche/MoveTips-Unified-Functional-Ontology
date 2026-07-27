@@ -1,30 +1,30 @@
-Gene Ontology (GO) organizes knowledge concerning molecular function, cellular component, and biological process associated with genes and gene products \[3\]. Human Phenotype Ontology (HPO) provides standardized terms for phenotypic abnormalities associated with human disease \[4\]. GO and HPO can respectively support links from MUFO to microscopic mechanisms and abnormal manifestations, but neither directly substitutes for human function at the whole-person level and its engagement.
+Gene Ontology (GO) organizes knowledge concerning molecular function, cellular component, and biological process associated with genes and gene products \[3\]. Human Phenotype Ontology (HPO) provides standardized terms for phenotypic abnormalities associated with human disease \[4\]. GO and HPO can respectively support links from UOHF to microscopic mechanisms and abnormal manifestations, but neither directly substitutes for human function at the whole-person level and its engagement.
 
 ### 14.4 SNOMED CT
 
-SNOMED CT supports consistent clinical semantic representation through concepts, descriptions, relationships, logical definitions, and concept models \[5\]. MUFO may learn from its concept governance, relation constraints, version management, and machine-readable rules. MUFO’s domain center, however, remains human function at the whole-person level, internal and external demands, and functional engagement.
+SNOMED CT supports consistent clinical semantic representation through concepts, descriptions, relationships, logical definitions, and concept models \[5\]. UOHF may learn from its concept governance, relation constraints, version management, and machine-readable rules. UOHF’s domain center, however, remains human function at the whole-person level, internal and external demands, and functional engagement.
 
 ### 14.5 Basic Formal Ontology and Relation Ontology
 
-Basic Formal Ontology (BFO) provides upper-level categories for scientific information integration \[6\], while Relation Ontology (RO) provides standardized relations across biomedical ontologies \[7\]. MUFO may reuse mature upper-level categories and general relations, but domain relations such as demand-human function-engagement must be defined within the human-function ontology and subjected to logical audit.
+Basic Formal Ontology (BFO) provides upper-level categories for scientific information integration \[6\], while Relation Ontology (RO) provides standardized relations across biomedical ontologies \[7\]. UOHF may reuse mature upper-level categories and general relations, but domain relations such as demand-human function-engagement must be defined within the human-function ontology and subjected to logical audit.
 
 ### 14.6 International Classification of Health Interventions
 
-The International Classification of Health Interventions (ICHI) supports the recording, reporting, and analysis of health interventions and organizes interventions through the axes of Target, Action, and Means \[8\]. It demonstrates that intervention targets, actions, and means can be modeled independently. MUFO may relate to ICHI, but treatment, rehabilitation, and exercise methods must not be inserted into the core ontology of human function.
+The International Classification of Health Interventions (ICHI) supports the recording, reporting, and analysis of health interventions and organizes interventions through the axes of Target, Action, and Means \[8\]. It demonstrates that intervention targets, actions, and means can be modeled independently. UOHF may relate to ICHI, but treatment, rehabilitation, and exercise methods must not be inserted into the core ontology of human function.
 
 ### 14.7 Comparative Conclusion
 
 Existing systems provide, among other things, classifications of functioning and disability, whole-person physiological integration, molecular functions and biological processes, abnormal phenotypes, clinical terminology, upper ontological categories, standardized relations, and intervention classification.
 
-MUFO’s proposed contribution is to organize this knowledge around the human functions of the same whole person and their functional engagement so that the following questions can be answered within one framework:
+UOHF’s proposed contribution is to organize this knowledge around the human functions of the same whole person and their functional engagement so that the following questions can be answered within one framework:
 
 > What human functions does the body have? Which functions are required by which internal and external demands? Through which bodily structures and processes are those functions realized? Do those functions actually operate when required? How do these facts change in the same person across continuous time?
 
-## 15. What MUFO Does Not Unify
+## 15. What UOHF Does Not Unify
 
-Defining what MUFO does not unify is as important as defining what it does.
+Defining what UOHF does not unify is as important as defining what it does.
 
-MUFO does not:
+UOHF does not:
 
 1.  merge distinct disciplines into one discipline;
 
@@ -40,7 +40,7 @@ MUFO does not:
 
 7.  conflate the epistemic and application layers with the reality of human function itself.
 
-MUFO unifies the whole-person human-function objects and relations to which professional knowledge refers. It does not turn different professions into the same work.
+UOHF unifies the whole-person human-function objects and relations to which professional knowledge refers. It does not turn different professions into the same work.
 
 ## 16. Core Propositions
 
@@ -48,7 +48,7 @@ This paper advances the following propositions:
 
 1.  A person exists as an integrated living whole, and human functions are not divided by disciplinary classification.
 
-2.  Unification in MUFO means using one coherent semantic system to describe human functions as they exist within an integrated whole person, together with their functional engagement.
+2.  Unification in UOHF means using one coherent semantic system to describe human functions as they exist within an integrated whole person, together with their functional engagement.
 
 3.  Human function is the body’s capacity to be appropriately engaged to meet internal and external demands.
 
@@ -80,13 +80,13 @@ This paper advances the following propositions:
 
 17. The same person, specified conditions, and continuous time are necessary for genuine unification of human-function facts.
 
-18. Within MUFO, functional capacity - restoration of appropriate engagement - maintenance and enhancement of human function and expansion of engagement boundaries can serve as a common interpretive axis for medicine, rehabilitation, and exercise; psychology and nutrition are incorporated when indicated by the current primary limiting factor, evidence, and professional scope.
+18. Within UOHF, functional capacity - restoration of appropriate engagement - maintenance and enhancement of human function and expansion of engagement boundaries can serve as a common interpretive axis for medicine, rehabilitation, and exercise; psychology and nutrition are incorporated when indicated by the current primary limiting factor, evidence, and professional scope.
 
-19. Assessment, diagnosis, and solutions may be linked to MUFO but do not belong to the core ontology of human function itself.
+19. Assessment, diagnosis, and solutions may be linked to UOHF but do not belong to the core ontology of human function itself.
 
 ## 17. Final Meaning of “Unification”
 
-MUFO does not unify disciplines, all professional techniques, or every way of working.
+UOHF does not unify disciplines, all professional techniques, or every way of working.
 
 It unifies the human functions of the same whole person and their functional engagement by:
 
@@ -97,4 +97,3 @@ It unifies the human functions of the same whole person and their functional eng
 3.  unifying the realization relations between human function, bodily structure, and bodily process;
 
 4.  unifying the engagement relation through which human functions do or do not actually operate in real situations;
-
