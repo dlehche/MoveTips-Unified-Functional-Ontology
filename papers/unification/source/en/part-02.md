@@ -2,13 +2,13 @@ The **epistemic layer** describes how these facts are accessed and judged: quest
 
 The **application layer** describes actions intended to alter reality: medical treatment, rehabilitation, exercise, environmental modification, assistive technology, and other interventions.
 
-The MUFO core ontology primarily describes the reality layer. The epistemic and application layers may be related to it, but an assessment instrument, treatment technique, or exercise plan must not be allowed to define human function itself.
+The UOHF core ontology primarily describes the reality layer. The epistemic and application layers may be related to it, but an assessment instrument, treatment technique, or exercise plan must not be allowed to define human function itself.
 
-## 4. Core Definition of “Unification” in MUFO
+## 4. Core Definition of “Unification” in UOHF
 
 ### 4.1 Definition
 
-> **Unification in MUFO means using one coherent semantic system to describe human functions as they exist within an integrated whole person, together with their functional engagement.**
+> **Unification in UOHF means using one coherent semantic system to describe human functions as they exist within an integrated whole person, together with their functional engagement.**
 
 This is the central proposition of the paper.
 
@@ -34,31 +34,31 @@ Genuine unification must answer:
 
 ### 4.3 Unification Is Not the Design of the Body
 
-MUFO does not prescribe an ideal operating procedure for the body. Human functions, internal and external demands, engagement, coordination, compensation, and change already occur in real persons. MUFO identifies these realities, gives them stable definitions, and establishes relations that both humans and machines can understand.
+UOHF does not prescribe an ideal operating procedure for the body. Human functions, internal and external demands, engagement, coordination, compensation, and change already occur in real persons. UOHF identifies these realities, gives them stable definitions, and establishes relations that both humans and machines can understand.
 
 The essence of unification is therefore **the semantic re-articulation of reality**, not **the manufacture of reality**.
 
 ### 4.4 Unification Does Not Eliminate Professional Differences
 
-Medicine, rehabilitation, exercise science, physiology, nursing, occupational therapy, speech and language therapy, and other fields retain different aims, methods, evidentiary standards, and scopes of practice. MUFO neither replaces those bodies of knowledge nor requires all professions to use identical methods.
+Medicine, rehabilitation, exercise science, physiology, nursing, occupational therapy, speech and language therapy, and other fields retain different aims, methods, evidentiary standards, and scopes of practice. UOHF neither replaces those bodies of knowledge nor requires all professions to use identical methods.
 
-MUFO requires that when different professions discuss the same individual, they can explicitly refer to the same human function, the same demand, and the same engagement fact. Methods may differ, but the human-function object to which they refer must be mutually identifiable and connectable.
+UOHF requires that when different professions discuss the same individual, they can explicitly refer to the same human function, the same demand, and the same engagement fact. Methods may differ, but the human-function object to which they refer must be mutually identifiable and connectable.
 
 ### 4.5 Center and Scope of Unification
 
-The center of MUFO’s unification is:
+The center of UOHF’s unification is:
 
 > **the functions of the whole person and their functional engagement.**
 
 Demand, bodily structure, bodily process, coordination, compensation, boundaries, state, time, and change do not compete with human function for conceptual centrality. They are the conditions, mechanisms, and relations required to describe human function and functional engagement completely.
 
-MUFO is therefore not a flat terminology list. It is a relation network organized around human function in the whole person.
+UOHF is therefore not a flat terminology list. It is a relation network organized around human function in the whole person.
 
 ## 5. First Domain of Unification: What Human Functions Exist?
 
 ### 5.1 Root Definition of Human Function
 
-MUFO adopts the following root definition:
+UOHF adopts the following root definition:
 
 > **Human function is the body’s capacity to be appropriately engaged to meet internal and external demands.**
 
@@ -66,7 +66,7 @@ The term **human function** is not synonymous with the local biological function
 
 The word **appropriately** conveys that functions operate in a manner suited to the current demand, the person’s conditions, and relevant safety boundaries. It does not establish a separate ontology of “normal” and “abnormal” engagement. Functional engagement itself still answers only whether the required functions actually operate in the real situation. Cost, boundaries, and the person’s overall condition are expressed through subsequent state semantics.
 
-Functions at molecular, cellular, tissue, organ, and organ-system levels are realization mechanisms, enabling conditions, or limiting factors of human function at the whole-person level. MUFO must cover and connect these scales, but it must not collapse local biological functions and human function at the whole-person level into the same ontological category.
+Functions at molecular, cellular, tissue, organ, and organ-system levels are realization mechanisms, enabling conditions, or limiting factors of human function at the whole-person level. UOHF must cover and connect these scales, but it must not collapse local biological functions and human function at the whole-person level into the same ontological category.
 
 ### 5.2 Human Function Cannot Be Reduced to Movement or Everyday Tasks
 
@@ -78,7 +78,7 @@ Human function therefore cannot be understood solely through walking, stair clim
 
 The following is a domain-level framework of human function, not a final set of formal ontology classes. Formal modeling must still distinguish, item by item, among functional capacities, bodily processes, states, manifestations, and demands. Ordinary language often uses the same word for different ontological categories, and this ambiguity must not be imported into the ontology.
 
-Within the current scope of MUFO, human function must cover at least the following overlapping domains of capacity:
+Within the current scope of UOHF, human function must cover at least the following overlapping domains of capacity:
 
 1.  capacities for sustaining life and regulating the internal environment;
 
@@ -105,4 +105,3 @@ Within the current scope of MUFO, human function must cover at least the followi
 12. capacities for learning and adaptation, tissue repair, recovery regulation, fatigue regulation, and sleep-wake regulation;
 
 13. capacities for whole-body coordination and adaptation under complex environments, sustained load, and multiple simultaneous demands.
-
