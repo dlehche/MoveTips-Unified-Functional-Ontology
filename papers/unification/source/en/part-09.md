@@ -10,11 +10,11 @@
 
 Within the interpretive framework proposed here, medicine, rehabilitation, and exercise form a core professional axis around human function. Psychology and nutrition enter when they become the current primary limitation or a necessary enabling condition. These responsibilities belong to professional work in the epistemic and application layers; they are not themselves the core ontology of human function.
 
-The MUFO core ontology describes what human functions exist, which functions are required by internal and external demands, the structures and processes through which those functions are realized, whether they are engaged, and their coordination, compensation, boundaries, states, time, and change. Professions use assessment, diagnosis, treatment, rehabilitation, exercise, psychological intervention, and nutritional support to change these realities. Professional action must not be allowed to define the human-function object in reverse.
+The UOHF core ontology describes what human functions exist, which functions are required by internal and external demands, the structures and processes through which those functions are realized, whether they are engaged, and their coordination, compensation, boundaries, states, time, and change. Professions use assessment, diagnosis, treatment, rehabilitation, exercise, psychological intervention, and nutritional support to change these realities. Professional action must not be allowed to define the human-function object in reverse.
 
-## 13. Minimum Formal Framework for MUFO
+## 13. Minimum Formal Framework for UOHF
 
-To move unification from a philosophical proposition to a machine-readable ontology, MUFO must represent at least the following core objects, relations, and descriptive dimensions. Whether each item should ultimately be modeled as a continuant, process, relation, quality, disposition, or information entity must be determined through upper-ontology mapping and logical testing. This paper does not prematurely force all items into one ontological category.
+To move unification from a philosophical proposition to a machine-readable ontology, UOHF must represent at least the following core objects, relations, and descriptive dimensions. Whether each item should ultimately be modeled as a continuant, process, relation, quality, disposition, or information entity must be determined through upper-ontology mapping and logical testing. This paper does not prematurely force all items into one ontological category.
 
 In formal modeling, **functional engagement** should be represented as a contextualized engagement assertion linking one specified demand to one specified required human function for a particular person, under specified conditions and at a specified time. The assertion explicitly records whether evidence supports actual operation of that function; a negative engagement fact must not be inferred from a missing assertion. Bodily structures and bodily processes explain how actual operation is realized. By contrast, the statement that a type of demand requires a type of human function is a more stable domain relation between demand and function. Keeping these distinctions prevents demand-function requirements, engagement facts, and realization processes from being conflated.
 
@@ -48,7 +48,7 @@ The minimum framework includes:
 
 - change.
 
-At minimum, MUFO must express the following relations:
+At minimum, UOHF must express the following relations:
 
 1.  a human function belongs to a person;
 
@@ -94,17 +94,16 @@ The framework must still be translated into formal class definitions, relation c
 
 ## 14. Relationship to Existing Systems
 
-MUFO’s value should not be established by dismissing existing systems. Those systems already provide important foundations within their respective scopes.
+UOHF’s value should not be established by dismissing existing systems. Those systems already provide important foundations within their respective scopes.
 
 ### 14.1 International Classification of Functioning, Disability and Health
 
-The International Classification of Functioning, Disability and Health (ICF) is the World Health Organization’s international classification and terminology framework for describing functioning, disability, and health in context, including environmental factors \[1\]. MUFO should map to ICF but should not attempt to rewrite ICF as MUFO. MUFO further organizes human function at the whole-person level, internal and external demands, realization through structures and processes, and functional engagement within one cross-scale semantic framework centered on the same person.
+The International Classification of Functioning, Disability and Health (ICF) is the World Health Organization’s international classification and terminology framework for describing functioning, disability, and health in context, including environmental factors \[1\]. UOHF should map to ICF but should not attempt to rewrite ICF as UOHF. UOHF further organizes human function at the whole-person level, internal and external demands, realization through structures and processes, and functional engagement within one cross-scale semantic framework centered on the same person.
 
 ### 14.2 Whole Person Physiome
 
-The Whole Person Physiome Program (WPP) aims to digitally integrate multiorgan, multiscale physiological processes and interactions across the whole person \[2\]. The molecular, cellular, tissue, organ, organ-system, physiological-process, and cross-organ content targeted by WPP is directly relevant to the realization mechanisms of human function at the whole-person level in MUFO.
+The Whole Person Physiome Program (WPP) aims to digitally integrate multiorgan, multiscale physiological processes and interactions across the whole person \[2\]. The molecular, cellular, tissue, organ, organ-system, physiological-process, and cross-organ content targeted by WPP is directly relevant to the realization mechanisms of human function at the whole-person level in UOHF.
 
-MUFO should neither reduce WPP to a “middle physiological layer” nor divide the ultimate scopes of the two programs into mutually exclusive territories. MUFO’s unifying line is to connect multiscale mechanisms to human functions at the whole-person level, internal and external demands, and functional engagement.
+UOHF should neither reduce WPP to a “middle physiological layer” nor divide the ultimate scopes of the two programs into mutually exclusive territories. UOHF’s unifying line is to connect multiscale mechanisms to human functions at the whole-person level, internal and external demands, and functional engagement.
 
 ### 14.3 Gene Ontology and Human Phenotype Ontology
-
