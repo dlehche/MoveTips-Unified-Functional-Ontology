@@ -1,0 +1,63 @@
+name: Assemble and sync unification paper
+
+on:
+  push:
+    paths:
+      - 'papers/unification/source/**'
+      - 'papers/unification/README.md'
+      - '.github/workflows/sync-unification-paper.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  assemble-and-sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Assemble Chinese Markdown
+        shell: bash
+        run: |
+          set -euo pipefail
+          mkdir -p papers/unification
+          cat papers/unification/source/zh/part-*.md > papers/unification/MUFO_Unification_ZH_V1.0.md
+
+      - name: Download English academic PDF from Zenodo
+        shell: bash
+        run: |
+          set -euo pipefail
+          API_URL='https://zenodo.org/api/records/21618293'
+          RECORD_JSON="$(mktemp)"
+          curl --fail --location --retry 5 --retry-delay 3 "$API_URL" -o "$RECORD_JSON"
+          PDF_URL="$(jq -r '.files[] | select(.key | test("\\.pdf$"; "i")) | .links.self' "$RECORD_JSON" | head -n 1)"
+          if [ -z "$PDF_URL" ] || [ "$PDF_URL" = "null" ]; then
+            echo 'No PDF file was found in Zenodo record 21618293.' >&2
+            exit 1
+          fi
+          curl --fail --location --retry 5 --retry-delay 3 "$PDF_URL" -o papers/unification/MUFO_Unification_EN_V1.0.pdf
+
+      - name: Verify generated files
+        shell: bash
+        run: |
+          set -euo pipefail
+          test -s papers/unification/MUFO_Unification_ZH_V1.0.md
+          test -s papers/unification/MUFO_Unification_EN_V1.0.pdf
+          grep -q '10.5281/zenodo.21618293' papers/unification/MUFO_Unification_ZH_V1.0.md
+          file papers/unification/MUFO_Unification_EN_V1.0.pdf | grep -q PDF
+
+      - name: Commit synchronized files
+        shell: bash
+        run: |
+          set -euo pipefail
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add papers/unification/MUFO_Unification_ZH_V1.0.md papers/unification/MUFO_Unification_EN_V1.0.pdf
+          if git diff --cached --quiet; then
+            echo 'No generated-file changes.'
+            exit 0
+          fi
+          git commit -m 'Assemble bilingual unification paper files'
+          git push
