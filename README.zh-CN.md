@@ -1,14 +1,11 @@
-# 人体功能统一本体（MUFO）
+# 人体功能统一本体（UOHF）
 
-## 正式英文标题：A Unified Ontology of Human Function
+## 正式英文名称：Unified Ontology of Human Function
 
-**MUFO 是该项目的既定项目名称与稳定标识，代表 A Unified Ontology of Human Function。** MUFO 在论文、版本、本体制品和工程实现中继续保持不变。
+[English](README.md) · [UOHF Definition 2.1 论文](https://doi.org/10.5281/zenodo.21399269) · [“统一”中英文论文](papers/unification/README.md) · [版本档案](versions/README.md) · [引用信息](CITATION.cff) · [权利与复用](RIGHTS_AND_REUSE.md) · [研究与合作](COLLABORATION.md)
 
-## 面向人体功能与人体功能世界模型的受治理语义与计算本体
-
-[English](README.md) · [MUFO Definition 2.1 论文](https://doi.org/10.5281/zenodo.21399269) · [“统一”中英文论文](papers/unification/README.md) · [版本档案](versions/README.md) · [引用信息](CITATION.cff) · [权利与复用](RIGHTS_AND_REUSE.md) · [研究与合作](COLLABORATION.md)
-
-**当前权威框架：** MUFO Definition 2.1  
+**正式简称：** UOHF  
+**当前权威框架：** UOHF Definition 2.1  
 **作者：** 车雷（Lei Che）  
 **机构：** 木梯科技（北京）有限公司  
 **联系邮箱：** dlehche@gmail.com  
@@ -36,23 +33,22 @@
 
 **——以人体功能及其调用为核心的完整人体概念框架**
 
-这篇 V1.0 专题论文集中解释：MUFO 到底统一什么，为什么调用属于人体功能概念内部，以及功能、需求、身体结构、身体过程、协作、代偿、边界、状态、时间和变化如何重新回到同一个完整人体中表达。
+这篇 V1.0 专题论文集中解释：UOHF 到底统一什么，为什么调用属于人体功能概念内部，以及功能、需求、身体结构、身体过程、协作、代偿、边界、状态、时间和变化如何重新回到同一个完整人体中表达。
 
-- **[阅读中文全文](papers/unification/MUFO_Unification_ZH_V1.0.md)**
-- **[阅读英文全文](papers/unification/MUFO_Unification_EN_V1.0.md)**
-- **[下载英文学术 PDF](papers/unification/MUFO_Unification_EN_V1.0.pdf)**
+- **[阅读中文全文](papers/unification/UOHF_Unification_ZH_V1.0.md)**
+- **[阅读英文全文](papers/unification/UOHF_Unification_EN_V1.0.md)**
 - [Zenodo 权威出版记录：10.5281/zenodo.21618293](https://doi.org/10.5281/zenodo.21618293)
 - [论文概览与引用信息](papers/unification/README.md)
 
-> **MUFO中的统一，是把人体本来作为一个整体存在的功能及其调用，用同一套语义描述出来。**
+> **UOHF 中的统一，是把人体本来作为一个整体存在的功能及其调用，用同一套语义描述出来。**
 
 ---
 
-## MUFO 解决什么问题
+## UOHF 解决什么问题
 
 医学、生理学、康复、运动训练、行为、环境和个人健康记录都在描述同一个人，但这些系统并不会自动形成一个共同、持续、可计算的人体功能对象。
 
-MUFO 把**人体功能**确立为这一共同对象，并建立受治理的语义与规则基础，用于持续回答：
+UOHF 把**人体功能**确立为这一共同对象，并建立受治理的语义与规则基础，用于持续回答：
 
 - 当前存在什么内部需求或外部需求；
 - 身体必须组织什么才能满足需求；
@@ -64,15 +60,15 @@ MUFO 把**人体功能**确立为这一共同对象，并建立受治理的语�
 - 允许采取什么行动；
 - 时间、暴露、调节或行动以后实际发生了什么变化。
 
-MUFO 的目标不是替代任何专业，而是让跨专业人体功能判断变得：
+UOHF 的目标不是替代任何专业，而是让跨专业人体功能判断变得：
 
 > **可计算、可约束、可追溯、可审计、可修正、可持续更新。**
 
 ---
 
-## MUFO 与普通知识图谱有什么不同
+## UOHF 与普通知识图谱有什么不同
 
-MUFO 不是术语表、普通知识图谱、医学诊断系统或黑箱推荐模型。
+UOHF 不是术语表、普通知识图谱、医学诊断系统或黑箱推荐模型。
 
 它明确区分：
 
@@ -87,7 +83,7 @@ MUFO 不是术语表、普通知识图谱、医学诊断系统或黑箱推荐模
 - 内源性调节与受治理的外部行动；
 - 实际变化与反馈信息。
 
-现实对象、证据、推断和信息表示必须分开，这是 MUFO 支持可审计 AI 和高风险决策治理的基础。
+现实对象、证据、推断和信息表示必须分开，这是 UOHF 支持可审计 AI 和高风险决策治理的基础。
 
 ---
 
@@ -109,9 +105,9 @@ flowchart LR
     R --> SI
 ```
 
-MUFO Definition 2.1 区分四个相互连接的组成部分：
+UOHF Definition 2.1 区分四个相互连接的组成部分：
 
-1. **MUFO**：受治理的本体与语义规则层；
+1. **UOHF**：受治理的本体与语义规则层；
 2. **人体功能引擎**：受边界约束的运行推断与回写层；
 3. **个人人体功能模型（IHFM）**：一个人的长期状态记忆；
 4. **人体功能世界模型（HFWM）**：时间与行动条件下的状态迁移建模层。
@@ -141,11 +137,10 @@ MUFO Definition 2.1 区分四个相互连接的组成部分：
 
 | 内容 | 用途 |
 |---|---|
-| [MUFO Definition 2.1](https://doi.org/10.5281/zenodo.21399269) | 当前权威总体框架论文 |
-| [“统一”论文——中文全文](papers/unification/MUFO_Unification_ZH_V1.0.md) | 中文概念预印本全文 |
-| [“统一”论文——英文全文](papers/unification/MUFO_Unification_EN_V1.0.md) | 英文学术全文 |
-| [“统一”论文——英文PDF](papers/unification/MUFO_Unification_EN_V1.0.pdf) | 可直接下载的英文学术PDF |
-| [中文完整定义](MUFO_DEFINITION_ZH.md) | 详细中文框架定义 |
+| [UOHF Definition 2.1](https://doi.org/10.5281/zenodo.21399269) | 当前权威总体框架论文 |
+| [“统一”论文——中文全文](papers/unification/UOHF_Unification_ZH_V1.0.md) | 中文概念预印本全文 |
+| [“统一”论文——英文全文](papers/unification/UOHF_Unification_EN_V1.0.md) | 英文学术全文 |
+| [中文完整定义](UOHF_DEFINITION_ZH.md) | 详细中文框架定义 |
 | [公共机器可读本体状态](ontology/README.md) | 当前公开边界及未来正式发布要求 |
 | [版本档案](versions/README.md) | V1.0、Definition 2.0 与 Definition 2.1 |
 | [最小任务案例](examples/minimal-task-centered-case.json) | 非规范性结构化案例 |
@@ -157,9 +152,9 @@ MUFO Definition 2.1 区分四个相互连接的组成部分：
 
 ## 版本关系
 
-- **MUFO V1.0**：早期本体驱动、安全约束、可审计的人体功能推理框架；提出八项决策因素、任务—能力匹配和早期 MVSS。
-- **MUFO Definition 2.0**：建立任务中心的 Functional Engagement 架构、语义状态—行动主轴、观察—推断分离、持续回写，以及 MUFO、IHFM、HFWM 分层。
-- **MUFO Definition 2.1**：当前权威框架；恢复内部与外部需求的完整范围，区分任务与任务需求，泛化 Functional Engagement，并明确多尺度发展路径。
+- **UOHF V1.0**：早期本体驱动、安全约束、可审计的人体功能推理框架；提出八项决策因素、任务—能力匹配和早期 MVSS。
+- **UOHF Definition 2.0**：建立任务中心的 Functional Engagement 架构、语义状态—行动主轴、观察—推断分离、持续回写，以及 UOHF、IHFM、HFWM 分层。
+- **UOHF Definition 2.1**：当前权威框架；恢复内部与外部需求的完整范围，区分任务与任务需求，泛化 Functional Engagement，并明确多尺度发展路径。
 
 历史版本不删除、不撤回，均保留独立 DOI，可在[版本档案](versions/README.md)中查看。
 
@@ -171,7 +166,7 @@ MUFO Definition 2.1 区分四个相互连接的组成部分：
 
 完整生产本体、关系拓扑、运行规则和业务数据资产不会全部公开复制到本仓库。
 
-MUFO Definition 2.1 当前不宣称：
+UOHF Definition 2.1 当前不宣称：
 
 - 已完成 BFO 全面符合；
 - 已完成 OWL 公理化；
@@ -183,21 +178,11 @@ MUFO Definition 2.1 当前不宣称：
 
 内部需求运行化和多尺度建模仍属于持续研究、形式化与验证工作。
 
-未来经过审查的 OWL、Turtle、RDF、JSON-LD 或 SHACL 公共子集，其当前状态和正式发布门槛见 [`ontology/README.md`](ontology/README.md)。本仓库不会把未经审查的形式文件冒充为权威生产本体。
-
 ---
 
 ## 研究与合作
 
-当前重点合作方向包括：
-
-- 本体工程与知识表示；
-- 全人和多尺度生理建模；
-- 康复、运动科学与人体表现；
-- 长期健康状态建模；
-- 可审计、安全约束的健康 AI；
-- 不同专业模型之间的语义互操作；
-- 任务、评估、行动、反馈和复评系统。
+当前重点合作方向包括本体工程与知识表示、完整人体和多尺度生理建模、康复与运动科学、长期健康状态建模、可审计健康 AI、不同专业模型之间的语义互操作，以及任务、评估、行动、反馈和复评系统。
 
 参与方式、当前合作重点和主张边界见 [`COLLABORATION.md`](COLLABORATION.md)。
 
@@ -207,7 +192,7 @@ MUFO Definition 2.1 当前不宣称：
 
 ## 引用
 
-> Che, Lei. *MUFO Definition 2.1: A Unified Ontology for Human Function*. MoveTips Technology (Beijing) Co., Ltd., 2026. DOI: [10.5281/zenodo.21399269](https://doi.org/10.5281/zenodo.21399269).
+> Che, Lei. *UOHF Definition 2.1: Unified Ontology of Human Function*. MoveTips Technology (Beijing) Co., Ltd., 2026. DOI: [10.5281/zenodo.21399269](https://doi.org/10.5281/zenodo.21399269).
 
 仓库总体引用信息维护在 [`CITATION.cff`](CITATION.cff)；“统一”专题论文的独立引用信息维护在 [`papers/unification/CITATION.cff`](papers/unification/CITATION.cff)。
 
