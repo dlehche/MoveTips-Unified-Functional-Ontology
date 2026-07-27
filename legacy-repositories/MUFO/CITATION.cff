@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+title: MUFO: MoveTips Unified Functional Ontology
+message: If you use this project, please cite it as below.
+type: software
+authors:
+  - family-names: Che
+    given-names: Lei
+affiliation: Movetips Technology (Beijing) Co., Ltd.
+date-released: 2026
+url: https://github.com/dlehche/MUFO
