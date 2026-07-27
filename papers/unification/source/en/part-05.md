@@ -14,11 +14,11 @@
 
 These moments do not imply that every real situation follows one rigid temporal sequence, nor that all microscopic mechanisms must be visible before engagement can be judged. They provide a unified process semantics through which different professions can add the structures, processes, and evidence available to them while still describing the same engagement fact.
 
-In practice, the bodily realization of engagement is often not directly or completely observable. MUFO therefore permits evidence to be built progressively from performance under a demand, bodily responses, objective measurements, post-demand changes, and time series. When evidence is limited, the only legitimate judgment is whether current evidence supports the statement that the required functions actually operated. If it does not, uncertainty must be retained; insufficient evidence must not be rewritten as proof that the engagement relation did not hold. As evidence increases, the engagement fact can be linked downward to specific structures, processes, coordination relations, and conditions. This prevents engagement from becoming an unusable black box while also preventing unsupported invention of internal bodily processes.
+In practice, the bodily realization of engagement is often not directly or completely observable. UOHF therefore permits evidence to be built progressively from performance under a demand, bodily responses, objective measurements, post-demand changes, and time series. When evidence is limited, the only legitimate judgment is whether current evidence supports the statement that the required functions actually operated. If it does not, uncertainty must be retained; insufficient evidence must not be rewritten as proof that the engagement relation did not hold. As evidence increases, the engagement fact can be linked downward to specific structures, processes, coordination relations, and conditions. This prevents engagement from becoming an unusable black box while also preventing unsupported invention of internal bodily processes.
 
 ## 9. Fifth Domain of Unification: Coordination, Compensation, Boundaries, State, Time, and Change
 
-Human functions and their engagement are neither isolated terms nor one-time static outcomes. MUFO can describe real human beings only by unifying coordination, compensation, boundaries, state, time, and change in the same person. **Cost**, although not named separately in the title of this section, runs through compensation, boundaries, and state. It is essential to understanding how human function is maintained, constrained, and changed.
+Human functions and their engagement are neither isolated terms nor one-time static outcomes. UOHF can describe real human beings only by unifying coordination, compensation, boundaries, state, time, and change in the same person. **Cost**, although not named separately in the title of this section, runs through compensation, boundaries, and state. It is essential to understanding how human function is maintained, constrained, and changed.
 
 ### 9.1 Coordination: Human Function Is Not the Sum of Local Capacities
 
@@ -36,7 +36,7 @@ An internal or external demand usually requires several human functions to opera
 
 - how change in one function affects others.
 
-The actual operation of human function is therefore organized as a coordination network around a concrete internal or external demand, rather than as a set of isolated points. A normal local structure does not guarantee that whole-person coordination is present. A change in one local structure does not necessarily eliminate all human function at the whole-person level. MUFO must represent not merely the quantity of isolated local facts, but how those facts form the person’s current functional organization.
+The actual operation of human function is therefore organized as a coordination network around a concrete internal or external demand, rather than as a set of isolated points. A normal local structure does not guarantee that whole-person coordination is present. A change in one local structure does not necessarily eliminate all human function at the whole-person level. UOHF must represent not merely the quantity of isolated local facts, but how those facts form the person’s current functional organization.
 
 ### 9.2 Compensation: Reorganization of Function Under Constraint
 
@@ -46,11 +46,10 @@ Compensation has a dual significance.
 
 On one hand, it is an expression of adaptability. It may protect a constrained region, preserve essential activities of life, create time for recovery, and enable necessary action before conditions have been fully restored. On the other hand, compensation may increase pain, fatigue, tension, energy expenditure, load transfer, recovery time, or risk. When compensation persists, a pattern that initially maintained function temporarily may further alter functional boundaries and the person’s overall state.
 
-Compensation must therefore not be treated simply as error, nor should every alternative strategy be immediately corrected. MUFO must record why compensation occurred, which functions or structures increased or decreased their contribution, what practical benefit compensation provided, and what costs and long-term changes it produced.
+Compensation must therefore not be treated simply as error, nor should every alternative strategy be immediately corrected. UOHF must record why compensation occurred, which functions or structures increased or decreased their contribution, what practical benefit compensation provided, and what costs and long-term changes it produced.
 
 ### 9.3 Boundaries: The Conditions and Extent Within Which Function Can Operate
 
 The existence of a human function does not mean that it can operate without limit under any load, duration, or environment. A boundary describes the range within which, under specified internal or external demands, load, environment, time, and recovery conditions, a function can continue to operate, and the conditions beyond which it can no longer operate in the same way.
 
 At least two interconnected aspects must be distinguished:
-
