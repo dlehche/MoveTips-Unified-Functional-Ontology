@@ -1,8 +1,8 @@
-Self-care, learning tasks, work, family responsibilities, social participation, exercise, and competitive sport are external demands, activities, or tasks. They are not themselves classified as human functions. MUFO must instead specify which human functions are required to meet each of these demands. The domains above are not mutually exclusive compartments. One function may serve many demands, and one demand may depend on several functional domains at once.
+Self-care, learning tasks, work, family responsibilities, social participation, exercise, and competitive sport are external demands, activities, or tasks. They are not themselves classified as human functions. UOHF must instead specify which human functions are required to meet each of these demands. The domains above are not mutually exclusive compartments. One function may serve many demands, and one demand may depend on several functional domains at once.
 
 ### 5.4 Engineering Meaning of Completeness and Non-Omission
 
-Any finite human-generated list may omit something. MUFO cannot claim completeness merely because it contains a list of functions. “Comprehensive” must be translated into continuously auditable rules:
+Any finite human-generated list may omit something. UOHF cannot claim completeness merely because it contains a list of functions. “Comprehensive” must be translated into continuously auditable rules:
 
 1.  **Demand-coverage rule:** every identified internal or external demand must be linked to the human functions required to meet it.
 
@@ -18,7 +18,7 @@ Any finite human-generated list may omit something. MUFO cannot claim completene
 
 7.  **Version-governance rule:** functional catalogues and relations must be revisable, traceable, auditable, and historically versioned.
 
-MUFO’s unification of “what human functions exist” is therefore not a once-and-for-all declaration of an immutable catalogue. It is an engineering mechanism for continuously detecting omissions, filling semantic gaps, and testing completeness.
+UOHF’s unification of “what human functions exist” is therefore not a once-and-for-all declaration of an immutable catalogue. It is an engineering mechanism for continuously detecting omissions, filling semantic gaps, and testing completeness.
 
 ## 6. Second Domain of Unification: Which Functions Are Required by Which Demands?
 
@@ -38,7 +38,7 @@ Meeting a demand usually requires several human functions to operate together. T
 
 Stair climbing requires not only lower-limb force production but also sensation, balance control, motor control, joint mobility, respiration, circulation, energy provision, and recovery regulation. Eating requires not only digestion and absorption but also sensation, mastication, swallowing, secretory regulation, gastrointestinal propulsion, metabolism, and feedback regulation. Recovery after infection may involve immune-response capacity, defensive protection, thermoregulation, circulation, energy provision, tissue repair, sleep-wake regulation, and behavioral regulation.
 
-MUFO must therefore represent:
+UOHF must therefore represent:
 
 - which functions are required to meet a given demand;
 
@@ -80,15 +80,14 @@ First, bodily structure must not be equated with human function. The presence of
 
 Second, a local biological process must not be equated with human function at the whole-person level. A normal local process does not guarantee that all functions required by a real demand can operate together in the whole person. Conversely, a local abnormality does not imply that every human function at the whole-person level is necessarily absent.
 
-MUFO need not choose structure, process, or function as the sole explanation. It must state what each is and establish cross-scale, traceable realization relations among them.
+UOHF need not choose structure, process, or function as the sole explanation. It must state what each is and establish cross-scale, traceable realization relations among them.
 
 ## 8. Fourth Domain of Unification: Functional Engagement Within the Concept of Human Function
 
-### 8.1 Position of Functional Engagement in MUFO
+### 8.1 Position of Functional Engagement in UOHF
 
-Functional engagement is not an ontological construction principle parallel to unification. Unification answers what MUFO returns to the same whole person for description. Functional engagement answers whether human functions actually operate when internal and external demands arise.
+Functional engagement is not an ontological construction principle parallel to unification. Unification answers what UOHF returns to the same whole person for description. Functional engagement answers whether human functions actually operate when internal and external demands arise.
 
 Functional engagement therefore belongs within the concept of human function. It is the key relation connecting **the capacities the body has** with **whether those capacities operate in real life**.
 
 ### 8.2 Philosophical Definition
-
