@@ -1,6 +1,9 @@
 name: One-time UOHF identity migration
 
 on:
+  push:
+    branches:
+      - main
   pull_request_target:
     types:
       - opened
@@ -12,7 +15,7 @@ permissions:
 
 jobs:
   migrate:
-    if: github.event.pull_request.head.repo.full_name == github.repository && github.event.pull_request.head.ref == 'agent/uohf-migration-trigger'
+    if: github.event_name == 'push' || (github.event.pull_request.head.repo.full_name == github.repository && github.event.pull_request.head.ref == 'agent/uohf-migration-trigger')
     runs-on: ubuntu-latest
     steps:
       - name: Check out main
@@ -100,10 +103,11 @@ jobs:
               workflow.write_text(updated, encoding='utf-8', newline='')
           PY
 
-      - name: Remove one-time migration workflow
+      - name: Remove one-time migration assets
         shell: bash
         run: |
           rm -f \
+            .github/uohf-migration-trigger*.txt \
             .github/workflows/migrate-mufo-to-uohf.yml \
             .github/workflows/migrate-uohf-to-uohf.yml
 
