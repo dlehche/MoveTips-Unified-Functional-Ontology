@@ -1,6 +1,7 @@
-# English Full-Text Source
+# English Complete-Text Source
 
-**Paper:** *Unification in the MoveTips Unified Functional Ontology: A Whole-Person Conceptual Framework Centered on Human Function and Functional Engagement*  
+**Paper:** *Unification in the Unified Ontology of Human Function: A Whole-Person Conceptual Framework Centered on Human Function and Functional Engagement*  
+**Abbreviation:** UOHF  
 **Version:** 1.0 English Academic Preprint  
 **Zenodo DOI:** [10.5281/zenodo.21618293](https://doi.org/10.5281/zenodo.21618293)
 
