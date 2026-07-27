@@ -38,7 +38,7 @@ Human function has multiple timescales:
 
 - cumulative effects produced by long-term lifestyle and repeated engagement.
 
-Without time, one performance, long-term capacity, and stage-related change in the same person are collapsed into a static fact. MUFO must allow every function, engagement fact, compensation, boundary, and state to refer to a specific time point, duration, and before-after relation.
+Without time, one performance, long-term capacity, and stage-related change in the same person are collapsed into a static fact. UOHF must allow every function, engagement fact, compensation, boundary, and state to refer to a specific time point, duration, and before-after relation.
 
 ### 9.6 Change: Human Function Can Develop, Decline, Be Rebuilt, and Expand
 
@@ -60,7 +60,7 @@ Change is not limited to improvement or deterioration. It includes:
 
 - change in the primary limiting factor across stages of the same problem.
 
-Unification must therefore include not only what a person has now, but why change occurs, when it occurs, what preceded and followed it, and which conditions promoted or obstructed it. Only then can MUFO support longitudinal recording, causal reasoning, reassessment, and a long-term model of human function.
+Unification must therefore include not only what a person has now, but why change occurs, when it occurs, what preceded and followed it, and which conditions promoted or obstructed it. Only then can UOHF support longitudinal recording, causal reasoning, reassessment, and a long-term model of human function.
 
 ## 10. Sixth Domain of Unification: The Same Person, Specified Conditions, and Continuous Time
 
@@ -68,7 +68,7 @@ If function, demand, structure, process, and engagement cannot consistently refe
 
 The capacity associated with the same type of human function may differ between persons and within the same person across time and conditions. The ability to walk 100 meters does not imply the ability to walk 5 kilometers. Stable walking on level ground does not imply stable walking on an uneven surface. Completion of one exercise session does not imply sustained recoverability over time.
 
-Every functional fact in MUFO should therefore, in principle, answer:
+Every functional fact in UOHF should therefore, in principle, answer:
 
 - To whom does it belong?
 
@@ -88,7 +88,7 @@ Every functional fact in MUFO should therefore, in principle, answer:
 
 - How is the fact related to previous and subsequent change?
 
-The **same person** is not merely another data field in MUFO. The person is the enduring subject through whom all facts of human function are unified.
+The **same person** is not merely another data field in UOHF. The person is the enduring subject through whom all facts of human function are unified.
 
 ## 11. Unified Identification and Representation of Human-Function Facts
 
@@ -119,4 +119,3 @@ This set of information transforms human function from an abstract label into a 
 ### 11.2 Functional-Capacity Problem
 
 > **A functional-capacity problem is insufficiency, impairment, or loss of the functional capacity required to meet an internal or external demand that is appropriate to the person and context.**
-
