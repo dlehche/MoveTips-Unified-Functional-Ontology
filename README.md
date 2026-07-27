@@ -2,7 +2,7 @@
 
 ## A governed ontology for human function and the Human Function World Model
 
-[中文](README.zh-CN.md) · [Definition 2.1 paper](https://doi.org/10.5281/zenodo.21399269) · [Version archive](versions/README.md) · [Citation metadata](CITATION.cff)
+[中文](README.zh-CN.md) · [Definition 2.1 paper](https://doi.org/10.5281/zenodo.21399269) · [Unification paper](papers/unification/README.md) · [Version archive](versions/README.md) · [Citation metadata](CITATION.cff)
 
 **Current authoritative framework:** MUFO Definition 2.1  
 **Author:** Lei Che  
@@ -115,6 +115,7 @@ These are not medical diagnoses, permanent identities, or universal labels for o
 | Resource | Purpose |
 |---|---|
 | [MUFO Definition 2.1](https://doi.org/10.5281/zenodo.21399269) | Current authoritative framework paper |
+| [Unification in MUFO](papers/unification/README.md) | Bilingual focused paper on unification, human function, and functional engagement; Zenodo DOI 10.5281/zenodo.21618293 |
 | [中文概览](README.zh-CN.md) | Concise Chinese repository introduction |
 | [中文完整定义](MUFO_DEFINITION_ZH.md) | Detailed Chinese framework definition |
 | [Version archive](versions/README.md) | V1.0, Definition 2.0, and Definition 2.1 history |
