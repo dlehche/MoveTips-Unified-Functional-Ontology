@@ -2,7 +2,7 @@
 
 ## 面向人体功能与人体功能世界模型的受治理本体
 
-[English](README.md) · [MUFO Definition 2.1 论文](https://doi.org/10.5281/zenodo.21399269) · [“统一”中英文论文](papers/unification/README.md) · [版本档案](versions/README.md) · [引用信息](CITATION.cff)
+[English](README.md) · [MUFO Definition 2.1 论文](https://doi.org/10.5281/zenodo.21399269) · [“统一”中英文论文](papers/unification/README.md) · [版本档案](versions/README.md) · [引用信息](CITATION.cff) · [权利与复用](RIGHTS_AND_REUSE.md) · [研究与合作](COLLABORATION.md)
 
 **当前权威框架：** MUFO Definition 2.1  
 **作者：** 车雷（Lei Che）  
@@ -23,6 +23,24 @@
 **正式英文定义：**
 
 > **Human function is the body's capacity to be appropriately engaged to meet internal and external demands.**
+
+---
+
+## 最新专题论文
+
+### 人体功能统一本体中的“统一”
+
+**——以人体功能及其调用为核心的完整人体概念框架**
+
+这篇 V1.0 专题论文集中解释：MUFO 到底统一什么，为什么调用属于人体功能概念内部，以及功能、需求、身体结构、身体过程、协作、代偿、边界、状态、时间和变化如何重新回到同一个完整人体中表达。
+
+- **[阅读中文全文](papers/unification/MUFO_Unification_ZH_V1.0.md)**
+- **[阅读英文全文](papers/unification/MUFO_Unification_EN_V1.0.md)**
+- **[下载英文学术 PDF](papers/unification/MUFO_Unification_EN_V1.0.pdf)**
+- [Zenodo 权威出版记录：10.5281/zenodo.21618293](https://doi.org/10.5281/zenodo.21618293)
+- [论文概览与引用信息](papers/unification/README.md)
+
+> **MUFO中的统一，是把人体本来作为一个整体存在的功能及其调用，用同一套语义描述出来。**
 
 ---
 
@@ -119,12 +137,17 @@ MUFO Definition 2.1 区分四个相互连接的组成部分：
 
 | 内容 | 用途 |
 |---|---|
-| [MUFO Definition 2.1](https://doi.org/10.5281/zenodo.21399269) | 当前权威框架论文 |
-| [人体功能统一本体中的“统一”](papers/unification/README.md) | 中英文专题论文：统一、人体功能与调用；Zenodo DOI 10.5281/zenodo.21618293 |
+| [MUFO Definition 2.1](https://doi.org/10.5281/zenodo.21399269) | 当前权威总体框架论文 |
+| [“统一”论文——中文全文](papers/unification/MUFO_Unification_ZH_V1.0.md) | 中文概念预印本全文 |
+| [“统一”论文——英文全文](papers/unification/MUFO_Unification_EN_V1.0.md) | 英文学术全文 |
+| [“统一”论文——英文PDF](papers/unification/MUFO_Unification_EN_V1.0.pdf) | 可直接下载的英文学术PDF |
 | [中文完整定义](MUFO_DEFINITION_ZH.md) | 详细中文框架定义 |
+| [公共机器可读本体状态](ontology/README.md) | 当前公开边界及未来正式发布要求 |
 | [版本档案](versions/README.md) | V1.0、Definition 2.0 与 Definition 2.1 |
 | [最小任务案例](examples/minimal-task-centered-case.json) | 非规范性结构化案例 |
 | [CITATION.cff](CITATION.cff) | 正式引用信息 |
+| [权利与复用说明](RIGHTS_AND_REUSE.md) | 出版物、署名、复用和仓库权利边界 |
+| [研究与合作](COLLABORATION.md) | 当前合作重点和参与方式 |
 
 ---
 
@@ -156,6 +179,8 @@ MUFO Definition 2.1 当前不宣称：
 
 内部需求运行化和多尺度建模仍属于持续研究、形式化与验证工作。
 
+未来经过审查的 OWL、Turtle、RDF、JSON-LD 或 SHACL 公共子集，其当前状态和正式发布门槛见 [`ontology/README.md`](ontology/README.md)。本仓库不会把未经审查的形式文件冒充为权威生产本体。
+
 ---
 
 ## 研究与合作
@@ -170,6 +195,8 @@ MUFO Definition 2.1 当前不宣称：
 - 不同专业模型之间的语义互操作；
 - 任务、评估、行动、反馈和复评系统。
 
+参与方式、当前合作重点和主张边界见 [`COLLABORATION.md`](COLLABORATION.md)。
+
 研究、互操作、工程实施或机构合作：**dlehche@gmail.com**
 
 ---
@@ -178,10 +205,14 @@ MUFO Definition 2.1 当前不宣称：
 
 > Che, Lei. *MUFO Definition 2.1: A Unified Ontology for Human Function*. MoveTips Technology (Beijing) Co., Ltd., 2026. DOI: [10.5281/zenodo.21399269](https://doi.org/10.5281/zenodo.21399269).
 
+仓库总体引用信息维护在 [`CITATION.cff`](CITATION.cff)；“统一”专题论文的独立引用信息维护在 [`papers/unification/CITATION.cff`](papers/unification/CITATION.cff)。
+
 ---
 
 ## 著作权与复用
 
 **著作权 © 2026 车雷与木梯科技（北京）有限公司。**
 
-具体访问、许可、署名和复用条件，以相应 Zenodo 权威记录为准。引用、翻译、映射、实现或衍生使用时，应保留作者、版本、权威 DOI、修改来源，以及原文中的医学、安全、证据和专业权限边界。
+具体出版物的访问、许可、署名和复用条件，以相应 Zenodo 权威记录为准；仓库总体说明见 [`RIGHTS_AND_REUSE.md`](RIGHTS_AND_REUSE.md)。
+
+引用、翻译、映射、实现或衍生使用时，应保留作者、版本身份、权威 DOI、修改来源，以及原文中的医学、安全、证据和专业权限边界。
