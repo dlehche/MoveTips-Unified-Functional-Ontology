@@ -10,9 +10,9 @@
 
 ## Paper files
 
-- [中文全文：人体功能统一本体中的“统一”](MUFO_Unification_ZH_V1.0.md)
-- [English academic PDF](MUFO_Unification_EN_V1.0.pdf)
-- [Canonical Zenodo record](https://doi.org/10.5281/zenodo.21618293)
+- [中文全文源文件](source/zh/README.md)
+- [English full-text source](source/en/README.md)
+- [Canonical Zenodo article and downloadable publication files](https://doi.org/10.5281/zenodo.21618293)
 
 ## Core proposition
 
@@ -24,4 +24,4 @@
 
 This paper is a focused conceptual paper on the meaning of **unification** in MUFO. It does not replace the repository’s current authoritative framework, **MUFO Definition 2.1**. It clarifies how human function and functional engagement form the organizing center of a whole-person conceptual framework.
 
-The Chinese Markdown file is assembled from the version-controlled source parts under [`source/zh/`](source/zh/). The English academic PDF is synchronized from the canonical Zenodo record.
+The complete Chinese and English academic texts are preserved as version-controlled source parts in this directory. The canonical publication record, DOI, and downloadable publication files are maintained on Zenodo.
