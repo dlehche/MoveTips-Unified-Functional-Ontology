@@ -2,7 +2,7 @@
 
 ## A governed ontology for human function and the Human Function World Model
 
-[中文](README.zh-CN.md) · [Definition 2.1 paper](https://doi.org/10.5281/zenodo.21399269) · [Unification paper](papers/unification/README.md) · [Version archive](versions/README.md) · [Citation metadata](CITATION.cff)
+[中文](README.zh-CN.md) · [Definition 2.1 paper](https://doi.org/10.5281/zenodo.21399269) · [Unification paper](papers/unification/README.md) · [Version archive](versions/README.md) · [Citation metadata](CITATION.cff) · [Rights and reuse](RIGHTS_AND_REUSE.md) · [Collaboration](COLLABORATION.md)
 
 **Current authoritative framework:** MUFO Definition 2.1  
 **Author:** Lei Che  
@@ -22,6 +22,24 @@
 **Chinese philosophical definition:**
 
 > **人体功能，就是身体被正常调用的能力。**
+
+---
+
+## Latest focused publication
+
+### Unification in the MoveTips Unified Functional Ontology
+
+**A Whole-Person Conceptual Framework Centered on Human Function and Functional Engagement**
+
+This focused Version 1.0 paper explains what MUFO unifies, why functional engagement belongs inside the concept of human function, and how function, demand, bodily structure, bodily process, coordination, compensation, boundaries, state, time, and change are returned to the same whole person.
+
+- **[Read the English full text](papers/unification/MUFO_Unification_EN_V1.0.md)**
+- **[Download the English academic PDF](papers/unification/MUFO_Unification_EN_V1.0.pdf)**
+- **[阅读中文全文](papers/unification/MUFO_Unification_ZH_V1.0.md)**
+- [Canonical Zenodo publication: 10.5281/zenodo.21618293](https://doi.org/10.5281/zenodo.21618293)
+- [Paper overview and citation](papers/unification/README.md)
+
+> **Unification in MUFO means using one coherent semantic system to describe human functions as they exist within an integrated whole person, together with their functional engagement.**
 
 ---
 
@@ -115,12 +133,17 @@ These are not medical diagnoses, permanent identities, or universal labels for o
 | Resource | Purpose |
 |---|---|
 | [MUFO Definition 2.1](https://doi.org/10.5281/zenodo.21399269) | Current authoritative framework paper |
-| [Unification in MUFO](papers/unification/README.md) | Bilingual focused paper on unification, human function, and functional engagement; Zenodo DOI 10.5281/zenodo.21618293 |
+| [Unification paper — English PDF](papers/unification/MUFO_Unification_EN_V1.0.pdf) | Direct reader-facing academic PDF |
+| [Unification paper — English full text](papers/unification/MUFO_Unification_EN_V1.0.md) | Version-controlled English academic text |
+| [“统一”论文——中文全文](papers/unification/MUFO_Unification_ZH_V1.0.md) | 中文概念预印本全文 |
 | [中文概览](README.zh-CN.md) | Concise Chinese repository introduction |
 | [中文完整定义](MUFO_DEFINITION_ZH.md) | Detailed Chinese framework definition |
+| [Public ontology release status](ontology/README.md) | Current machine-readable release boundary and release requirements |
 | [Version archive](versions/README.md) | V1.0, Definition 2.0, and Definition 2.1 history |
 | [Minimal task-centered example](examples/minimal-task-centered-case.json) | Non-normative example of structured reasoning objects |
 | [CITATION.cff](CITATION.cff) | Formal citation metadata |
+| [Rights and reuse](RIGHTS_AND_REUSE.md) | Publication, reuse, attribution, and repository-rights guidance |
+| [Research and collaboration](COLLABORATION.md) | Collaboration priorities and contribution routes |
 
 ---
 
@@ -152,6 +175,8 @@ MUFO Definition 2.1 does **not** claim:
 
 Internal-demand operationalization and multiscale modeling remain active research, formalization, and validation work.
 
+The status and release requirements for a future reviewed public OWL/Turtle/RDF/JSON-LD/SHACL subset are documented in [`ontology/README.md`](ontology/README.md). No unreviewed formal file is presented as the authoritative production ontology.
+
 ---
 
 ## Relationship to existing standards and models
@@ -174,6 +199,8 @@ Relevant collaboration areas include:
 - semantic interoperability across specialized models;
 - task-centered assessment, action, feedback, and reassessment systems.
 
+See [`COLLABORATION.md`](COLLABORATION.md) for contribution routes, current priorities, and claim boundaries.
+
 For research, interoperability, implementation, or institutional collaboration: **dlehche@gmail.com**
 
 ---
@@ -182,7 +209,7 @@ For research, interoperability, implementation, or institutional collaboration: 
 
 > Che, Lei. *MUFO Definition 2.1: A Unified Ontology for Human Function*. MoveTips Technology (Beijing) Co., Ltd., 2026. DOI: [10.5281/zenodo.21399269](https://doi.org/10.5281/zenodo.21399269).
 
-Repository citation metadata is maintained in [`CITATION.cff`](CITATION.cff).
+Repository citation metadata is maintained in [`CITATION.cff`](CITATION.cff). The focused unification paper has separate citation metadata in [`papers/unification/CITATION.cff`](papers/unification/CITATION.cff).
 
 ---
 
@@ -190,4 +217,6 @@ Repository citation metadata is maintained in [`CITATION.cff`](CITATION.cff).
 
 **Copyright © 2026 Lei Che and MoveTips Technology (Beijing) Co., Ltd.**
 
-Record-specific access, license, attribution, and reuse terms are governed by the corresponding canonical Zenodo record. When citing, adapting, translating, mapping, or implementing MUFO, preserve the author, version identity, canonical DOI, provenance of modifications, and the medical, safety, evidence, and professional-scope limitations stated in the publication.
+Record-specific access, license, attribution, and reuse terms are governed by the corresponding canonical Zenodo record. Repository-wide guidance is maintained in [`RIGHTS_AND_REUSE.md`](RIGHTS_AND_REUSE.md).
+
+When citing, adapting, translating, mapping, or implementing MUFO, preserve the author, version identity, canonical DOI, provenance of modifications, and the medical, safety, evidence, and professional-scope limitations stated in the publication.
