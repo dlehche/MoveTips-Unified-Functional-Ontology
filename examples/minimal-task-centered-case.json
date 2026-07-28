@@ -1,7 +1,7 @@
 {
-  "$schema": "https://json-schema.org/draft/2020-12/schema",
   "exampleStatus": "non-normative",
-  "uohfVersion": "2.1",
+  "uohfFrameworkVersion": "2.1",
+  "publicationRevision": "2.1.1",
   "exampleId": "UOHF-EXAMPLE-STAIRS-001",
   "title": "Minimal task-centered human-function case",
   "personReference": "de-identified-person-001",
