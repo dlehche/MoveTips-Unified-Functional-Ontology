@@ -6,11 +6,14 @@
 
 MoveTips Technology (Beijing) Co., Ltd.
 
-**Version 1.0 English Academic Preprint**
+**Framework Version 1.0 English Academic Preprint**  
+**Publication Revision 1.0.1**
 
 Conceptual ontology framework and research proposal \| 27 July 2026
 
-**Zenodo DOI:** [10.5281/zenodo.21618293](https://doi.org/10.5281/zenodo.21618293)
+**Zenodo DOI:** [10.5281/zenodo.21630417](https://doi.org/10.5281/zenodo.21630417)
+
+> **Nomenclature revision 1.0.1:** The project name and abbreviation have been standardized as Unified Ontology of Human Function (UOHF). The conceptual framework, definitions, arguments, scientific claims, and scope of Version 1.0 remain unchanged.
 
 ## Abstract
 
