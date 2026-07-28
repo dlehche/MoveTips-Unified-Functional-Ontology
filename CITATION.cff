@@ -1,16 +1,16 @@
 cff-version: 1.2.0
 message: "If you use UOHF or the Human Function Framework in research, please cite UOHF Definition 2.1 using the canonical publication below."
 title: "UOHF Definition 2.1: Unified Ontology of Human Function"
-version: "2.1"
+version: "2.1.1"
 authors:
   - family-names: "Che"
     given-names: "Lei"
     email: "dlehche@gmail.com"
     affiliation: "MoveTips Technology (Beijing) Co., Ltd."
 date-released: 2026-07-16
-doi: 10.5281/zenodo.21399269
+doi: 10.5281/zenodo.21630406
 repository-code: "https://github.com/dlehche/Unified-Ontology-Of-Human-Function"
-url: "https://zenodo.org/records/21399269"
+url: "https://zenodo.org/records/21630406"
 abstract: >-
   UOHF Definition 2.1 defines human function as the body's capacity to be
   appropriately engaged to meet internal and external demands. It provides a
@@ -21,6 +21,7 @@ keywords:
   - human function
   - ontology
   - unified ontology
+  - UOHF
   - internal demand
   - external demand
   - functional engagement
@@ -40,8 +41,8 @@ preferred-citation:
       affiliation: "MoveTips Technology (Beijing) Co., Ltd."
   title: "UOHF Definition 2.1: Unified Ontology of Human Function"
   year: 2026
-  version: "2.1"
+  version: "2.1.1"
   institution:
     name: "MoveTips Technology (Beijing) Co., Ltd."
-  doi: 10.5281/zenodo.21399269
-  url: "https://zenodo.org/records/21399269"
+  doi: 10.5281/zenodo.21630406
+  url: "https://zenodo.org/records/21630406"
