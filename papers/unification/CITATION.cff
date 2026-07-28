@@ -1,16 +1,17 @@
 cff-version: 1.2.0
 message: "If you use this focused UOHF unification paper, please cite the canonical Zenodo publication below."
 title: "Unification in the Unified Ontology of Human Function: A Whole-Person Conceptual Framework Centered on Human Function and Functional Engagement"
-version: "1.0.1"
+version: "1.0.2"
 authors:
   - family-names: "Che"
     given-names: "Lei"
     email: "dlehche@gmail.com"
     affiliation: "MoveTips Technology (Beijing) Co., Ltd."
-date-released: 2026-07-27
-doi: 10.5281/zenodo.21630417
+date-released: 2026-07-28
+doi: 10.5281/zenodo.21635694
 repository-code: "https://github.com/dlehche/Unified-Ontology-Of-Human-Function/tree/main/papers/unification"
-url: "https://zenodo.org/records/21630417"
+url: "https://zenodo.org/records/21635694"
+license: CC-BY-NC-4.0
 abstract: >-
   This focused conceptual paper defines unification in UOHF as using one coherent
   semantic system to describe human functions as they exist within an integrated
@@ -36,8 +37,8 @@ preferred-citation:
       affiliation: "MoveTips Technology (Beijing) Co., Ltd."
   title: "Unification in the Unified Ontology of Human Function: A Whole-Person Conceptual Framework Centered on Human Function and Functional Engagement"
   year: 2026
-  version: "1.0.1"
+  version: "1.0.2"
   institution:
     name: "MoveTips Technology (Beijing) Co., Ltd."
-  doi: 10.5281/zenodo.21630417
-  url: "https://zenodo.org/records/21630417"
+  doi: 10.5281/zenodo.21635694
+  url: "https://zenodo.org/records/21635694"
