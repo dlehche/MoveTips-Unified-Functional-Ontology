@@ -40,8 +40,8 @@ A future public ontology subset should include, at minimum:
 
 ## What can be inspected now
 
-- [UOHF Definition 2.1](https://doi.org/10.5281/zenodo.21399269)
-- [Unification in the Unified Ontology of Human Function](../papers/unification/README.md)
+- [UOHF Definition 2.1, publication revision 2.1.1](https://doi.org/10.5281/zenodo.21630406)
+- [Unification in the Unified Ontology of Human Function, publication revision 1.0.1](../papers/unification/README.md)
 - [Detailed Chinese framework definition](../UOHF_DEFINITION_ZH.md)
 - [Minimal task-centered example](../examples/minimal-task-centered-case.json)
 - [Version archive](../versions/README.md)
