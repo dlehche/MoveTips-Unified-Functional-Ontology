@@ -6,16 +6,19 @@
 
 ## 出版信息
 
-**当前项目英文标题：** *UOHF Definition 2.0: Unified Ontology of Human Function*  
+**框架版本：** UOHF Definition 2.0  
+**出版修订版本：** 2.0.1  
+**英文标题：** *UOHF Definition 2.0: Unified Ontology of Human Function*  
 **中文参考译名：**《UOHF Definition 2.0：人体功能统一本体》  
 **作者：** 车雷（Lei Che）  
 **贡献团队：** 木梯研究与工程团队  
 **机构：** 木梯科技（北京）有限公司  
-**发表日期：** 2026年7月15日  
-**版本：** 2.0  
-**权威出版记录：** [Zenodo 记录 21368412](https://zenodo.org/records/21368412)  
-**DOI：** [10.5281/zenodo.21368412](https://doi.org/10.5281/zenodo.21368412)  
+**首次发表日期：** 2026年7月15日  
+**权威出版记录：** [Zenodo 记录 21630339](https://zenodo.org/records/21630339)  
+**DOI：** [10.5281/zenodo.21630339](https://doi.org/10.5281/zenodo.21630339)  
 **著作权：** © 2026 车雷与木梯科技（北京）有限公司
+
+`2.0.1` 为名称标准化出版修订：项目正式名称与简称统一为 Unified Ontology of Human Function（UOHF）。Definition 2.0 原有架构、科学主张和适用范围不变。
 
 ## 历史英文根定义
 
@@ -140,10 +143,10 @@ Definition 2.1 对 V2.0 的英文根定义和上层范围进行了替代与扩�
 
 ## 引用方式
 
-> Che, Lei. *UOHF Definition 2.0: Unified Ontology of Human Function*. MoveTips Technology (Beijing) Co., Ltd., 2026. DOI: [10.5281/zenodo.21368412](https://doi.org/10.5281/zenodo.21368412).
+> Che, Lei. *UOHF Definition 2.0: Unified Ontology of Human Function*. Version 2.0.1. MoveTips Technology (Beijing) Co., Ltd., 2026. DOI: [10.5281/zenodo.21630339](https://doi.org/10.5281/zenodo.21630339).
 
 ## 著作权与复用
 
 **著作权 © 2026 车雷与木梯科技（北京）有限公司。**
 
-该版本具体的访问、许可、署名和复用条件，以对应 Zenodo 权威记录为准。任何引用、翻译、实现、映射或衍生工作，应保留 V2.0 的版本身份、DOI、作者署名、来源链，以及原文中的安全边界与专业权限限制。
+该版本具体的访问、许可、署名和复用条件，以对应 Zenodo 权威记录为准。任何引用、翻译、实现、映射或衍生工作，应保留 Definition 2.0 框架身份、出版修订版本 2.0.1、DOI、作者署名、来源链，以及原文中的安全边界与专业权限限制。
