@@ -14,12 +14,15 @@ Current canonical records include:
 
 - **UOHF V1.0: An Auditable Human-Function Inference and Safety-Constrained Decision-Support Framework**  
   Publication revision: **1.0.1**  
+  License: **CC BY-NC 4.0**  
   DOI: [10.5281/zenodo.21630183](https://doi.org/10.5281/zenodo.21630183)
 - **UOHF Definition 2.0: Unified Ontology of Human Function**  
   Publication revision: **2.0.1**  
+  License: **CC BY-NC 4.0**  
   DOI: [10.5281/zenodo.21630339](https://doi.org/10.5281/zenodo.21630339)
 - **UOHF Definition 2.1: Unified Ontology of Human Function**  
   Publication revision: **2.1.1**  
+  License: **CC BY-NC 4.0**  
   DOI: [10.5281/zenodo.21630406](https://doi.org/10.5281/zenodo.21630406)
 - **Unification in the Unified Ontology of Human Function: A Whole-Person Conceptual Framework Centered on Human Function and Functional Engagement**  
   Publication revision: **1.0.2**  
@@ -32,7 +35,7 @@ If repository text and the corresponding Zenodo record differ on publication-spe
 
 ## 2. Citation and linking / 引用与链接
 
-Scholarly citation, bibliographic reference, and linking to this public repository or its canonical DOI records are permitted and encouraged. Citations should preserve:
+Scholarly citation, bibliographic reference, and linking to this public repository or its canonical DOI records are permitted and encouraged. Citations and other public reuse should preserve:
 
 - author name;
 - publication title;
@@ -40,7 +43,7 @@ Scholarly citation, bibliographic reference, and linking to this public reposito
 - version-specific DOI;
 - provenance of translations, adaptations, or modifications.
 
-允许并鼓励对本仓库及其权威 DOI 记录进行学术引用、书目引用和链接。引用时应保留：
+允许并鼓励对本仓库及其权威 DOI 记录进行学术引用、书目引用和链接。引用及其他公开复用应保留：
 
 - 作者；
 - 论文标题；
@@ -52,13 +55,13 @@ Repository-level citation metadata is maintained in [`CITATION.cff`](CITATION.cf
 
 ## 3. Translation, adaptation, mapping, and implementation / 翻译、改写、映射与实现
 
-Unless the applicable Zenodo license or a file-specific notice states otherwise, do not assume that public visibility alone grants unrestricted rights to reproduce, translate, adapt, redistribute, commercialize, or incorporate repository materials into another ontology, product, dataset, or software system.
+The four current canonical UOHF publications listed above are identified on their canonical records as licensed under **Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)**.
 
-除非对应 Zenodo 许可或文件级说明另有明确规定，不得仅因仓库公开可见，就推定可以不受限制地复制、翻译、改写、再分发、商业化，或将仓库材料纳入其他本体、产品、数据集或软件系统。
+上述四篇当前 UOHF 权威出版物在其权威记录中均标注为采用 **Creative Commons Attribution-NonCommercial 4.0 International（CC BY-NC 4.0）**。
 
-For the current Unification paper revision 1.0.2, any public reproduction, distribution, translation, adaptation, or other reuse must provide appropriate attribution to Lei Che, identify the work title and version, cite DOI `10.5281/zenodo.21635694`, and indicate whether changes were made. Commercial use requires prior written permission from MoveTips Technology (Beijing) Co., Ltd.
+Any public reproduction, distribution, translation, adaptation, or other reuse of material governed by those licenses must provide appropriate attribution to Lei Che, identify the work title and applicable version, cite the version-specific Zenodo DOI, provide the applicable license information, and indicate whether changes were made. Commercial use requires prior written permission from MoveTips Technology (Beijing) Co., Ltd.
 
-对于当前“统一”论文 1.0.2 版本，任何公开复制、传播、翻译、改编或其他复用，均须署名车雷，注明作品标题和版本，引用 DOI `10.5281/zenodo.21635694`，并说明是否进行了修改。商业使用须事先取得木梯科技（北京）有限公司的书面许可。
+任何受上述许可约束的公开复制、传播、翻译、改编或其他复用，均须署名车雷，注明作品标题和适用版本，引用具体版本 Zenodo DOI，注明适用许可证，并说明是否进行了修改。商业使用须事先取得木梯科技（北京）有限公司的书面许可。
 
 Any permitted derivative use should:
 
@@ -90,9 +93,13 @@ The complete production ontology, relation topology, implementation rules, gover
 
 ## 5. Historical naming, licensing, and provenance / 历史命名、许可与来源
 
-Earlier publications and archived DOI records preserve the terminology and licensing attached to their specific publication versions. The current project identity is **Unified Ontology of Human Function (UOHF)**. Historical titles must not be silently rewritten when cited, and a later licensing revision does not rewrite the identity of an earlier version-specific record.
+Earlier publications and archived DOI records preserve the terminology and licensing attached to their specific publication versions. The current project identity is **Unified Ontology of Human Function (UOHF)**. Historical titles must not be silently rewritten when cited.
 
-早期论文及历史 DOI 记录保留各自具体出版版本对应的术语和许可。当前项目正式身份为 **人体功能统一本体（UOHF）/ Unified Ontology of Human Function**。引用历史版本时不得擅自改写其真实出版标题，后续许可修订也不改写较早具体版本记录的历史身份。
+早期论文及历史 DOI 记录保留各自具体出版版本对应的术语和许可。当前项目正式身份为 **人体功能统一本体（UOHF）/ Unified Ontology of Human Function**。引用历史版本时不得擅自改写其真实出版标题。
+
+The current CC BY-NC 4.0 statements do not purport to revoke rights that may already have been validly granted for copies previously obtained under an earlier license. Each reuse must be assessed according to the license that validly governs the copy and use in question.
+
+当前 CC BY-NC 4.0 声明不声称追溯撤销此前针对已取得副本可能已经有效授予的权利。具体复用应按照实际适用于相关副本及使用行为的有效许可判断。
 
 ## 6. Names and marks / 名称与标识
 
