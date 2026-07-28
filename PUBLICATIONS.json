@@ -8,7 +8,8 @@
     "frameworkVersion": "2.1",
     "publicationRevision": "2.1.1",
     "record": "https://zenodo.org/records/21630406",
-    "doi": "10.5281/zenodo.21630406"
+    "doi": "10.5281/zenodo.21630406",
+    "license": "CC-BY-NC-4.0"
   },
   "publications": [
     {
@@ -19,6 +20,7 @@
       "publicationDate": "2026-02-06",
       "record": "https://zenodo.org/records/21630183",
       "doi": "10.5281/zenodo.21630183",
+      "license": "CC-BY-NC-4.0",
       "status": "historical"
     },
     {
@@ -29,6 +31,7 @@
       "publicationDate": "2026-07-15",
       "record": "https://zenodo.org/records/21630339",
       "doi": "10.5281/zenodo.21630339",
+      "license": "CC-BY-NC-4.0",
       "status": "historical"
     },
     {
@@ -39,6 +42,7 @@
       "publicationDate": "2026-07-16",
       "record": "https://zenodo.org/records/21630406",
       "doi": "10.5281/zenodo.21630406",
+      "license": "CC-BY-NC-4.0",
       "status": "current-authoritative"
     },
     {
@@ -58,7 +62,7 @@
     {
       "record": "https://zenodo.org/records/20711332",
       "doi": "10.5281/zenodo.20711332",
-      "note": "Separate earlier Human Function publication; not the canonical publication for UOHF V1.0 and not part of the UOHF version sequence."
+      "note": "Separate earlier Human Function publication; not the canonical publication for UOHF V1.0 and not part of the UOHF version sequence. Its own Zenodo record governs its license and reuse terms."
     }
   ]
 }
