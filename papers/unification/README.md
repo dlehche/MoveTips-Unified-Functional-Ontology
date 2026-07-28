@@ -12,14 +12,14 @@
 
 The `1.0.1` revision standardizes the project name and abbreviation as Unified Ontology of Human Function (UOHF). The conceptual framework, definitions, arguments, scientific claims, and scope of Version 1.0 remain unchanged.
 
-## Read the complete text
+## Complete-text indexes
 
-- **[Complete English academic text](UOHF_Unification_EN_V1.0.1.md)**
-- **[中文完整全文](UOHF_Unification_ZH_V1.0.1.md)**
+- **[English complete-text index](UOHF_Unification_EN_V1.0.1.md)**
+- **[中文完整全文索引](UOHF_Unification_ZH_V1.0.1.md)**
 - [Canonical Zenodo publication](https://doi.org/10.5281/zenodo.21630417)
 - [Paper-specific citation metadata](CITATION.cff)
 
-The complete files above are the primary reading and indexing entry points. Ordered files under `source/en/` and `source/zh/` are retained as version-controlled editing sources and collectively represent the same publication.
+The index files provide the ordered reading path. The complete academic text is retained in the version-controlled source files under `source/en/` and `source/zh/`. The source parts collectively represent one publication, not separate papers.
 
 ## Core proposition
 
