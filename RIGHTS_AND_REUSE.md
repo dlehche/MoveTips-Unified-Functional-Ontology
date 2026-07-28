@@ -22,8 +22,9 @@ Current canonical records include:
   Publication revision: **2.1.1**  
   DOI: [10.5281/zenodo.21630406](https://doi.org/10.5281/zenodo.21630406)
 - **Unification in the Unified Ontology of Human Function: A Whole-Person Conceptual Framework Centered on Human Function and Functional Engagement**  
-  Publication revision: **1.0.1**  
-  DOI: [10.5281/zenodo.21630417](https://doi.org/10.5281/zenodo.21630417)
+  Publication revision: **1.0.2**  
+  License: **CC BY-NC 4.0**  
+  DOI: [10.5281/zenodo.21635694](https://doi.org/10.5281/zenodo.21635694)
 
 If repository text and the corresponding Zenodo record differ on publication-specific licensing, attribution, version identity, or downloadable file status, the canonical Zenodo record controls.
 
@@ -55,6 +56,10 @@ Unless the applicable Zenodo license or a file-specific notice states otherwise,
 
 除非对应 Zenodo 许可或文件级说明另有明确规定，不得仅因仓库公开可见，就推定可以不受限制地复制、翻译、改写、再分发、商业化，或将仓库材料纳入其他本体、产品、数据集或软件系统。
 
+For the current Unification paper revision 1.0.2, any public reproduction, distribution, translation, adaptation, or other reuse must provide appropriate attribution to Lei Che, identify the work title and version, cite DOI `10.5281/zenodo.21635694`, and indicate whether changes were made. Commercial use requires prior written permission from MoveTips Technology (Beijing) Co., Ltd.
+
+对于当前“统一”论文 1.0.2 版本，任何公开复制、传播、翻译、改编或其他复用，均须署名车雷，注明作品标题和版本，引用 DOI `10.5281/zenodo.21635694`，并说明是否进行了修改。商业使用须事先取得木梯科技（北京）有限公司的书面许可。
+
 Any permitted derivative use should:
 
 1. identify UOHF and the original author;
@@ -83,11 +88,11 @@ The complete production ontology, relation topology, implementation rules, gover
 
 完整生产本体、关系拓扑、实现规则、受治理载荷和运行数据资产不会通过本仓库全部公开。除非明确标注，公开示例均为非规范性示例。
 
-## 5. Historical naming and provenance / 历史命名与来源
+## 5. Historical naming, licensing, and provenance / 历史命名、许可与来源
 
-Earlier publications and archived DOI records may preserve terminology used at the time of original publication. The current project identity is **Unified Ontology of Human Function (UOHF)**. Historical titles must not be silently rewritten when they are cited as distinct publications, and historical records must not be substituted for the canonical DOI of a current UOHF version.
+Earlier publications and archived DOI records preserve the terminology and licensing attached to their specific publication versions. The current project identity is **Unified Ontology of Human Function (UOHF)**. Historical titles must not be silently rewritten when cited, and a later licensing revision does not rewrite the identity of an earlier version-specific record.
 
-早期论文及历史 DOI 记录可以保留其首次发表时使用的术语。当前项目正式身份为 **人体功能统一本体（UOHF）/ Unified Ontology of Human Function**。引用独立历史论文时不得擅自改写其真实出版标题，也不得使用历史记录替代当前 UOHF 版本的权威 DOI。
+早期论文及历史 DOI 记录保留各自具体出版版本对应的术语和许可。当前项目正式身份为 **人体功能统一本体（UOHF）/ Unified Ontology of Human Function**。引用历史版本时不得擅自改写其真实出版标题，后续许可修订也不改写较早具体版本记录的历史身份。
 
 ## 6. Names and marks / 名称与标识
 
