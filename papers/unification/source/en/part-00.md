@@ -7,13 +7,13 @@
 MoveTips Technology (Beijing) Co., Ltd.
 
 **Framework Version 1.0 English Academic Preprint**  
-**Publication Revision 1.0.1**
+**Publication Revision 1.0.2**
 
-Conceptual ontology framework and research proposal \| 27 July 2026
+Conceptual ontology framework and research proposal | Original publication: 27 July 2026 | Licensing revision: 28 July 2026
 
-**Zenodo DOI:** [10.5281/zenodo.21630417](https://doi.org/10.5281/zenodo.21630417)
+**Zenodo DOI:** [10.5281/zenodo.21635694](https://doi.org/10.5281/zenodo.21635694)
 
-> **Nomenclature revision 1.0.1:** The project name and abbreviation have been standardized as Unified Ontology of Human Function (UOHF). The conceptual framework, definitions, arguments, scientific claims, and scope of Version 1.0 remain unchanged.
+> **Licensing revision 1.0.2:** The current publication is licensed under CC BY-NC 4.0. Public reuse requires attribution to Lei Che, identification of the work title and version, citation of the version-specific Zenodo DOI, and disclosure of modifications. Commercial use requires prior written permission from MoveTips Technology (Beijing) Co., Ltd. The conceptual framework, definitions, arguments, scientific claims, and scope of Version 1.0 remain unchanged.
 
 ## Abstract
 
