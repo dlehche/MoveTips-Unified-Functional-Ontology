@@ -6,15 +6,18 @@
 
 ## 出版信息
 
-**当前项目英文标题：** *UOHF V1.0: An Auditable Human-Function Inference and Safety-Constrained Decision-Support Framework*  
+**框架版本：** UOHF V1.0  
+**出版修订版本：** 1.0.1  
+**英文标题：** *UOHF V1.0: An Auditable Human-Function Inference and Safety-Constrained Decision-Support Framework*  
 **中文参考译名：**《UOHF V1.0：面向可审计人体功能推理与安全约束决策支持的框架》  
-**作者：** 车雷（Lei Che），木梯研究与工程团队参与  
+**作者：** 车雷（Lei Che）  
 **机构：** 木梯科技（北京）有限公司  
-**发表日期：** 2026年2月6日  
-**版本：** 1.0  
-**权威出版记录：** [Zenodo 记录 20711332](https://zenodo.org/records/20711332)  
-**DOI：** [10.5281/zenodo.20711332](https://doi.org/10.5281/zenodo.20711332)  
+**首次发表日期：** 2026年2月6日  
+**权威出版记录：** [Zenodo 记录 21630183](https://zenodo.org/records/21630183)  
+**DOI：** [10.5281/zenodo.21630183](https://doi.org/10.5281/zenodo.21630183)  
 **著作权：** © 2026 车雷与木梯科技（北京）有限公司
+
+`1.0.1` 为名称标准化出版修订：项目正式名称与简称统一为 Unified Ontology of Human Function（UOHF）。V1.0 原有运行模型、数学框架、安全逻辑、科学主张和范围不变。
 
 ## 历史定位
 
@@ -101,10 +104,10 @@ V1.0 具有重要历史价值，对特定的任务—能力匹配应用仍有参
 
 ## 引用方式
 
-> Che, Lei, and the MoveTips Research & Engineering Team. *UOHF V1.0: An Auditable Human-Function Inference and Safety-Constrained Decision-Support Framework*. Zenodo, 2026. DOI: [10.5281/zenodo.20711332](https://doi.org/10.5281/zenodo.20711332).
+> Che, Lei. *UOHF V1.0: An Auditable Human-Function Inference and Safety-Constrained Decision-Support Framework*. Version 1.0.1. Zenodo, 2026. DOI: [10.5281/zenodo.21630183](https://doi.org/10.5281/zenodo.21630183).
 
 ## 著作权与复用
 
 **著作权 © 2026 车雷与木梯科技（北京）有限公司。**
 
-该版本具体的访问、许可、署名和复用条件，以对应的 Zenodo 权威记录为准。任何引用、翻译、实现或衍生工作，应保留版本号、DOI、作者署名、来源链以及原文中的安全边界和专业权限限制。
+该版本具体的访问、许可、署名和复用条件，以对应的 Zenodo 权威记录为准。任何引用、翻译、实现或衍生工作，应保留框架版本、出版修订版本、DOI、作者署名、来源链以及原文中的安全边界和专业权限限制。
