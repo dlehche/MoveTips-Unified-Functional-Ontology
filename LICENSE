@@ -10,13 +10,23 @@ The license, attribution requirements, and reuse conditions stated on each canon
 
 2. Publication source text
 
-Where a publication source file in this repository corresponds to a Zenodo publication released under Creative Commons Attribution 4.0 International (CC BY 4.0), that source text is intended to follow the same publication-specific license, subject to the canonical Zenodo record.
+Where publication source text in this repository corresponds to a specific Zenodo publication revision, it follows the publication-specific license identified for that revision, subject to the canonical Zenodo record.
+
+The current source text for:
+
+Unification in the Unified Ontology of Human Function: A Whole-Person Conceptual Framework Centered on Human Function and Functional Engagement
+
+corresponds to publication revision 1.0.2, DOI 10.5281/zenodo.21635694, and is licensed under Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0). Public reuse requires appropriate attribution, identification of the title and version, citation of the version-specific DOI, and disclosure of modifications. Commercial use requires prior written permission from MoveTips Technology (Beijing) Co., Ltd.
 
 3. Other repository material
 
 Explanatory documentation, citation metadata, non-normative examples, future ontology files, code, mappings, schemas, and operational assets may carry separate file- or directory-specific terms. Where no explicit license is stated, no broad permission to reproduce, adapt, redistribute, commercialize, or incorporate the material into another ontology, dataset, software system, or product should be inferred merely from public availability.
 
-4. Source of truth
+4. Historical versions
+
+Earlier version-specific Zenodo records retain their own historical metadata and licensing position. A later publication revision does not silently rewrite the identity of an earlier version-specific record.
+
+5. Source of truth
 
 For publication-specific licensing, attribution, version identity, and downloadable files, the corresponding canonical Zenodo record controls. For repository-wide guidance, see RIGHTS_AND_REUSE.md.
 
