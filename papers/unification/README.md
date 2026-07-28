@@ -2,20 +2,24 @@
 
 ## A Whole-Person Conceptual Framework Centered on Human Function and Functional Engagement
 
+**UOHF — Unified Ontology of Human Function**  
 **Author:** Lei Che  
 **Affiliation:** MoveTips Technology (Beijing) Co., Ltd.  
-**Public version:** 1.0  
-**Date:** 27 July 2026  
-**Zenodo DOI:** [10.5281/zenodo.21618293](https://doi.org/10.5281/zenodo.21618293)
+**Framework version:** 1.0 English Academic Preprint  
+**Publication revision:** 1.0.1  
+**Original publication date:** 27 July 2026  
+**Zenodo DOI:** [10.5281/zenodo.21630417](https://doi.org/10.5281/zenodo.21630417)
+
+The `1.0.1` revision standardizes the project name and abbreviation as Unified Ontology of Human Function (UOHF). The conceptual framework, definitions, arguments, scientific claims, and scope of Version 1.0 remain unchanged.
 
 ## Read the complete text
 
-- **[English complete-text index](UOHF_Unification_EN_V1.0.md)**
-- **[中文完整全文索引](UOHF_Unification_ZH_V1.0.md)**
-- [Canonical Zenodo publication](https://doi.org/10.5281/zenodo.21618293)
+- **[Complete English academic text](UOHF_Unification_EN_V1.0.1.md)**
+- **[中文完整全文](UOHF_Unification_ZH_V1.0.1.md)**
+- [Canonical Zenodo publication](https://doi.org/10.5281/zenodo.21630417)
 - [Paper-specific citation metadata](CITATION.cff)
 
-The complete English and Chinese academic texts are retained as ordered, version-controlled source parts. The split is solely a repository-interface accommodation and does not represent separate publications.
+The complete files above are the primary reading and indexing entry points. Ordered files under `source/en/` and `source/zh/` are retained as version-controlled editing sources and collectively represent the same publication.
 
 ## Core proposition
 
@@ -30,5 +34,9 @@ This paper is a focused conceptual paper on the meaning of **unification** in UO
 ## Scope and status
 
 This is a conceptual ontology framework and research proposal. It is not a clinical guideline, an autonomous diagnostic or treatment system, a completed OWL ontology, or a claim of external expert consensus.
+
+## Citation
+
+> Che, Lei. *Unification in the Unified Ontology of Human Function: A Whole-Person Conceptual Framework Centered on Human Function and Functional Engagement*. Version 1.0.1. Zenodo, 2026. DOI: [10.5281/zenodo.21630417](https://doi.org/10.5281/zenodo.21630417).
 
 The canonical publication record, DOI, and publication-specific license are maintained on Zenodo. Repository-level reuse guidance is available in [`RIGHTS_AND_REUSE.md`](../../RIGHTS_AND_REUSE.md).
