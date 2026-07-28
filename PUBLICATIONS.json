@@ -45,10 +45,12 @@
       "id": "uohf-unification",
       "title": "Unification in the Unified Ontology of Human Function: A Whole-Person Conceptual Framework Centered on Human Function and Functional Engagement",
       "frameworkVersion": "1.0",
-      "publicationRevision": "1.0.1",
-      "publicationDate": "2026-07-27",
-      "record": "https://zenodo.org/records/21630417",
-      "doi": "10.5281/zenodo.21630417",
+      "publicationRevision": "1.0.2",
+      "publicationDate": "2026-07-28",
+      "originalPublicationDate": "2026-07-27",
+      "record": "https://zenodo.org/records/21635694",
+      "doi": "10.5281/zenodo.21635694",
+      "license": "CC-BY-NC-4.0",
       "status": "focused-publication"
     }
   ],
