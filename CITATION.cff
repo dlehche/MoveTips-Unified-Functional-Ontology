@@ -11,6 +11,7 @@ date-released: 2026-07-16
 doi: 10.5281/zenodo.21630406
 repository-code: "https://github.com/dlehche/Unified-Ontology-Of-Human-Function"
 url: "https://zenodo.org/records/21630406"
+license: CC-BY-NC-4.0
 abstract: >-
   UOHF Definition 2.1 defines human function as the body's capacity to be
   appropriately engaged to meet internal and external demands. It provides a
