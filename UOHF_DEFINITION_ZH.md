@@ -3,16 +3,18 @@
 [English](README.md) | [中文](UOHF_DEFINITION_ZH.md)
 
 **当前权威框架定义：** UOHF Definition 2.1  
+**出版修订版本：** 2.1.1  
 **正式英文名称：** Unified Ontology of Human Function  
 **作者：** Lei Che（车雷）  
 **贡献团队：** 木梯研究与工程团队  
 **机构：** 木梯科技（北京）有限公司  
 **联系邮箱：** dlehche@gmail.com  
-**版本：** 2.1  
-**发布日期：** 2026年7月16日  
-**权威论文：** [UOHF Definition 2.1: Unified Ontology of Human Function](https://zenodo.org/records/21399269)  
-**DOI：** [`10.5281/zenodo.21399269`](https://doi.org/10.5281/zenodo.21399269)  
+**首次发布日期：** 2026年7月16日  
+**权威论文：** [UOHF Definition 2.1: Unified Ontology of Human Function](https://zenodo.org/records/21630406)  
+**DOI：** [`10.5281/zenodo.21630406`](https://doi.org/10.5281/zenodo.21630406)  
 **著作权：** © 2026 Lei Che 与木梯科技（北京）有限公司
+
+`2.1.1` 为名称标准化出版修订，不改变 Definition 2.1 的根定义、本体架构、科学主张、实现边界或范围。
 
 ## 哲学传播起点
 
