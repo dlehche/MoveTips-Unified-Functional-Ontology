@@ -198,7 +198,7 @@ UOHF中的“统一”，不是把不同知识机械合并，而是重新确定�
 
 ### 20.6 许可
 
-本文采用Creative Commons Attribution 4.0 International（CC BY 4.0）许可公开。Zenodo与GitHub中的许可信息应保持一致。
+本文采用Creative Commons Attribution-NonCommercial 4.0 International（CC BY-NC 4.0）许可。任何公开复制、传播、翻译、改编或其他复用，均须署名车雷，注明作品标题和版本，提供相应Zenodo DOI，并说明是否进行了修改。任何商业使用均须事先取得木梯科技（北京）有限公司的书面许可。
 
 ---
 
