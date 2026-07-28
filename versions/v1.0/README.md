@@ -6,14 +6,17 @@
 
 ## Publication metadata
 
-**Current project title:** *UOHF V1.0: An Auditable Human-Function Inference and Safety-Constrained Decision-Support Framework*  
-**Author:** Lei Che, with the MoveTips Research & Engineering Team  
+**Framework version:** UOHF V1.0  
+**Publication revision:** 1.0.1  
+**Title:** *UOHF V1.0: An Auditable Human-Function Inference and Safety-Constrained Decision-Support Framework*  
+**Author:** Lei Che  
 **Affiliation:** MoveTips Technology (Beijing) Co., Ltd.  
-**Publication date:** February 6, 2026  
-**Version:** 1.0  
-**Canonical publication:** [Zenodo record 20711332](https://zenodo.org/records/20711332)  
-**DOI:** [10.5281/zenodo.20711332](https://doi.org/10.5281/zenodo.20711332)  
+**Original publication date:** February 6, 2026  
+**Canonical publication:** [Zenodo record 21630183](https://zenodo.org/records/21630183)  
+**DOI:** [10.5281/zenodo.21630183](https://doi.org/10.5281/zenodo.21630183)  
 **Copyright:** © 2026 Lei Che and MoveTips Technology (Beijing) Co., Ltd.
+
+The `1.0.1` revision standardizes the current project name and abbreviation as Unified Ontology of Human Function (UOHF). The original V1.0 operational model, mathematical framework, safety logic, scientific claims, and scope remain unchanged.
 
 ## Historical purpose
 
@@ -104,18 +107,18 @@ Safety constraints were treated as hard gates. A reasoning artifact was expected
 
 ## Relationship to later versions
 
-- **V1.0** established the initial deterministic, task–capacity, safety-gated, and auditable implementation direction.
+- **V1.0** established the initial deterministic, task-capacity, safety-gated, and auditable implementation direction.
 - **Definition 2.0** moved from a factor-and-score-centered paper toward a broader task-centered ontology architecture, Functional Engagement, continuous write-back, and the UOHF–IHFM–HFWM separation.
 - **Definition 2.1** became the current framework definition, restoring the full internal-and-external-demand scope and clarifying the multiscale ontology and world-model trajectory.
 
-V1.0 remains historically important and may still be useful for bounded task–capacity applications. It should not be treated as the complete present-day UOHF ontology architecture.
+V1.0 remains historically important and may still be useful for bounded task-capacity applications. It should not be treated as the complete present-day UOHF ontology architecture.
 
 ## Citation
 
-> Che, Lei, and the MoveTips Research & Engineering Team. *UOHF V1.0: An Auditable Human-Function Inference and Safety-Constrained Decision-Support Framework*. Zenodo, 2026. DOI: [10.5281/zenodo.20711332](https://doi.org/10.5281/zenodo.20711332).
+> Che, Lei. *UOHF V1.0: An Auditable Human-Function Inference and Safety-Constrained Decision-Support Framework*. Version 1.0.1. Zenodo, 2026. DOI: [10.5281/zenodo.21630183](https://doi.org/10.5281/zenodo.21630183).
 
 ## Copyright and reuse
 
 **Copyright © 2026 Lei Che and MoveTips Technology (Beijing) Co., Ltd.**
 
-The canonical Zenodo record governs version-specific access, license, attribution, and reuse terms. Any quotation, translation, implementation, or derivative work should preserve the version number, DOI, authorship, provenance, and the safety and professional-scope limitations of the original publication.
+The canonical Zenodo record governs version-specific access, license, attribution, and reuse terms. Any quotation, translation, implementation, or derivative work should preserve the framework version, publication revision, DOI, authorship, provenance, and the safety and professional-scope limitations of the original publication.
