@@ -4,8 +4,9 @@
 **正式英文名称：** Unified Ontology of Human Function  
 **简称：** UOHF  
 **框架版本：** V1.0 中文概念预印本  
-**出版修订版本：** 1.0.1  
-**Zenodo DOI：** [10.5281/zenodo.21630417](https://doi.org/10.5281/zenodo.21630417)
+**出版修订版本：** 1.0.2  
+**许可：** CC BY-NC 4.0  
+**Zenodo DOI：** [10.5281/zenodo.21635694](https://doi.org/10.5281/zenodo.21635694)
 
 请按以下顺序连续阅读：
 
@@ -16,4 +17,4 @@
 
 这些分卷文件按顺序共同构成中文全文。分卷仅用于仓库接口与版本管理，不代表论文内容被拆分为四篇独立文章。
 
-[返回中文出版索引](../../UOHF_Unification_ZH_V1.0.1.md)。
+[返回中文出版索引](../../UOHF_Unification_ZH_V1.0.2.md)。
