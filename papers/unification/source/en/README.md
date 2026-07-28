@@ -2,8 +2,9 @@
 
 **Paper:** *Unification in the Unified Ontology of Human Function: A Whole-Person Conceptual Framework Centered on Human Function and Functional Engagement*  
 **Abbreviation:** UOHF  
-**Version:** 1.0 English Academic Preprint  
-**Zenodo DOI:** [10.5281/zenodo.21618293](https://doi.org/10.5281/zenodo.21618293)
+**Framework version:** 1.0 English Academic Preprint  
+**Publication revision:** 1.0.1  
+**Zenodo DOI:** [10.5281/zenodo.21630417](https://doi.org/10.5281/zenodo.21630417)
 
 Read the source files in the following order:
 
@@ -21,4 +22,6 @@ Read the source files in the following order:
 12. [Part 12](part-11.md)
 13. [Part 13](part-12.md)
 
-Together, these files constitute the complete English academic text. The split is solely a repository-interface accommodation and does not represent separate publications.
+Together, these files constitute the complete English academic text. The split is solely a repository-interface and version-control accommodation and does not represent separate publications.
+
+[Return to the publication index](../../UOHF_Unification_EN_V1.0.1.md).
