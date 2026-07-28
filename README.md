@@ -34,11 +34,11 @@
 
 **A Whole-Person Conceptual Framework Centered on Human Function and Functional Engagement**
 
-This focused Version 1.0 paper, currently published as revision 1.0.1, explains what UOHF unifies, why functional engagement belongs inside the concept of human function, and how function, demand, bodily structure, bodily process, coordination, compensation, boundaries, state, time, and change are returned to the same whole person.
+This focused Version 1.0 paper, currently published as licensing revision 1.0.2, explains what UOHF unifies, why functional engagement belongs inside the concept of human function, and how function, demand, bodily structure, bodily process, coordination, compensation, boundaries, state, time, and change are returned to the same whole person.
 
-- **[English complete-text index](papers/unification/UOHF_Unification_EN_V1.0.1.md)**
-- **[中文完整全文索引](papers/unification/UOHF_Unification_ZH_V1.0.1.md)**
-- [Canonical Zenodo publication: 10.5281/zenodo.21630417](https://doi.org/10.5281/zenodo.21630417)
+- **[English complete-text index](papers/unification/UOHF_Unification_EN_V1.0.2.md)**
+- **[中文完整全文索引](papers/unification/UOHF_Unification_ZH_V1.0.2.md)**
+- [Canonical Zenodo publication: 10.5281/zenodo.21635694](https://doi.org/10.5281/zenodo.21635694)
 - [Paper overview and citation](papers/unification/README.md)
 
 The complete academic text is retained in the ordered source files under `papers/unification/source/en/` and `papers/unification/source/zh/`.
@@ -137,8 +137,8 @@ These are not medical diagnoses, permanent identities, or universal labels for o
 | Resource | Purpose |
 |---|---|
 | [UOHF Definition 2.1](https://doi.org/10.5281/zenodo.21630406) | Current authoritative framework paper, publication revision 2.1.1 |
-| [Unification paper — English complete-text index](papers/unification/UOHF_Unification_EN_V1.0.1.md) | Ordered entry point to the version-controlled English academic source |
-| [“统一”论文——中文完整全文索引](papers/unification/UOHF_Unification_ZH_V1.0.1.md) | 中文分卷全文的顺序入口 |
+| [Unification paper — English complete-text index](papers/unification/UOHF_Unification_EN_V1.0.2.md) | Ordered entry point to the version-controlled English academic source |
+| [“统一”论文——中文完整全文索引](papers/unification/UOHF_Unification_ZH_V1.0.2.md) | 中文分卷全文的顺序入口 |
 | [中文概览](README.zh-CN.md) | Concise Chinese repository introduction |
 | [中文完整定义](UOHF_DEFINITION_ZH.md) | Detailed Chinese framework definition |
 | [Public ontology release status](ontology/README.md) | Current machine-readable release boundary and release requirements |
@@ -157,6 +157,7 @@ These are not medical diagnoses, permanent identities, or universal labels for o
 - **UOHF V1.0 / publication revision 1.0.1** — initial ontology-driven, safety-constrained, auditable human-function inference framework; eight decision factors, Task–Capacity Matching, and early MVSS operationalization. DOI: [10.5281/zenodo.21630183](https://doi.org/10.5281/zenodo.21630183).
 - **UOHF Definition 2.0 / publication revision 2.0.1** — task-centered Functional Engagement architecture, semantic state–action spine, observation–inference separation, continuous write-back, and separation of UOHF, IHFM, and HFWM. DOI: [10.5281/zenodo.21630339](https://doi.org/10.5281/zenodo.21630339).
 - **UOHF Definition 2.1 / publication revision 2.1.1** — current authoritative framework; restores the full internal-and-external-demand scope, distinguishes Task from Task Demand, generalizes Functional Engagement, and defines the multiscale development trajectory. DOI: [10.5281/zenodo.21630406](https://doi.org/10.5281/zenodo.21630406).
+- **Unification in UOHF / publication revision 1.0.2** — focused conceptual paper on unification and functional engagement; licensing revised to CC BY-NC 4.0. DOI: [10.5281/zenodo.21635694](https://doi.org/10.5281/zenodo.21635694).
 
 Historical versions remain citable under their version-specific DOI and are preserved in the [version archive](versions/README.md).
 
@@ -214,6 +215,6 @@ Repository citation metadata is maintained in [`CITATION.cff`](CITATION.cff). Th
 
 **Copyright © 2026 Lei Che and MoveTips Technology (Beijing) Co., Ltd.**
 
-Record-specific access, license, attribution, and reuse terms are governed by the corresponding canonical Zenodo record. Repository-wide guidance is maintained in [`RIGHTS_AND_REUSE.md`](RIGHTS_AND_REUSE.md).
+Record-specific access, license, attribution, and reuse terms are governed by the corresponding canonical Zenodo record. The current Unification paper revision 1.0.2 is licensed under CC BY-NC 4.0. Repository-wide guidance is maintained in [`RIGHTS_AND_REUSE.md`](RIGHTS_AND_REUSE.md).
 
 When citing, adapting, translating, mapping, or implementing UOHF, preserve the author, framework version, publication revision, canonical DOI, provenance of modifications, and the medical, safety, evidence, and professional-scope limitations stated in the publication.
