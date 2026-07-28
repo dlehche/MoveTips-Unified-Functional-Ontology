@@ -2,7 +2,7 @@
 
 ## A governed semantic and computational ontology for human function and the Human Function World Model
 
-[中文](README.zh-CN.md) · [Definition 2.1 paper](https://doi.org/10.5281/zenodo.21630406) · [Unification paper](papers/unification/README.md) · [Version archive](versions/README.md) · [Citation metadata](CITATION.cff) · [Rights and reuse](RIGHTS_AND_REUSE.md) · [Collaboration](COLLABORATION.md)
+[中文](README.zh-CN.md) · [Definition 2.1 paper](https://doi.org/10.5281/zenodo.21630406) · [Unification paper](papers/unification/README.md) · [Version archive](versions/README.md) · [Publication map](PUBLICATIONS.json) · [Citation metadata](CITATION.cff) · [Rights and reuse](RIGHTS_AND_REUSE.md) · [Collaboration](COLLABORATION.md)
 
 **Official name:** Unified Ontology of Human Function  
 **Official abbreviation:** UOHF  
@@ -36,10 +36,12 @@
 
 This focused Version 1.0 paper, currently published as revision 1.0.1, explains what UOHF unifies, why functional engagement belongs inside the concept of human function, and how function, demand, bodily structure, bodily process, coordination, compensation, boundaries, state, time, and change are returned to the same whole person.
 
-- **[Read the complete English text](papers/unification/UOHF_Unification_EN_V1.0.1.md)**
-- **[阅读中文全文](papers/unification/UOHF_Unification_ZH_V1.0.1.md)**
+- **[English complete-text index](papers/unification/UOHF_Unification_EN_V1.0.1.md)**
+- **[中文完整全文索引](papers/unification/UOHF_Unification_ZH_V1.0.1.md)**
 - [Canonical Zenodo publication: 10.5281/zenodo.21630417](https://doi.org/10.5281/zenodo.21630417)
 - [Paper overview and citation](papers/unification/README.md)
+
+The complete academic text is retained in the ordered source files under `papers/unification/source/en/` and `papers/unification/source/zh/`.
 
 > **Unification in UOHF means using one coherent semantic system to describe human functions as they exist within an integrated whole person, together with their functional engagement.**
 
@@ -135,14 +137,16 @@ These are not medical diagnoses, permanent identities, or universal labels for o
 | Resource | Purpose |
 |---|---|
 | [UOHF Definition 2.1](https://doi.org/10.5281/zenodo.21630406) | Current authoritative framework paper, publication revision 2.1.1 |
-| [Unification paper — complete English text](papers/unification/UOHF_Unification_EN_V1.0.1.md) | Complete version-controlled English academic text |
-| [“统一”论文——中文全文](papers/unification/UOHF_Unification_ZH_V1.0.1.md) | 中文概念预印本全文 |
+| [Unification paper — English complete-text index](papers/unification/UOHF_Unification_EN_V1.0.1.md) | Ordered entry point to the version-controlled English academic source |
+| [“统一”论文——中文完整全文索引](papers/unification/UOHF_Unification_ZH_V1.0.1.md) | 中文分卷全文的顺序入口 |
 | [中文概览](README.zh-CN.md) | Concise Chinese repository introduction |
 | [中文完整定义](UOHF_DEFINITION_ZH.md) | Detailed Chinese framework definition |
 | [Public ontology release status](ontology/README.md) | Current machine-readable release boundary and release requirements |
-| [Version archive](versions/README.md) | V1.0.1, Definition 2.0.1, and Definition 2.1.1 history |
+| [Version archive](versions/README.md) | V1.0.1, Definition 2.0.1, Definition 2.1.1, and the focused unification paper |
+| [Canonical publication map](PUBLICATIONS.json) | Machine-readable version, DOI, date, and status mapping |
 | [Minimal task-centered example](examples/minimal-task-centered-case.json) | Non-normative example of structured reasoning objects |
 | [CITATION.cff](CITATION.cff) | Formal citation metadata |
+| [LICENSE](LICENSE) | Mixed-license repository notice |
 | [Rights and reuse](RIGHTS_AND_REUSE.md) | Publication, reuse, attribution, and repository-rights guidance |
 | [Research and collaboration](COLLABORATION.md) | Collaboration priorities and contribution routes |
 
@@ -212,4 +216,4 @@ Repository citation metadata is maintained in [`CITATION.cff`](CITATION.cff). Th
 
 Record-specific access, license, attribution, and reuse terms are governed by the corresponding canonical Zenodo record. Repository-wide guidance is maintained in [`RIGHTS_AND_REUSE.md`](RIGHTS_AND_REUSE.md).
 
-When citing, adapting, translating, mapping, or implementing UOHF, preserve the author, version identity, canonical DOI, provenance of modifications, and the medical, safety, evidence, and professional-scope limitations stated in the publication.
+When citing, adapting, translating, mapping, or implementing UOHF, preserve the author, framework version, publication revision, canonical DOI, provenance of modifications, and the medical, safety, evidence, and professional-scope limitations stated in the publication.
