@@ -6,15 +6,18 @@
 
 ## Publication metadata
 
-**Current project title:** *UOHF Definition 2.0: Unified Ontology of Human Function*  
+**Framework version:** UOHF Definition 2.0  
+**Publication revision:** 2.0.1  
+**Title:** *UOHF Definition 2.0: Unified Ontology of Human Function*  
 **Author:** Lei Che  
 **Contributors:** MoveTips Research & Engineering Team  
 **Affiliation:** MoveTips Technology (Beijing) Co., Ltd.  
-**Publication date:** July 15, 2026  
-**Version:** 2.0  
-**Canonical publication:** [Zenodo record 21368412](https://zenodo.org/records/21368412)  
-**DOI:** [10.5281/zenodo.21368412](https://doi.org/10.5281/zenodo.21368412)  
+**Original publication date:** July 15, 2026  
+**Canonical publication:** [Zenodo record 21630339](https://zenodo.org/records/21630339)  
+**DOI:** [10.5281/zenodo.21630339](https://doi.org/10.5281/zenodo.21630339)  
 **Copyright:** © 2026 Lei Che and MoveTips Technology (Beijing) Co., Ltd.
+
+The `2.0.1` revision standardizes the project name and abbreviation as Unified Ontology of Human Function (UOHF). The original Definition 2.0 architecture, scientific claims, and scope remain unchanged.
 
 ## Historical root definition
 
@@ -131,10 +134,10 @@ Definition 2.1 supersedes the Version 2.0 English root definition and upper-leve
 
 ## Citation
 
-> Che, Lei. *UOHF Definition 2.0: Unified Ontology of Human Function*. MoveTips Technology (Beijing) Co., Ltd., 2026. DOI: [10.5281/zenodo.21368412](https://doi.org/10.5281/zenodo.21368412).
+> Che, Lei. *UOHF Definition 2.0: Unified Ontology of Human Function*. Version 2.0.1. MoveTips Technology (Beijing) Co., Ltd., 2026. DOI: [10.5281/zenodo.21630339](https://doi.org/10.5281/zenodo.21630339).
 
 ## Copyright and reuse
 
 **Copyright © 2026 Lei Che and MoveTips Technology (Beijing) Co., Ltd.**
 
-The canonical Zenodo record governs version-specific access, license, attribution, and reuse terms. Any citation, translation, implementation, mapping, or derivative work should preserve the Version 2.0 identity, DOI, authorship, provenance, and the safety and professional-scope limitations of the publication.
+The canonical Zenodo record governs version-specific access, license, attribution, and reuse terms. Any citation, translation, implementation, mapping, or derivative work should preserve the Definition 2.0 framework identity, publication revision 2.0.1, DOI, authorship, provenance, and the safety and professional-scope limitations of the publication.
