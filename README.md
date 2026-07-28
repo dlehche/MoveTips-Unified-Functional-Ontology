@@ -12,6 +12,7 @@
 **Affiliation:** MoveTips Technology (Beijing) Co., Ltd.  
 **Correspondence:** dlehche@gmail.com  
 **DOI:** [10.5281/zenodo.21630406](https://doi.org/10.5281/zenodo.21630406)  
+**License:** CC BY-NC 4.0  
 **Copyright:** © 2026 Lei Che and MoveTips Technology (Beijing) Co., Ltd.
 
 **Philosophical starting point:**
@@ -143,7 +144,7 @@ These are not medical diagnoses, permanent identities, or universal labels for o
 | [中文完整定义](UOHF_DEFINITION_ZH.md) | Detailed Chinese framework definition |
 | [Public ontology release status](ontology/README.md) | Current machine-readable release boundary and release requirements |
 | [Version archive](versions/README.md) | V1.0.1, Definition 2.0.1, Definition 2.1.1, and the focused unification paper |
-| [Canonical publication map](PUBLICATIONS.json) | Machine-readable version, DOI, date, and status mapping |
+| [Canonical publication map](PUBLICATIONS.json) | Machine-readable version, DOI, date, license, and status mapping |
 | [Minimal task-centered example](examples/minimal-task-centered-case.json) | Non-normative example of structured reasoning objects |
 | [CITATION.cff](CITATION.cff) | Formal citation metadata |
 | [LICENSE](LICENSE) | Mixed-license repository notice |
@@ -157,9 +158,9 @@ These are not medical diagnoses, permanent identities, or universal labels for o
 - **UOHF V1.0 / publication revision 1.0.1** — initial ontology-driven, safety-constrained, auditable human-function inference framework; eight decision factors, Task–Capacity Matching, and early MVSS operationalization. DOI: [10.5281/zenodo.21630183](https://doi.org/10.5281/zenodo.21630183).
 - **UOHF Definition 2.0 / publication revision 2.0.1** — task-centered Functional Engagement architecture, semantic state–action spine, observation–inference separation, continuous write-back, and separation of UOHF, IHFM, and HFWM. DOI: [10.5281/zenodo.21630339](https://doi.org/10.5281/zenodo.21630339).
 - **UOHF Definition 2.1 / publication revision 2.1.1** — current authoritative framework; restores the full internal-and-external-demand scope, distinguishes Task from Task Demand, generalizes Functional Engagement, and defines the multiscale development trajectory. DOI: [10.5281/zenodo.21630406](https://doi.org/10.5281/zenodo.21630406).
-- **Unification in UOHF / publication revision 1.0.2** — focused conceptual paper on unification and functional engagement; licensing revised to CC BY-NC 4.0. DOI: [10.5281/zenodo.21635694](https://doi.org/10.5281/zenodo.21635694).
+- **Unification in UOHF / publication revision 1.0.2** — focused conceptual paper on unification and functional engagement. DOI: [10.5281/zenodo.21635694](https://doi.org/10.5281/zenodo.21635694).
 
-Historical versions remain citable under their version-specific DOI and are preserved in the [version archive](versions/README.md).
+The four current canonical publication records identify CC BY-NC 4.0 as the applicable license. Historical versions remain citable under their version-specific DOI and are preserved in the [version archive](versions/README.md).
 
 ---
 
@@ -215,6 +216,6 @@ Repository citation metadata is maintained in [`CITATION.cff`](CITATION.cff). Th
 
 **Copyright © 2026 Lei Che and MoveTips Technology (Beijing) Co., Ltd.**
 
-Record-specific access, license, attribution, and reuse terms are governed by the corresponding canonical Zenodo record. The current Unification paper revision 1.0.2 is licensed under CC BY-NC 4.0. Repository-wide guidance is maintained in [`RIGHTS_AND_REUSE.md`](RIGHTS_AND_REUSE.md).
+The four current canonical UOHF publications are identified as licensed under CC BY-NC 4.0. Public reuse requires appropriate attribution, identification of the applicable title and version, citation of the version-specific DOI, license information, and disclosure of modifications. Commercial use requires prior written permission from MoveTips Technology (Beijing) Co., Ltd. Record-specific terms remain governed by the corresponding canonical Zenodo record. Repository-wide guidance is maintained in [`RIGHTS_AND_REUSE.md`](RIGHTS_AND_REUSE.md).
 
 When citing, adapting, translating, mapping, or implementing UOHF, preserve the author, framework version, publication revision, canonical DOI, provenance of modifications, and the medical, safety, evidence, and professional-scope limitations stated in the publication.
