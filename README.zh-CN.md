@@ -2,14 +2,15 @@
 
 ## 正式英文名称：Unified Ontology of Human Function
 
-[English](README.md) · [UOHF Definition 2.1 论文](https://doi.org/10.5281/zenodo.21399269) · [“统一”中英文论文](papers/unification/README.md) · [版本档案](versions/README.md) · [引用信息](CITATION.cff) · [权利与复用](RIGHTS_AND_REUSE.md) · [研究与合作](COLLABORATION.md)
+[English](README.md) · [UOHF Definition 2.1 论文](https://doi.org/10.5281/zenodo.21630406) · [“统一”中英文论文](papers/unification/README.md) · [版本档案](versions/README.md) · [引用信息](CITATION.cff) · [权利与复用](RIGHTS_AND_REUSE.md) · [研究与合作](COLLABORATION.md)
 
 **正式简称：** UOHF  
 **当前权威框架：** UOHF Definition 2.1  
+**当前出版修订版本：** 2.1.1  
 **作者：** 车雷（Lei Che）  
 **机构：** 木梯科技（北京）有限公司  
 **联系邮箱：** dlehche@gmail.com  
-**DOI：** [10.5281/zenodo.21399269](https://doi.org/10.5281/zenodo.21399269)  
+**DOI：** [10.5281/zenodo.21630406](https://doi.org/10.5281/zenodo.21630406)  
 **著作权：** © 2026 车雷与木梯科技（北京）有限公司
 
 **哲学传播起点：**
@@ -33,11 +34,11 @@
 
 **——以人体功能及其调用为核心的完整人体概念框架**
 
-这篇 V1.0 专题论文集中解释：UOHF 到底统一什么，为什么调用属于人体功能概念内部，以及功能、需求、身体结构、身体过程、协作、代偿、边界、状态、时间和变化如何重新回到同一个完整人体中表达。
+这篇 V1.0 专题论文当前出版修订版本为 1.0.1，集中解释：UOHF 到底统一什么，为什么调用属于人体功能概念内部，以及功能、需求、身体结构、身体过程、协作、代偿、边界、状态、时间和变化如何重新回到同一个完整人体中表达。
 
-- **[阅读中文全文](papers/unification/UOHF_Unification_ZH_V1.0.md)**
-- **[阅读英文全文](papers/unification/UOHF_Unification_EN_V1.0.md)**
-- [Zenodo 权威出版记录：10.5281/zenodo.21618293](https://doi.org/10.5281/zenodo.21618293)
+- **[阅读中文全文](papers/unification/UOHF_Unification_ZH_V1.0.1.md)**
+- **[阅读英文全文](papers/unification/UOHF_Unification_EN_V1.0.1.md)**
+- [Zenodo 权威出版记录：10.5281/zenodo.21630417](https://doi.org/10.5281/zenodo.21630417)
 - [论文概览与引用信息](papers/unification/README.md)
 
 > **UOHF 中的统一，是把人体本来作为一个整体存在的功能及其调用，用同一套语义描述出来。**
@@ -137,12 +138,12 @@ UOHF Definition 2.1 区分四个相互连接的组成部分：
 
 | 内容 | 用途 |
 |---|---|
-| [UOHF Definition 2.1](https://doi.org/10.5281/zenodo.21399269) | 当前权威总体框架论文 |
-| [“统一”论文——中文全文](papers/unification/UOHF_Unification_ZH_V1.0.md) | 中文概念预印本全文 |
-| [“统一”论文——英文全文](papers/unification/UOHF_Unification_EN_V1.0.md) | 英文学术全文 |
+| [UOHF Definition 2.1](https://doi.org/10.5281/zenodo.21630406) | 当前权威总体框架论文，出版修订版本 2.1.1 |
+| [“统一”论文——中文全文](papers/unification/UOHF_Unification_ZH_V1.0.1.md) | 中文概念预印本全文 |
+| [“统一”论文——英文全文](papers/unification/UOHF_Unification_EN_V1.0.1.md) | 英文学术全文 |
 | [中文完整定义](UOHF_DEFINITION_ZH.md) | 详细中文框架定义 |
 | [公共机器可读本体状态](ontology/README.md) | 当前公开边界及未来正式发布要求 |
-| [版本档案](versions/README.md) | V1.0、Definition 2.0 与 Definition 2.1 |
+| [版本档案](versions/README.md) | V1.0.1、Definition 2.0.1 与 Definition 2.1.1 |
 | [最小任务案例](examples/minimal-task-centered-case.json) | 非规范性结构化案例 |
 | [CITATION.cff](CITATION.cff) | 正式引用信息 |
 | [权利与复用说明](RIGHTS_AND_REUSE.md) | 出版物、署名、复用和仓库权利边界 |
@@ -152,11 +153,11 @@ UOHF Definition 2.1 区分四个相互连接的组成部分：
 
 ## 版本关系
 
-- **UOHF V1.0**：早期本体驱动、安全约束、可审计的人体功能推理框架；提出八项决策因素、任务—能力匹配和早期 MVSS。
-- **UOHF Definition 2.0**：建立任务中心的 Functional Engagement 架构、语义状态—行动主轴、观察—推断分离、持续回写，以及 UOHF、IHFM、HFWM 分层。
-- **UOHF Definition 2.1**：当前权威框架；恢复内部与外部需求的完整范围，区分任务与任务需求，泛化 Functional Engagement，并明确多尺度发展路径。
+- **UOHF V1.0，出版修订版本 1.0.1**：早期本体驱动、安全约束、可审计的人体功能推理框架；提出八项决策因素、任务—能力匹配和早期 MVSS。DOI：[10.5281/zenodo.21630183](https://doi.org/10.5281/zenodo.21630183)。
+- **UOHF Definition 2.0，出版修订版本 2.0.1**：建立任务中心的 Functional Engagement 架构、语义状态—行动主轴、观察—推断分离、持续回写，以及 UOHF、IHFM、HFWM 分层。DOI：[10.5281/zenodo.21630339](https://doi.org/10.5281/zenodo.21630339)。
+- **UOHF Definition 2.1，出版修订版本 2.1.1**：当前权威框架；恢复内部与外部需求的完整范围，区分任务与任务需求，泛化 Functional Engagement，并明确多尺度发展路径。DOI：[10.5281/zenodo.21630406](https://doi.org/10.5281/zenodo.21630406)。
 
-历史版本不删除、不撤回，均保留独立 DOI，可在[版本档案](versions/README.md)中查看。
+框架版本用于标识概念与架构阶段；补丁版本用于标识 Zenodo 出版文件修订。历史版本不删除、不撤回，均保留具体版本 DOI，可在[版本档案](versions/README.md)中查看。
 
 ---
 
@@ -192,7 +193,7 @@ UOHF Definition 2.1 当前不宣称：
 
 ## 引用
 
-> Che, Lei. *UOHF Definition 2.1: Unified Ontology of Human Function*. MoveTips Technology (Beijing) Co., Ltd., 2026. DOI: [10.5281/zenodo.21399269](https://doi.org/10.5281/zenodo.21399269).
+> Che, Lei. *UOHF Definition 2.1: Unified Ontology of Human Function*. Version 2.1.1. MoveTips Technology (Beijing) Co., Ltd., 2026. DOI: [10.5281/zenodo.21630406](https://doi.org/10.5281/zenodo.21630406).
 
 仓库总体引用信息维护在 [`CITATION.cff`](CITATION.cff)；“统一”专题论文的独立引用信息维护在 [`papers/unification/CITATION.cff`](papers/unification/CITATION.cff)。
 
@@ -204,4 +205,4 @@ UOHF Definition 2.1 当前不宣称：
 
 具体出版物的访问、许可、署名和复用条件，以相应 Zenodo 权威记录为准；仓库总体说明见 [`RIGHTS_AND_REUSE.md`](RIGHTS_AND_REUSE.md)。
 
-引用、翻译、映射、实现或衍生使用时，应保留作者、版本身份、权威 DOI、修改来源，以及原文中的医学、安全、证据和专业权限边界。
+引用、翻译、映射、实现或衍生使用时，应保留作者、框架版本、出版修订版本、权威 DOI、修改来源，以及原文中的医学、安全、证据和专业权限边界。
