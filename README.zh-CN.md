@@ -2,7 +2,7 @@
 
 ## 正式英文名称：Unified Ontology of Human Function
 
-[English](README.md) · [UOHF Definition 2.1 论文](https://doi.org/10.5281/zenodo.21630406) · [“统一”中英文论文](papers/unification/README.md) · [版本档案](versions/README.md) · [引用信息](CITATION.cff) · [权利与复用](RIGHTS_AND_REUSE.md) · [研究与合作](COLLABORATION.md)
+[English](README.md) · [UOHF Definition 2.1 论文](https://doi.org/10.5281/zenodo.21630406) · [“统一”中英文论文](papers/unification/README.md) · [版本档案](versions/README.md) · [出版映射](PUBLICATIONS.json) · [引用信息](CITATION.cff) · [权利与复用](RIGHTS_AND_REUSE.md) · [研究与合作](COLLABORATION.md)
 
 **正式简称：** UOHF  
 **当前权威框架：** UOHF Definition 2.1  
@@ -36,10 +36,12 @@
 
 这篇 V1.0 专题论文当前出版修订版本为 1.0.1，集中解释：UOHF 到底统一什么，为什么调用属于人体功能概念内部，以及功能、需求、身体结构、身体过程、协作、代偿、边界、状态、时间和变化如何重新回到同一个完整人体中表达。
 
-- **[阅读中文全文](papers/unification/UOHF_Unification_ZH_V1.0.1.md)**
-- **[阅读英文全文](papers/unification/UOHF_Unification_EN_V1.0.1.md)**
+- **[中文完整全文索引](papers/unification/UOHF_Unification_ZH_V1.0.1.md)**
+- **[英文完整全文索引](papers/unification/UOHF_Unification_EN_V1.0.1.md)**
 - [Zenodo 权威出版记录：10.5281/zenodo.21630417](https://doi.org/10.5281/zenodo.21630417)
 - [论文概览与引用信息](papers/unification/README.md)
+
+GitHub 中的完整学术文本保存在 `papers/unification/source/zh/` 与 `papers/unification/source/en/` 的顺序分卷中。
 
 > **UOHF 中的统一，是把人体本来作为一个整体存在的功能及其调用，用同一套语义描述出来。**
 
@@ -139,13 +141,15 @@ UOHF Definition 2.1 区分四个相互连接的组成部分：
 | 内容 | 用途 |
 |---|---|
 | [UOHF Definition 2.1](https://doi.org/10.5281/zenodo.21630406) | 当前权威总体框架论文，出版修订版本 2.1.1 |
-| [“统一”论文——中文全文](papers/unification/UOHF_Unification_ZH_V1.0.1.md) | 中文概念预印本全文 |
-| [“统一”论文——英文全文](papers/unification/UOHF_Unification_EN_V1.0.1.md) | 英文学术全文 |
+| [“统一”论文——中文完整全文索引](papers/unification/UOHF_Unification_ZH_V1.0.1.md) | 中文分卷全文的顺序入口 |
+| [“统一”论文——英文完整全文索引](papers/unification/UOHF_Unification_EN_V1.0.1.md) | 英文分卷全文的顺序入口 |
 | [中文完整定义](UOHF_DEFINITION_ZH.md) | 详细中文框架定义 |
 | [公共机器可读本体状态](ontology/README.md) | 当前公开边界及未来正式发布要求 |
-| [版本档案](versions/README.md) | V1.0.1、Definition 2.0.1 与 Definition 2.1.1 |
+| [版本档案](versions/README.md) | V1.0.1、Definition 2.0.1、Definition 2.1.1 及“统一”专题论文 |
+| [权威出版映射](PUBLICATIONS.json) | 机器可读的版本、DOI、日期与状态映射 |
 | [最小任务案例](examples/minimal-task-centered-case.json) | 非规范性结构化案例 |
 | [CITATION.cff](CITATION.cff) | 正式引用信息 |
+| [LICENSE](LICENSE) | 混合许可仓库说明 |
 | [权利与复用说明](RIGHTS_AND_REUSE.md) | 出版物、署名、复用和仓库权利边界 |
 | [研究与合作](COLLABORATION.md) | 当前合作重点和参与方式 |
 
