@@ -2,15 +2,16 @@
 
 ## A governed semantic and computational ontology for human function and the Human Function World Model
 
-[中文](README.zh-CN.md) · [Definition 2.1 paper](https://doi.org/10.5281/zenodo.21399269) · [Unification paper](papers/unification/README.md) · [Version archive](versions/README.md) · [Citation metadata](CITATION.cff) · [Rights and reuse](RIGHTS_AND_REUSE.md) · [Collaboration](COLLABORATION.md)
+[中文](README.zh-CN.md) · [Definition 2.1 paper](https://doi.org/10.5281/zenodo.21630406) · [Unification paper](papers/unification/README.md) · [Version archive](versions/README.md) · [Citation metadata](CITATION.cff) · [Rights and reuse](RIGHTS_AND_REUSE.md) · [Collaboration](COLLABORATION.md)
 
 **Official name:** Unified Ontology of Human Function  
 **Official abbreviation:** UOHF  
 **Current authoritative framework:** UOHF Definition 2.1  
+**Current publication revision:** 2.1.1  
 **Author:** Lei Che  
 **Affiliation:** MoveTips Technology (Beijing) Co., Ltd.  
 **Correspondence:** dlehche@gmail.com  
-**DOI:** [10.5281/zenodo.21399269](https://doi.org/10.5281/zenodo.21399269)  
+**DOI:** [10.5281/zenodo.21630406](https://doi.org/10.5281/zenodo.21630406)  
 **Copyright:** © 2026 Lei Che and MoveTips Technology (Beijing) Co., Ltd.
 
 **Philosophical starting point:**
@@ -33,11 +34,11 @@
 
 **A Whole-Person Conceptual Framework Centered on Human Function and Functional Engagement**
 
-This focused Version 1.0 paper explains what UOHF unifies, why functional engagement belongs inside the concept of human function, and how function, demand, bodily structure, bodily process, coordination, compensation, boundaries, state, time, and change are returned to the same whole person.
+This focused Version 1.0 paper, currently published as revision 1.0.1, explains what UOHF unifies, why functional engagement belongs inside the concept of human function, and how function, demand, bodily structure, bodily process, coordination, compensation, boundaries, state, time, and change are returned to the same whole person.
 
-- **[Read the English text](papers/unification/UOHF_Unification_EN_V1.0.md)**
-- **[阅读中文全文](papers/unification/UOHF_Unification_ZH_V1.0.md)**
-- [Canonical Zenodo publication: 10.5281/zenodo.21618293](https://doi.org/10.5281/zenodo.21618293)
+- **[Read the complete English text](papers/unification/UOHF_Unification_EN_V1.0.1.md)**
+- **[阅读中文全文](papers/unification/UOHF_Unification_ZH_V1.0.1.md)**
+- [Canonical Zenodo publication: 10.5281/zenodo.21630417](https://doi.org/10.5281/zenodo.21630417)
 - [Paper overview and citation](papers/unification/README.md)
 
 > **Unification in UOHF means using one coherent semantic system to describe human functions as they exist within an integrated whole person, together with their functional engagement.**
@@ -133,13 +134,13 @@ These are not medical diagnoses, permanent identities, or universal labels for o
 
 | Resource | Purpose |
 |---|---|
-| [UOHF Definition 2.1](https://doi.org/10.5281/zenodo.21399269) | Current authoritative framework paper |
-| [Unification paper — English text](papers/unification/UOHF_Unification_EN_V1.0.md) | Version-controlled English academic text |
-| [“统一”论文——中文全文](papers/unification/UOHF_Unification_ZH_V1.0.md) | 中文概念预印本全文 |
+| [UOHF Definition 2.1](https://doi.org/10.5281/zenodo.21630406) | Current authoritative framework paper, publication revision 2.1.1 |
+| [Unification paper — complete English text](papers/unification/UOHF_Unification_EN_V1.0.1.md) | Complete version-controlled English academic text |
+| [“统一”论文——中文全文](papers/unification/UOHF_Unification_ZH_V1.0.1.md) | 中文概念预印本全文 |
 | [中文概览](README.zh-CN.md) | Concise Chinese repository introduction |
 | [中文完整定义](UOHF_DEFINITION_ZH.md) | Detailed Chinese framework definition |
 | [Public ontology release status](ontology/README.md) | Current machine-readable release boundary and release requirements |
-| [Version archive](versions/README.md) | V1.0, Definition 2.0, and Definition 2.1 history |
+| [Version archive](versions/README.md) | V1.0.1, Definition 2.0.1, and Definition 2.1.1 history |
 | [Minimal task-centered example](examples/minimal-task-centered-case.json) | Non-normative example of structured reasoning objects |
 | [CITATION.cff](CITATION.cff) | Formal citation metadata |
 | [Rights and reuse](RIGHTS_AND_REUSE.md) | Publication, reuse, attribution, and repository-rights guidance |
@@ -149,11 +150,11 @@ These are not medical diagnoses, permanent identities, or universal labels for o
 
 ## Version history
 
-- **UOHF V1.0** — initial ontology-driven, safety-constrained, auditable human-function inference framework; eight decision factors, Task–Capacity Matching, and early MVSS operationalization.
-- **UOHF Definition 2.0** — task-centered Functional Engagement architecture, semantic state–action spine, observation–inference separation, continuous write-back, and separation of UOHF, IHFM, and HFWM.
-- **UOHF Definition 2.1** — current authoritative framework; restores the full internal-and-external-demand scope, distinguishes Task from Task Demand, generalizes Functional Engagement, and defines the multiscale development trajectory.
+- **UOHF V1.0 / publication revision 1.0.1** — initial ontology-driven, safety-constrained, auditable human-function inference framework; eight decision factors, Task–Capacity Matching, and early MVSS operationalization. DOI: [10.5281/zenodo.21630183](https://doi.org/10.5281/zenodo.21630183).
+- **UOHF Definition 2.0 / publication revision 2.0.1** — task-centered Functional Engagement architecture, semantic state–action spine, observation–inference separation, continuous write-back, and separation of UOHF, IHFM, and HFWM. DOI: [10.5281/zenodo.21630339](https://doi.org/10.5281/zenodo.21630339).
+- **UOHF Definition 2.1 / publication revision 2.1.1** — current authoritative framework; restores the full internal-and-external-demand scope, distinguishes Task from Task Demand, generalizes Functional Engagement, and defines the multiscale development trajectory. DOI: [10.5281/zenodo.21630406](https://doi.org/10.5281/zenodo.21630406).
 
-Historical versions remain citable under their own DOI and are preserved in the [version archive](versions/README.md).
+Historical versions remain citable under their version-specific DOI and are preserved in the [version archive](versions/README.md).
 
 ---
 
@@ -199,7 +200,7 @@ For research, interoperability, implementation, or institutional collaboration: 
 
 ## Citation
 
-> Che, Lei. *UOHF Definition 2.1: Unified Ontology of Human Function*. MoveTips Technology (Beijing) Co., Ltd., 2026. DOI: [10.5281/zenodo.21399269](https://doi.org/10.5281/zenodo.21399269).
+> Che, Lei. *UOHF Definition 2.1: Unified Ontology of Human Function*. Version 2.1.1. MoveTips Technology (Beijing) Co., Ltd., 2026. DOI: [10.5281/zenodo.21630406](https://doi.org/10.5281/zenodo.21630406).
 
 Repository citation metadata is maintained in [`CITATION.cff`](CITATION.cff). The focused unification paper has separate citation metadata in [`papers/unification/CITATION.cff`](papers/unification/CITATION.cff).
 
