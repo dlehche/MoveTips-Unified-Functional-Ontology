@@ -6,7 +6,7 @@
 **Author:** Lei Che  
 **Affiliation:** MoveTips Technology (Beijing) Co., Ltd.  
 **Release date:** 31 July 2026  
-**License:** CC BY-NC 4.0
+**License:** Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
 
 This file is the ordered complete-text index for the version-controlled academic source. Read the parts in the sequence below. Collectively, the linked files constitute one paper, not separate publications.
 
