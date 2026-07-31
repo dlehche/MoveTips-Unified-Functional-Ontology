@@ -1,7 +1,8 @@
 cff-version: 1.2.0
-message: "If you use this UOHF formal-framework preprint, please cite it using the metadata below."
+message: "If you use this UOHF formal-framework publication, please cite it using the metadata below."
 title: "A Formal Framework for Human Function in UOHF: Capacity, Functional Engagement, Demand-Bounded Realizability, and Evidence-Constrained Decision Support"
 version: "1.0"
+doi: "10.5281/zenodo.21721599"
 authors:
   - family-names: "Che"
     given-names: "Lei"
@@ -9,7 +10,7 @@ authors:
     affiliation: "MoveTips Technology (Beijing) Co., Ltd."
 date-released: 2026-07-31
 repository-code: "https://github.com/dlehche/Unified-Ontology-Of-Human-Function/tree/main/papers/formal-framework"
-url: "https://github.com/dlehche/Unified-Ontology-Of-Human-Function/tree/main/papers/formal-framework"
+url: "https://doi.org/10.5281/zenodo.21721599"
 license: CC-BY-NC-4.0
 abstract: >-
   This paper develops a formal framework for human function within the Unified
@@ -39,6 +40,7 @@ preferred-citation:
   title: "A Formal Framework for Human Function in UOHF: Capacity, Functional Engagement, Demand-Bounded Realizability, and Evidence-Constrained Decision Support"
   year: 2026
   version: "1.0"
+  doi: "10.5281/zenodo.21721599"
   institution:
     name: "MoveTips Technology (Beijing) Co., Ltd."
-  url: "https://github.com/dlehche/Unified-Ontology-Of-Human-Function/tree/main/papers/formal-framework"
+  url: "https://doi.org/10.5281/zenodo.21721599"
