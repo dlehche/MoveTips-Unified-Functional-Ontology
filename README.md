@@ -2,7 +2,7 @@
 
 ## A governed semantic and computational ontology for human function and the Human Function World Model
 
-[中文](README.zh-CN.md) · [Definition 2.1 paper](https://doi.org/10.5281/zenodo.21630406) · [Unification paper](papers/unification/README.md) · **[Formal framework paper](papers/formal-framework/README.md)** · [Version archive](versions/README.md) · [Publication map](PUBLICATIONS.json) · [Citation metadata](CITATION.cff) · [Rights and reuse](RIGHTS_AND_REUSE.md) · [Collaboration](COLLABORATION.md)
+[中文](README.zh-CN.md) · [Definition 2.1 paper](https://doi.org/10.5281/zenodo.21630406) · [Unification paper](papers/unification/README.md) · **[Formal framework paper](https://doi.org/10.5281/zenodo.21721599)** · [Version archive](versions/README.md) · [Publication map](PUBLICATIONS.json) · [Citation metadata](CITATION.cff) · [Rights and reuse](RIGHTS_AND_REUSE.md) · [Collaboration](COLLABORATION.md)
 
 **Official name:** Unified Ontology of Human Function  
 **Official abbreviation:** UOHF  
@@ -54,13 +54,14 @@ The complete academic text is retained in the ordered source files under `papers
 
 **Capacity, Functional Engagement, Demand-Bounded Realizability, and Evidence-Constrained Decision Support**
 
-This Version 1.0 repository academic preprint develops the formal mathematical and implementation-oriented core under UOHF Definition 2.1. It specifies typed formal objects, twelve axioms, the demand-bounded realizability criterion, result non-identifiability, evidence-bounded problem hypotheses, governed action selection, dynamic state update, falsification conditions, and a staged empirical research program.
+This Version 1.0 Zenodo-archived focused publication develops the formal mathematical and implementation-oriented core under UOHF Definition 2.1. It specifies typed formal objects, twelve axioms, the demand-bounded realizability criterion, result non-identifiability, evidence-bounded problem hypotheses, governed action selection, dynamic state update, falsification conditions, and a staged empirical research program.
 
+- **[Canonical Zenodo publication: 10.5281/zenodo.21721599](https://doi.org/10.5281/zenodo.21721599)**
 - **[Complete English paper](papers/formal-framework/UOHF_Formal_Framework_EN_V1.0.md)**
 - **[中文完整论文](papers/formal-framework/UOHF_Formal_Framework_ZH_V1.0.md)**
 - [Paper overview, scope, citation, and rights](papers/formal-framework/README.md)
 
-The English version is maintained as ordered source files under `papers/formal-framework/source/en/`. The Chinese file is a directly readable complete edition preserving the equations, axioms, propositions, examples, limitations, and research boundaries.
+The archived PDF is `UOHF_Formal_Framework_for_Human_Function_V1.0_CC_BY_NC_4.0.pdf`. The English version is maintained as ordered source files under `papers/formal-framework/source/en/`. The Chinese file is a directly readable complete edition preserving the equations, axioms, propositions, examples, limitations, and research boundaries.
 
 > **The paper does not claim that one equation already computes the whole human body. It proposes one typed, demand-conditioned, evidence-bounded, safety-constrained, longitudinally revisable formal framework into which valid human-function knowledge can enter.**
 
@@ -156,6 +157,7 @@ These are not medical diagnoses, permanent identities, or universal labels for o
 | Resource | Purpose |
 |---|---|
 | [UOHF Definition 2.1](https://doi.org/10.5281/zenodo.21630406) | Current authoritative framework paper, publication revision 2.1.1 |
+| [Formal framework publication](https://doi.org/10.5281/zenodo.21721599) | Canonical Zenodo record for the Version 1.0 formal and computational framework |
 | [Formal framework — complete English paper](papers/formal-framework/UOHF_Formal_Framework_EN_V1.0.md) | Mathematical and implementation-oriented complete-text index |
 | [人体功能形式化框架——中文完整论文](papers/formal-framework/UOHF_Formal_Framework_ZH_V1.0.md) | 中文公式、公理、命题、案例、可证伪条件与研究路线全文 |
 | [Formal framework overview](papers/formal-framework/README.md) | Bilingual entry point, scope, claim boundary, citation, and rights |
@@ -164,7 +166,7 @@ These are not medical diagnoses, permanent identities, or universal labels for o
 | [中文概览](README.zh-CN.md) | Concise Chinese repository introduction |
 | [中文完整定义](UOHF_DEFINITION_ZH.md) | Detailed Chinese framework definition |
 | [Public ontology release status](ontology/README.md) | Current machine-readable release boundary and release requirements |
-| [Version archive](versions/README.md) | V1.0.1, Definition 2.0.1, Definition 2.1.1, and the focused unification paper |
+| [Version archive](versions/README.md) | V1.0.1, Definition 2.0.1, Definition 2.1.1, and focused publications |
 | [Canonical publication map](PUBLICATIONS.json) | Machine-readable version, DOI, date, license, and status mapping |
 | [Minimal task-centered example](examples/minimal-task-centered-case.json) | Non-normative example of structured reasoning objects |
 | [CITATION.cff](CITATION.cff) | Formal citation metadata |
@@ -180,8 +182,9 @@ These are not medical diagnoses, permanent identities, or universal labels for o
 - **UOHF Definition 2.0 / publication revision 2.0.1** — task-centered Functional Engagement architecture, semantic state–action spine, observation–inference separation, continuous write-back, and separation of UOHF, IHFM, and HFWM. DOI: [10.5281/zenodo.21630339](https://doi.org/10.5281/zenodo.21630339).
 - **UOHF Definition 2.1 / publication revision 2.1.1** — current authoritative framework; restores the full internal-and-external-demand scope, distinguishes Task from Task Demand, generalizes Functional Engagement, and defines the multiscale development trajectory. DOI: [10.5281/zenodo.21630406](https://doi.org/10.5281/zenodo.21630406).
 - **Unification in UOHF / publication revision 1.0.2** — focused conceptual paper on unification and functional engagement. DOI: [10.5281/zenodo.21635694](https://doi.org/10.5281/zenodo.21635694).
+- **A Formal Framework for Human Function in UOHF / Version 1.0** — focused formal and computational publication on capacity, engagement, demand-bounded realizability, evidence-constrained reasoning, governed action, and longitudinal update. DOI: [10.5281/zenodo.21721599](https://doi.org/10.5281/zenodo.21721599).
 
-The Version 1.0 formal-framework paper is currently a repository academic preprint and is not represented as a canonical DOI publication in `PUBLICATIONS.json`. The four current canonical publication records identify CC BY-NC 4.0 as the applicable license. Historical versions remain citable under their version-specific DOI and are preserved in the [version archive](versions/README.md).
+UOHF Definition 2.1 remains the current authoritative framework. The unification and formal-framework papers are separately archived focused publications developed under the governed UOHF publication structure. All current canonical publication records identify CC BY-NC 4.0 as the applicable license. Historical versions remain citable under their version-specific DOI and are preserved in the [version archive](versions/README.md).
 
 ---
 
@@ -229,7 +232,9 @@ For research, interoperability, implementation, or institutional collaboration: 
 
 > Che, Lei. *UOHF Definition 2.1: Unified Ontology of Human Function*. Version 2.1.1. MoveTips Technology (Beijing) Co., Ltd., 2026. DOI: [10.5281/zenodo.21630406](https://doi.org/10.5281/zenodo.21630406).
 
-Repository citation metadata is maintained in [`CITATION.cff`](CITATION.cff). The focused unification paper has separate citation metadata in [`papers/unification/CITATION.cff`](papers/unification/CITATION.cff), and the formal-framework repository preprint has separate metadata in [`papers/formal-framework/CITATION.cff`](papers/formal-framework/CITATION.cff).
+> Che, Lei. *A Formal Framework for Human Function in UOHF: Capacity, Functional Engagement, Demand-Bounded Realizability, and Evidence-Constrained Decision Support*. Version 1.0. MoveTips Technology (Beijing) Co., Ltd., 2026. DOI: [10.5281/zenodo.21721599](https://doi.org/10.5281/zenodo.21721599).
+
+Repository citation metadata is maintained in [`CITATION.cff`](CITATION.cff). The focused unification paper has separate citation metadata in [`papers/unification/CITATION.cff`](papers/unification/CITATION.cff), and the formal-framework publication has separate metadata in [`papers/formal-framework/CITATION.cff`](papers/formal-framework/CITATION.cff).
 
 ---
 
@@ -237,6 +242,6 @@ Repository citation metadata is maintained in [`CITATION.cff`](CITATION.cff). Th
 
 **Copyright © 2026 Lei Che and MoveTips Technology (Beijing) Co., Ltd.**
 
-The four current canonical UOHF publications are identified as licensed under CC BY-NC 4.0. The formal-framework repository preprint is also identified as CC BY-NC 4.0 in its paper directory. Public reuse requires appropriate attribution, identification of the applicable title and version, citation of the version-specific DOI when available, license information, and disclosure of modifications. Commercial use requires prior written permission from MoveTips Technology (Beijing) Co., Ltd. Record-specific terms remain governed by the corresponding canonical Zenodo record. Repository-wide guidance is maintained in [`RIGHTS_AND_REUSE.md`](RIGHTS_AND_REUSE.md).
+The current UOHF publication records are identified as licensed under CC BY-NC 4.0. Public reuse requires appropriate attribution, identification of the applicable title and version, citation of the version-specific DOI, license information, and disclosure of modifications. Commercial use requires prior written permission from MoveTips Technology (Beijing) Co., Ltd. Record-specific terms remain governed by the corresponding canonical Zenodo record. Repository-wide guidance is maintained in [`RIGHTS_AND_REUSE.md`](RIGHTS_AND_REUSE.md).
 
 When citing, adapting, translating, mapping, or implementing UOHF, preserve the author, framework version, publication revision, canonical DOI when applicable, provenance of modifications, and the medical, safety, evidence, and professional-scope limitations stated in the publication.
