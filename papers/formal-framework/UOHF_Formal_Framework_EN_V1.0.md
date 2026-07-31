@@ -2,13 +2,14 @@
 
 ## Capacity, Functional Engagement, Demand-Bounded Realizability, and Evidence-Constrained Decision Support
 
-**Version 1.0 English Academic Preprint**  
+**Version 1.0 Formal and Computational Research Framework**  
 **Author:** Lei Che  
 **Affiliation:** MoveTips Technology (Beijing) Co., Ltd.  
 **Release date:** 31 July 2026  
+**DOI:** [10.5281/zenodo.21721599](https://doi.org/10.5281/zenodo.21721599)  
 **License:** Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
 
-**[Read the complete Chinese paper / 阅读中文完整论文](UOHF_Formal_Framework_ZH_V1.0.md)**
+**[Canonical Zenodo publication](https://doi.org/10.5281/zenodo.21721599)** · **[Read the complete Chinese paper / 阅读中文完整论文](UOHF_Formal_Framework_ZH_V1.0.md)**
 
 This file is the ordered complete-text index for the version-controlled English academic source. Read the parts in the sequence below. Collectively, the linked files constitute one paper, not separate publications.
 
@@ -24,4 +25,4 @@ This file is the ordered complete-text index for the version-controlled English 
 10. [Declarations and references](source/en/09-declarations-and-references.md)
 11. [Appendices](source/en/10-appendices.md)
 
-The authoritative UOHF framework definition remains **UOHF Definition 2.1**. This paper is a focused formal-framework preprint developed under that definition.
+The authoritative UOHF framework definition remains **UOHF Definition 2.1**. This paper is a separately archived focused formal-framework publication developed under that definition and does not replace it.
