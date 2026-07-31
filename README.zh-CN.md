@@ -2,7 +2,7 @@
 
 ## 正式英文名称：Unified Ontology of Human Function
 
-[English](README.md) · [UOHF Definition 2.1 论文](https://doi.org/10.5281/zenodo.21630406) · [“统一”中英文论文](papers/unification/README.md) · **[人体功能形式化框架论文](papers/formal-framework/README.zh-CN.md)** · [版本档案](versions/README.md) · [出版映射](PUBLICATIONS.json) · [引用信息](CITATION.cff) · [权利与复用](RIGHTS_AND_REUSE.md) · [研究与合作](COLLABORATION.md)
+[English](README.md) · [UOHF Definition 2.1 论文](https://doi.org/10.5281/zenodo.21630406) · [“统一”中英文论文](papers/unification/README.md) · **[人体功能形式化框架论文](https://doi.org/10.5281/zenodo.21721599)** · [版本档案](versions/README.md) · [出版映射](PUBLICATIONS.json) · [引用信息](CITATION.cff) · [权利与复用](RIGHTS_AND_REUSE.md) · [研究与合作](COLLABORATION.md)
 
 **正式简称：** UOHF  
 **当前权威框架：** UOHF Definition 2.1  
@@ -54,13 +54,14 @@ GitHub 中的完整学术文本保存在 `papers/unification/source/zh/` 与 `pa
 
 **——能力、功能调用、需求有界可实现性与证据约束决策支持**
 
-这篇 Version 1.0 仓库学术预印本，在 UOHF Definition 2.1 根定义下建立数学和实现层形式内核。论文完整规定：形式对象与类型系统、12条核心公理、需求有界可实现性判据、结果不可识别性命题、问题假设与证据状态双轴、受治理行动选择、动态状态更新、可证伪条件和分阶段实证研究路线。
+这篇 Version 1.0 Zenodo 已归档专题出版物，在 UOHF Definition 2.1 根定义下建立数学和实现层形式内核。论文完整规定：形式对象与类型系统、12条核心公理、需求有界可实现性判据、结果不可识别性命题、问题假设与证据状态双轴、受治理行动选择、动态状态更新、可证伪条件和分阶段实证研究路线。
 
+- **[Zenodo 正式归档记录：10.5281/zenodo.21721599](https://doi.org/10.5281/zenodo.21721599)**
 - **[中文完整论文](papers/formal-framework/UOHF_Formal_Framework_ZH_V1.0.md)**
 - **[英文完整论文](papers/formal-framework/UOHF_Formal_Framework_EN_V1.0.md)**
 - [中英文论文概览、边界、引用和许可](papers/formal-framework/README.zh-CN.md)
 
-中文文件不是摘要，而是可以直接阅读的完整版本，保留公式（1）—（7）、12条公理、两个命题、爬楼膝痛与内部恢复案例、局限、声明、参考文献和机器可读实现要求。
+Zenodo 归档 PDF 文件名为 `UOHF_Formal_Framework_for_Human_Function_V1.0_CC_BY_NC_4.0.pdf`。中文文件不是摘要，而是可以直接阅读的完整版本，保留公式（1）—（7）、12条公理、两个命题、爬楼膝痛与内部恢复案例、局限、声明、参考文献和机器可读实现要求。
 
 > **这篇论文不宣称一条公式已经算完完整人体，而是建立一套类型明确、需求条件化、证据有界、安全受约束并可长期修正的统一形式框架。**
 
@@ -160,6 +161,7 @@ UOHF Definition 2.1 区分四个相互连接的组成部分：
 | 内容 | 用途 |
 |---|---|
 | [UOHF Definition 2.1](https://doi.org/10.5281/zenodo.21630406) | 当前权威总体框架论文，出版修订版本 2.1.1 |
+| [人体功能形式化框架 Zenodo 出版记录](https://doi.org/10.5281/zenodo.21721599) | Version 1.0 形式化与计算框架正式归档记录 |
 | [人体功能形式化框架——中文完整论文](papers/formal-framework/UOHF_Formal_Framework_ZH_V1.0.md) | 中文公式、公理、命题、案例、可证伪条件与研究路线全文 |
 | [A Formal Framework for Human Function——英文完整论文](papers/formal-framework/UOHF_Formal_Framework_EN_V1.0.md) | 英文顺序分卷完整论文入口 |
 | [形式化框架论文概览](papers/formal-framework/README.zh-CN.md) | 中英文入口、范围、边界、引用与许可 |
@@ -167,7 +169,7 @@ UOHF Definition 2.1 区分四个相互连接的组成部分：
 | [“统一”论文——英文完整全文索引](papers/unification/UOHF_Unification_EN_V1.0.2.md) | 英文分卷全文的顺序入口 |
 | [中文完整定义](UOHF_DEFINITION_ZH.md) | 详细中文框架定义 |
 | [公共机器可读本体状态](ontology/README.md) | 当前公开边界及未来正式发布要求 |
-| [版本档案](versions/README.md) | V1.0.1、Definition 2.0.1、Definition 2.1.1 及“统一”专题论文 |
+| [版本档案](versions/README.md) | V1.0.1、Definition 2.0.1、Definition 2.1.1 及专题论文 |
 | [权威出版映射](PUBLICATIONS.json) | 机器可读的版本、DOI、日期、许可与状态映射 |
 | [最小任务案例](examples/minimal-task-centered-case.json) | 非规范性结构化案例 |
 | [CITATION.cff](CITATION.cff) | 正式引用信息 |
@@ -183,8 +185,9 @@ UOHF Definition 2.1 区分四个相互连接的组成部分：
 - **UOHF Definition 2.0，出版修订版本 2.0.1**：建立任务中心的 Functional Engagement 架构、语义状态—行动主轴、观察—推断分离、持续回写，以及 UOHF、IHFM、HFWM 分层。DOI：[10.5281/zenodo.21630339](https://doi.org/10.5281/zenodo.21630339)。
 - **UOHF Definition 2.1，出版修订版本 2.1.1**：当前权威框架；恢复内部与外部需求的完整范围，区分任务与任务需求，泛化 Functional Engagement，并明确多尺度发展路径。DOI：[10.5281/zenodo.21630406](https://doi.org/10.5281/zenodo.21630406)。
 - **“统一”专题论文，出版修订版本 1.0.2**：集中解释统一与调用。DOI：[10.5281/zenodo.21635694](https://doi.org/10.5281/zenodo.21635694)。
+- **人体功能形式化框架 Version 1.0**：集中建立能力、调用、需求有界可实现性、证据约束推理、受治理行动和长期更新的数学与实现框架。DOI：[10.5281/zenodo.21721599](https://doi.org/10.5281/zenodo.21721599)。
 
-Version 1.0 人体功能形式化框架当前属于 GitHub 仓库学术预印本，尚未作为带独立 DOI 的权威出版记录写入 `PUBLICATIONS.json`。上述四篇当前权威出版记录均标注为 CC BY-NC 4.0。历史版本不删除、不撤回，均保留具体版本 DOI，可在[版本档案](versions/README.md)中查看。
+UOHF Definition 2.1 仍是当前权威总体框架。“统一”论文和形式化框架论文是纳入版本治理、分别归档的专题出版物。当前出版记录均标注为 CC BY-NC 4.0。历史版本不删除、不撤回，均保留具体版本 DOI，可在[版本档案](versions/README.md)中查看。
 
 ---
 
@@ -222,7 +225,9 @@ UOHF Definition 2.1 当前不宣称：
 
 > Che, Lei. *UOHF Definition 2.1: Unified Ontology of Human Function*. Version 2.1.1. MoveTips Technology (Beijing) Co., Ltd., 2026. DOI: [10.5281/zenodo.21630406](https://doi.org/10.5281/zenodo.21630406).
 
-仓库总体引用信息维护在 [`CITATION.cff`](CITATION.cff)；“统一”专题论文的独立引用信息维护在 [`papers/unification/CITATION.cff`](papers/unification/CITATION.cff)；人体功能形式化框架仓库预印本的独立引用信息维护在 [`papers/formal-framework/CITATION.cff`](papers/formal-framework/CITATION.cff)。
+> Che, Lei. *A Formal Framework for Human Function in UOHF: Capacity, Functional Engagement, Demand-Bounded Realizability, and Evidence-Constrained Decision Support*. Version 1.0. MoveTips Technology (Beijing) Co., Ltd., 2026. DOI: [10.5281/zenodo.21721599](https://doi.org/10.5281/zenodo.21721599).
+
+仓库总体引用信息维护在 [`CITATION.cff`](CITATION.cff)；“统一”专题论文的独立引用信息维护在 [`papers/unification/CITATION.cff`](papers/unification/CITATION.cff)；人体功能形式化框架出版物的独立引用信息维护在 [`papers/formal-framework/CITATION.cff`](papers/formal-framework/CITATION.cff)。
 
 ---
 
@@ -230,6 +235,6 @@ UOHF Definition 2.1 当前不宣称：
 
 **著作权 © 2026 车雷与木梯科技（北京）有限公司。**
 
-上述四篇当前 UOHF 权威出版物均标注为采用 CC BY-NC 4.0。人体功能形式化框架仓库预印本也在其论文目录中明确采用 CC BY-NC 4.0。公开复用须署名车雷，注明适用的作品标题和版本，引用具体版本 DOI（如已存在），注明许可证，并说明是否进行了修改；商业使用须事先取得木梯科技（北京）有限公司书面许可。各篇具体条款仍以相应权威记录或论文目录为准，仓库总体说明见 [`RIGHTS_AND_REUSE.md`](RIGHTS_AND_REUSE.md)。
+当前 UOHF 出版记录均标注为采用 CC BY-NC 4.0。公开复用须署名车雷，注明适用的作品标题和版本，引用具体版本 DOI，注明许可证，并说明是否进行了修改；商业使用须事先取得木梯科技（北京）有限公司书面许可。各篇具体条款仍以相应 Zenodo 权威记录或论文目录为准，仓库总体说明见 [`RIGHTS_AND_REUSE.md`](RIGHTS_AND_REUSE.md)。
 
 引用、翻译、映射、实现或衍生使用时，应保留作者、框架版本、出版修订版本、权威 DOI（如适用）、修改来源，以及原文中的医学、安全、证据和专业权限边界。
