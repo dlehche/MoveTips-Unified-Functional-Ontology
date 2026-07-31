@@ -6,17 +6,20 @@
 **Author:** Lei Che  
 **Contributors:** MoveTips Research & Engineering Team  
 **Affiliation:** MoveTips Technology (Beijing) Co., Ltd.  
-**Version:** 1.0 English Academic Preprint  
+**Version:** 1.0 Repository Academic Preprint  
 **Release date:** 31 July 2026  
-**License:** CC BY-NC 4.0  
-**Status:** Repository academic preprint; not a replacement for the current authoritative UOHF Definition 2.1
+**License:** Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)  
+**Status:** Bilingual repository preprint; not a replacement for the current authoritative UOHF Definition 2.1
 
-## Files
+## Complete papers
 
-- [Complete English paper](UOHF_Formal_Framework_EN_V1.0.md)
+- **[Complete English paper](UOHF_Formal_Framework_EN_V1.0.md)**
+- **[中文完整论文](UOHF_Formal_Framework_ZH_V1.0.md)**
 - [中文概览](README.zh-CN.md)
 - [Citation metadata](CITATION.cff)
 - [Rights and reuse](RIGHTS_AND_REUSE.md)
+
+The English paper is maintained as an ordered, version-controlled source under [`source/en/`](source/en/). The Chinese complete paper preserves the same formal commitments, equations, axioms, propositions, examples, research boundaries, and falsification conditions in a directly readable single-file edition.
 
 ## Core definition
 
@@ -57,10 +60,10 @@ The paper does not claim:
 
 ## Rights and reuse
 
-The paper is licensed under **Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)**. Academic citation and noncommercial reuse are permitted with appropriate attribution. Commercial use requires prior written permission from MoveTips Technology (Beijing) Co., Ltd. See [RIGHTS_AND_REUSE.md](RIGHTS_AND_REUSE.md).
+The paper is licensed under **Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)**. Academic citation and noncommercial reproduction, distribution, translation, adaptation, and other reuse are permitted with appropriate attribution and disclosure of modifications. Commercial use requires prior written permission from MoveTips Technology (Beijing) Co., Ltd. See [RIGHTS_AND_REUSE.md](RIGHTS_AND_REUSE.md).
 
 ## Suggested citation
 
-> Che, Lei. *A Formal Framework for Human Function in UOHF: Capacity, Functional Engagement, Demand-Bounded Realizability, and Evidence-Constrained Decision Support*. Version 1.0 English Academic Preprint. MoveTips Technology (Beijing) Co., Ltd., 2026. GitHub: https://github.com/dlehche/Unified-Ontology-Of-Human-Function/tree/main/papers/formal-framework
+> Che, Lei. *A Formal Framework for Human Function in UOHF: Capacity, Functional Engagement, Demand-Bounded Realizability, and Evidence-Constrained Decision Support*. Version 1.0 Repository Academic Preprint. MoveTips Technology (Beijing) Co., Ltd., 2026. GitHub: https://github.com/dlehche/Unified-Ontology-Of-Human-Function/tree/main/papers/formal-framework
 
 A version-specific DOI should be added here and in `CITATION.cff` after a canonical archival publication is issued.
