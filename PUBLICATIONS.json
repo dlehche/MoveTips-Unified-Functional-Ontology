@@ -56,6 +56,17 @@
       "doi": "10.5281/zenodo.21635694",
       "license": "CC-BY-NC-4.0",
       "status": "focused-publication"
+    },
+    {
+      "id": "uohf-formal-framework",
+      "title": "A Formal Framework for Human Function in UOHF: Capacity, Functional Engagement, Demand-Bounded Realizability, and Evidence-Constrained Decision Support",
+      "frameworkVersion": "1.0",
+      "publicationRevision": "1.0",
+      "publicationDate": "2026-07-31",
+      "record": "https://zenodo.org/records/21721599",
+      "doi": "10.5281/zenodo.21721599",
+      "license": "CC-BY-NC-4.0",
+      "status": "focused-publication"
     }
   ],
   "separateHistoricalPublications": [
