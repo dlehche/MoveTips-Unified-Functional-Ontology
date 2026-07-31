@@ -8,4 +8,4 @@ is available under [`papers/formal-framework/`](papers/formal-framework/README.m
 
 This focused paper develops a mathematical and implementation-oriented framework under the current UOHF root definition. It does not replace **UOHF Definition 2.1**, the repository's current authoritative framework.
 
-The paper is licensed under **CC BY-NC 4.0**: academic citation and noncommercial reuse require attribution; commercial use requires prior written permission from MoveTips Technology (Beijing) Co., Ltd.
+The paper is licensed under the **Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0)**. Academic citation and noncommercial reuse are permitted with appropriate attribution to Lei Che, the complete work title, Version 1.0, and the source; modifications must be identified. Commercial use requires prior written permission from MoveTips Technology (Beijing) Co., Ltd.
