@@ -8,7 +8,9 @@
 **Release date:** 31 July 2026  
 **License:** Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
 
-This file is the ordered complete-text index for the version-controlled academic source. Read the parts in the sequence below. Collectively, the linked files constitute one paper, not separate publications.
+**[Read the complete Chinese paper / 阅读中文完整论文](UOHF_Formal_Framework_ZH_V1.0.md)**
+
+This file is the ordered complete-text index for the version-controlled English academic source. Read the parts in the sequence below. Collectively, the linked files constitute one paper, not separate publications.
 
 1. [Front matter, abstract, and terminological note](source/en/00-front-matter-abstract-terminology.md)
 2. [Introduction, aim, scope, and positioning](source/en/01-introduction-scope-positioning.md)
