@@ -6,12 +6,15 @@
 **作者：** 车雷（Lei Che）  
 **贡献：** 木梯研究与工程团队  
 **机构：** 木梯科技（北京）有限公司  
-**版本：** 1.0 中英双语仓库学术预印本  
+**版本：** 1.0 形式化与计算研究框架  
 **发布日期：** 2026年7月31日  
+**DOI：** [10.5281/zenodo.21721599](https://doi.org/10.5281/zenodo.21721599)  
 **许可：** Creative Commons Attribution-NonCommercial 4.0 International（CC BY-NC 4.0）  
-**状态：** GitHub 学术预印本；不替代当前权威框架 UOHF Definition 2.1
+**状态：** Zenodo 已归档专题出版物；不替代当前权威框架 UOHF Definition 2.1
 
-[English overview](README.md) · **[中文完整论文](UOHF_Formal_Framework_ZH_V1.0.md)** · **[英文完整论文](UOHF_Formal_Framework_EN_V1.0.md)** · [引用信息](CITATION.cff) · [权利与复用](RIGHTS_AND_REUSE.md)
+**[Zenodo 正式归档记录](https://doi.org/10.5281/zenodo.21721599)** · [English overview](README.md) · **[中文完整论文](UOHF_Formal_Framework_ZH_V1.0.md)** · **[英文完整论文](UOHF_Formal_Framework_EN_V1.0.md)** · [引用信息](CITATION.cff) · [权利与复用](RIGHTS_AND_REUSE.md)
+
+Zenodo 归档 PDF 文件名为：`UOHF_Formal_Framework_for_Human_Function_V1.0_CC_BY_NC_4.0.pdf`。
 
 ## 根定义
 
@@ -54,7 +57,7 @@
 
 ## 与 UOHF Definition 2.1 的关系
 
-UOHF Definition 2.1 仍是仓库当前权威框架定义。本文是其下的专题形式化研究论文，不建立第二个根定义，也不替代仓库 `PUBLICATIONS.json` 中已经版本治理的权威出版物。
+UOHF Definition 2.1 仍是仓库当前权威框架定义。本文是其下的专题形式化研究论文，不建立第二个根定义，也不替代仓库 `PUBLICATIONS.json` 中标记为 current-authoritative 的总体框架出版物。
 
 ## 学术与使用边界
 
@@ -68,8 +71,8 @@ UOHF Definition 2.1 仍是仓库当前权威框架定义。本文是其下的专
 
 ## 许可与引用
 
-本文采用 **CC BY-NC 4.0**。允许学术引用及其他非商业复制、传播、翻译、改编和复用，但必须注明作者、完整论文题目、版本、仓库来源、许可信息以及是否作出修改。任何商业使用须事先取得木梯科技（北京）有限公司书面许可。
+本文采用 **CC BY-NC 4.0**。允许学术引用及其他非商业复制、传播、翻译、改编和复用，但必须注明作者、完整论文题目、版本、DOI、许可信息以及是否作出修改。任何商业使用须事先取得木梯科技（北京）有限公司书面许可。
 
 建议引用：
 
-> Che, Lei. *A Formal Framework for Human Function in UOHF: Capacity, Functional Engagement, Demand-Bounded Realizability, and Evidence-Constrained Decision Support*. Version 1.0 Repository Academic Preprint. MoveTips Technology (Beijing) Co., Ltd., 2026. GitHub: https://github.com/dlehche/Unified-Ontology-Of-Human-Function/tree/main/papers/formal-framework
+> Che, Lei. *A Formal Framework for Human Function in UOHF: Capacity, Functional Engagement, Demand-Bounded Realizability, and Evidence-Constrained Decision Support*. Version 1.0. MoveTips Technology (Beijing) Co., Ltd., 2026. DOI: [10.5281/zenodo.21721599](https://doi.org/10.5281/zenodo.21721599).
