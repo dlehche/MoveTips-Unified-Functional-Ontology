@@ -1,0 +1,44 @@
+cff-version: 1.2.0
+message: "If you use this UOHF formal-framework preprint, please cite it using the metadata below."
+title: "A Formal Framework for Human Function in UOHF: Capacity, Functional Engagement, Demand-Bounded Realizability, and Evidence-Constrained Decision Support"
+version: "1.0"
+authors:
+  - family-names: "Che"
+    given-names: "Lei"
+    email: "dlehche@gmail.com"
+    affiliation: "MoveTips Technology (Beijing) Co., Ltd."
+date-released: 2026-07-31
+repository-code: "https://github.com/dlehche/Unified-Ontology-Of-Human-Function/tree/main/papers/formal-framework"
+url: "https://github.com/dlehche/Unified-Ontology-Of-Human-Function/tree/main/papers/formal-framework"
+license: CC-BY-NC-4.0
+abstract: >-
+  This paper develops a formal framework for human function within the Unified
+  Ontology of Human Function. It separates whole-person state, capacity,
+  engagement-pattern specifications, actual engagement processes, potential,
+  predicted and observed responses, evidence, problem hypotheses, governed
+  actions and longitudinal update. It proposes a demand-bounded realizability
+  criterion and an evidence-constrained architecture for auditable human-function
+  reasoning under internal and external demands.
+keywords:
+  - human function
+  - functional engagement
+  - demand-bounded realizability
+  - ontology
+  - whole person
+  - evidence-constrained decision support
+  - internal demand
+  - external demand
+  - UOHF
+preferred-citation:
+  type: report
+  authors:
+    - family-names: "Che"
+      given-names: "Lei"
+      email: "dlehche@gmail.com"
+      affiliation: "MoveTips Technology (Beijing) Co., Ltd."
+  title: "A Formal Framework for Human Function in UOHF: Capacity, Functional Engagement, Demand-Bounded Realizability, and Evidence-Constrained Decision Support"
+  year: 2026
+  version: "1.0"
+  institution:
+    name: "MoveTips Technology (Beijing) Co., Ltd."
+  url: "https://github.com/dlehche/Unified-Ontology-Of-Human-Function/tree/main/papers/formal-framework"
