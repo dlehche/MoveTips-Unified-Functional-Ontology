@@ -73,14 +73,17 @@
       "title": "The UOHF Human Function Capacity System, Version 1.0: Unified Definitions of 18 Core and 104 Specific Human Functional Capacities",
       "frameworkVersion": "1.0",
       "publicationRevision": "1.0",
-      "publicationDate": "2026-08-17",
+      "publicationDate": null,
       "record": null,
       "doi": "10.5281/zenodo.21975100",
       "doiStatus": "reserved-not-yet-registered",
       "zenodoRecordStatus": "draft-not-public",
       "license": "CC-BY-NC-4.0",
-      "status": "focused-publication-pending-zenodo",
-      "repositoryPath": "papers/capacity-system/README.md"
+      "status": "repository-preprint-pending-zenodo",
+      "repositoryPath": "papers/capacity-system/README.md",
+      "repositoryReleaseDate": "2026-08-17",
+      "catalogueStatus": "scholarly-snapshot",
+      "runtimeReleaseStatus": "separately-governed-not-implied-by-publication"
     }
   ],
   "separateHistoricalPublications": [
