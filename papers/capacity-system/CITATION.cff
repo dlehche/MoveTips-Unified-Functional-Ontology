@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use this publication, please cite it using the metadata below."
+title: "The UOHF Human Function Capacity System, Version 1.0: Unified Definitions of 18 Core and 104 Specific Human Functional Capacities"
+type: article
+authors:
+  - family-names: Che
+    given-names: Lei
+    email: dlehche@gmail.com
+version: "1.0"
+date-released: 2026-08-17
+url: "https://github.com/dlehche/Unified-Ontology-Of-Human-Function/tree/main/papers/capacity-system"
+repository-code: "https://github.com/dlehche/Unified-Ontology-Of-Human-Function"
+license: CC-BY-NC-4.0
+keywords:
+  - human function
+  - UOHF
+  - Unified Ontology of Human Function
+  - human functional capacity
+  - whole person
+  - functional engagement
+  - ontology
+abstract: >-
+  Version 1.0 of the UOHF Human Function Capacity System publishes a citable catalogue of 18 core human functional capacities and 104 specific human functional capacities. The catalogue is whole-person centered, source-traceable, versioned, and type-audited to distinguish capacities from structures, processes, tasks, measurements, episodic performances, and states.

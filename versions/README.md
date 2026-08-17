@@ -1,56 +1,48 @@
 # UOHF Version Archive / UOHF 版本档案
 
-This directory preserves the public version history of the Unified Ontology of Human Function (UOHF). Each publication revision remains citable under its own version-specific DOI. Historical versions are retained for provenance and scholarly comparison; they do not replace the current authoritative definition.
+This directory preserves the public version history of the Unified Ontology of Human Function (UOHF), including separately versioned focused publications. Historical versions remain citable for provenance and scholarly comparison and do not replace the current authoritative definition.
 
-本目录保存人体功能统一本体（UOHF）的公开版本历史。每个出版修订版本均保留独立的版本 DOI，可单独引用。历史版本用于来源追溯、学术比较和版本治理，不替代当前权威定义。
+本目录保存人体功能统一本体（UOHF）的公开版本历史及独立版本化专题论文。历史版本用于来源追溯、学术比较和版本治理，不替代当前权威定义。
 
 ## Version index / 版本索引
 
-| Framework version | Publication revision | Status | License | English | 中文 | Canonical publication |
+| Framework / publication | Revision | Status | License | English | 中文 | Publication / DOI |
 |---|---:|---|---|---|---|---|
-| **UOHF V1.0** | **1.0.1** | Historical / 历史版本 | **CC BY-NC 4.0** | [English](v1.0/README.md) | [中文](v1.0/README.zh-CN.md) | [Zenodo 10.5281/zenodo.21630183](https://doi.org/10.5281/zenodo.21630183) |
-| **UOHF Definition 2.0** | **2.0.1** | Historical; task-centered operational architecture remains valid within scope / 历史版本；任务中心运行架构在其范围内仍有效 | **CC BY-NC 4.0** | [English](v2.0/README.md) | [中文](v2.0/README.zh-CN.md) | [Zenodo 10.5281/zenodo.21630339](https://doi.org/10.5281/zenodo.21630339) |
-| **UOHF Definition 2.1** | **2.1.1** | Current authoritative framework definition / 当前权威框架定义 | **CC BY-NC 4.0** | [English](../README.md) | [中文](../UOHF_DEFINITION_ZH.md) | [Zenodo 10.5281/zenodo.21630406](https://doi.org/10.5281/zenodo.21630406) |
-| **Unification in UOHF** | **1.0.2** | Focused conceptual publication / 专题概念出版物 | **CC BY-NC 4.0** | [English](../papers/unification/UOHF_Unification_EN_V1.0.2.md) | [中文](../papers/unification/UOHF_Unification_ZH_V1.0.2.md) | [Zenodo 10.5281/zenodo.21635694](https://doi.org/10.5281/zenodo.21635694) |
-| **A Formal Framework for Human Function in UOHF** | **1.0** | Focused formal and computational publication / 专题形式化与计算出版物 | **CC BY-NC 4.0** | [English](../papers/formal-framework/UOHF_Formal_Framework_EN_V1.0.md) | [中文](../papers/formal-framework/UOHF_Formal_Framework_ZH_V1.0.md) | [Zenodo 10.5281/zenodo.21721599](https://doi.org/10.5281/zenodo.21721599) |
+| **UOHF V1.0** | **1.0.1** | Historical / 历史版本 | CC BY-NC 4.0 | [English](v1.0/README.md) | [中文](v1.0/README.zh-CN.md) | [10.5281/zenodo.21630183](https://doi.org/10.5281/zenodo.21630183) |
+| **UOHF Definition 2.0** | **2.0.1** | Historical / 历史版本 | CC BY-NC 4.0 | [English](v2.0/README.md) | [中文](v2.0/README.zh-CN.md) | [10.5281/zenodo.21630339](https://doi.org/10.5281/zenodo.21630339) |
+| **UOHF Definition 2.1** | **2.1.1** | **Current authoritative overall framework / 当前权威总体框架** | CC BY-NC 4.0 | [English](../README.md) | [中文](../UOHF_DEFINITION_ZH.md) | [10.5281/zenodo.21630406](https://doi.org/10.5281/zenodo.21630406) |
+| **Unification in UOHF** | **1.0.2** | Focused conceptual publication / 专题概念论文 | CC BY-NC 4.0 | [English](../papers/unification/UOHF_Unification_EN_V1.0.2.md) | [中文](../papers/unification/UOHF_Unification_ZH_V1.0.2.md) | [10.5281/zenodo.21635694](https://doi.org/10.5281/zenodo.21635694) |
+| **A Formal Framework for Human Function in UOHF** | **1.0** | Focused formal/computational publication / 专题形式化与计算论文 | CC BY-NC 4.0 | [English](../papers/formal-framework/UOHF_Formal_Framework_EN_V1.0.md) | [中文](../papers/formal-framework/UOHF_Formal_Framework_ZH_V1.0.md) | [10.5281/zenodo.21721599](https://doi.org/10.5281/zenodo.21721599) |
+| **The UOHF Human Function Capacity System** | **1.0** | **Focused capacity-catalogue publication / 专题人体功能能力体系论文** | CC BY-NC 4.0 | [English](../papers/capacity-system/source/en/README.md) | [中文](../papers/capacity-system/source/zh/README.md) | `10.5281/zenodo.21975100` *(reserved; pending Zenodo publication / 预留，待正式发布)* |
 
-## Version-governance rule / 版本治理规则
+## Governance rule / 版本治理规则
 
-- The framework version identifies the conceptual or architectural stage of UOHF.
-- The publication revision identifies the released Zenodo file revision. A patch revision may standardize nomenclature, correct publication metadata, or revise licensing without changing the underlying conceptual framework.
-- Version-specific DOI records are used for exact citation and file retrieval.
-- Zenodo version history preserves the relationship among revisions of the same record.
+- The authoritative-framework version identifies the conceptual architecture governing UOHF as a whole.
+- Focused publications may have their own Version 1.0 without replacing UOHF Definition 2.1.
+- Publication revisions identify released or revised publication artifacts.
+- Historical records are preserved; semantic changes should be made through explicit new versions rather than silent rewriting.
+- The capacity-system Version 1.0 freezes the public 18-core/104-specific names, hierarchy, unified definitions, and source bindings as an academic release snapshot.
 
-- 框架版本标识 UOHF 的概念或架构阶段。
-- 出版修订版本标识 Zenodo 已发布文件的具体修订。补丁版本可以用于统一名称、修正出版元数据或调整许可，而不改变基础概念框架。
-- 精确引用和文件获取应使用具体版本 DOI。
-- Zenodo 版本历史保留同一记录不同修订之间的关系。
+- 权威总体框架版本标识 UOHF 整体概念架构。
+- 专题论文可以独立使用 Version 1.0，但不因此替代 UOHF Definition 2.1。
+- 出版修订用于标识具体公开文件修订。
+- 历史记录持续保留；实质语义变更必须通过明确新版本完成，不得静默覆盖。
+- 能力体系第一版把18项核心能力、104项具体能力的名称、归属、统一定义和来源绑定冻结为公开学术快照。
 
 ## Development history / 发展历史
 
-- V1.0 established the initial ontology-driven, safety-constrained, auditable human-function inference framework, eight decision factors, Task–Capacity Matching (TCM), and the early MVSS operationalization.
-- Definition 2.0 formalized the task-centered Functional Engagement architecture, the semantic state-action spine, observation-inference separation, continuous write-back, and the separation among UOHF, IHFM, and HFWM.
-- Definition 2.1 is the current authoritative definition. It restores the full English scope of the Chinese philosophical root definition, introduces internal and external Demand, separates Task from Task Demand, generalizes Functional Engagement, and defines the multiscale development trajectory.
-- The unification paper explains how human functions and their engagement are represented within the same whole person across demand, structure, process, coordination, compensation, boundary, state, time, and change. Revision 1.0.2 changes the publication license without changing the conceptual content.
-- The formal-framework paper specifies typed formal objects, twelve axioms, demand-bounded realizability, result non-identifiability, evidence-constrained hypotheses, governed action, longitudinal update, falsification conditions, and the staged empirical research program.
+UOHF has progressed from an early auditable inference framework, through task-centered Functional Engagement, to the current internal-and-external-demand Definition 2.1, and then into focused publications on whole-person unification, formal mathematical architecture, and the Version 1.0 human-function capacity coordinate system.
 
-- V1.0 建立了早期本体驱动、安全约束、可审计的人体功能推理框架，提出八项决策因素、任务—能力匹配（TCM）和早期 MVSS 运行表达。
-- Definition 2.0 建立了任务中心的功能调用架构、语义状态—行动主轴、观察—推断分离、持续回写，以及 UOHF、IHFM 与 HFWM 的分层。
-- Definition 2.1 是当前权威定义，恢复中文哲学根定义的完整英文范围，引入内部需求与外部需求，区分 Task 与 Task Demand，泛化 Functional Engagement，并明确多尺度发展路径。
-- “统一”论文解释如何围绕同一个完整的人，将人体功能及其调用与需求、结构、过程、协调、代偿、边界、状态、时间和变化组织在同一语义系统中。1.0.2 调整当前出版许可，概念内容不变。
-- 形式化框架论文规定类型化形式对象、12条公理、需求有界可实现性、结果不可识别性、证据约束假设、受治理行动、长期更新、可证伪条件和分阶段实证研究路线。
+UOHF 已从早期可审计人体功能推理框架，发展到任务中心 Functional Engagement，再进入当前涵盖内部与外部需求的 Definition 2.1，并进一步形成完整人体统一、形式化数学架构和第一版人体功能能力科学坐标等专题论文。
 
-## Historical publication outside the UOHF version sequence / UOHF 版本序列之外的历史论文
+## Historical publication outside the UOHF version sequence / 版本序列之外的历史论文
 
-Zenodo record `20711332` is retained as a separate earlier Human Function publication. It is not the canonical publication for UOHF V1.0 and is not used as a substitute DOI for any UOHF version listed above. Its own Zenodo record governs its license and reuse terms.
+Zenodo record `20711332` remains a separate earlier Human Function publication. It is not the canonical publication for UOHF V1.0 and does not substitute for any DOI listed above.
 
-Zenodo 记录 `20711332` 作为更早期的人体功能论文独立保留。它不是 UOHF V1.0 的权威出版记录，也不得替代上述任何 UOHF 版本的 DOI；其许可与复用条件以该记录自身为准。
+Zenodo 记录 `20711332` 作为更早期的人体功能论文独立保留，不是 UOHF V1.0 的权威出版记录，也不得替代上述 DOI。
 
 ## Copyright and reuse / 著作权与复用
 
-**Copyright © 2026 Lei Che (车雷) and MoveTips Technology (Beijing) Co., Ltd.**  
-**著作权 © 2026 车雷与木梯科技（北京）有限公司。**
+**Copyright © 2026 Lei Che (车雷) and MoveTips Technology (Beijing) Co., Ltd.**
 
-The five current UOHF publication records listed above are identified as CC BY-NC 4.0. Public reuse requires attribution, the applicable title and version, the version-specific DOI, license information, and disclosure of modifications. Commercial use requires prior written permission from MoveTips Technology (Beijing) Co., Ltd. The corresponding canonical Zenodo record remains the source of truth.
-
-上述五篇当前 UOHF 出版记录均标注为 CC BY-NC 4.0。公开复用须署名，注明适用的标题和版本、具体版本 DOI、许可证及修改情况；商业使用须事先取得木梯科技（北京）有限公司书面许可。具体仍以相应 Zenodo 权威记录为准。
+Current UOHF publications are identified as CC BY-NC 4.0. Academic citation and non-commercial reuse are permitted under the applicable license terms. Commercial use of copyright-protected publication content requires separate permission where copyright permission is required. See [`RIGHTS_AND_REUSE.md`](../RIGHTS_AND_REUSE.md).

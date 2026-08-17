@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+<title id="title">UOHF 人体功能能力体系第一版</title><desc id="desc">人体功能统一本体第一版，18项核心人体功能能力与104项具体能力。</desc>
+<rect width="1600" height="900" fill="#f5f1e8"/>
+<g opacity=".35" stroke="#b79c75" fill="none"><circle cx="1220" cy="360" r="285"/><circle cx="1220" cy="360" r="225"/><circle cx="1220" cy="360" r="155"/><path d="M880 90 L1500 720 M930 740 L1510 160 M1080 40 L1370 830"/></g>
+<g stroke="#c7b79b" stroke-width="2" fill="none" opacity=".85"><path d="M1090 105 C1010 190 1025 315 1050 415 C1070 500 1020 590 1000 780"/><path d="M1155 90 C1270 110 1320 210 1292 295 C1265 375 1232 410 1250 525 C1265 625 1305 705 1340 795"/><path d="M1060 260 C1140 310 1220 310 1295 280"/><path d="M1048 420 C1145 455 1235 455 1270 420"/></g>
+<g fill="#7b1b1b"><circle cx="1210" cy="300" r="6"/><circle cx="1320" cy="545" r="6"/><circle cx="1390" cy="650" r="6"/><circle cx="1120" cy="560" r="5"/></g>
+<g stroke="#d0c5b2" stroke-width="1.5"><path d="M1000 250 L1210 300 L1320 545 L1390 650"/><path d="M1030 620 L1120 560 L1320 545"/></g>
+<line x1="115" y1="110" x2="115" y2="310" stroke="#a98b5d" stroke-width="3"/>
+<text x="165" y="190" font-family="serif" font-size="78" fill="#232323">人体功能</text>
+<text x="165" y="285" font-family="serif" font-size="78" fill="#232323">统一本体</text>
+<text x="165" y="355" font-family="serif" font-size="52" letter-spacing="16" fill="#232323">(UOHF)</text>
+<text x="165" y="445" font-family="serif" font-size="42" fill="#7b1b1b">第一版</text>
+<line x1="165" y1="470" x2="235" y2="470" stroke="#7b1b1b" stroke-width="3"/>
+<text x="165" y="600" font-family="serif" font-size="100" fill="#7b1b1b">18</text><text x="285" y="555" font-family="serif" font-size="30" fill="#333">项核心</text><text x="285" y="600" font-family="serif" font-size="30" fill="#333">人体功能能力</text>
+<line x1="520" y1="510" x2="520" y2="610" stroke="#b79c75" stroke-width="2"/>
+<text x="560" y="600" font-family="serif" font-size="100" fill="#7b1b1b">104</text><text x="760" y="555" font-family="serif" font-size="30" fill="#333">项具体能力</text><text x="760" y="600" font-family="serif" font-size="30" fill="#333">组成</text>
+<line x1="165" y1="650" x2="880" y2="650" stroke="#b79c75" stroke-width="2"/>
+<text x="165" y="705" font-family="sans-serif" font-size="25" fill="#454545">面向整个人的、来源可追溯、可持续修订的人体功能能力坐标</text>
+<text x="165" y="755" font-family="sans-serif" font-size="21" fill="#666">Unified Ontology of Human Function · Version 1.0</text>
+</svg>

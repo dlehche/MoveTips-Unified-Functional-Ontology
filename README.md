@@ -2,107 +2,84 @@
 
 ## A governed semantic and computational ontology for human function and the Human Function World Model
 
-[中文](README.zh-CN.md) · [Definition 2.1 paper](https://doi.org/10.5281/zenodo.21630406) · [Unification paper](papers/unification/README.md) · **[Formal framework paper](https://doi.org/10.5281/zenodo.21721599)** · [Version archive](versions/README.md) · [Publication map](PUBLICATIONS.json) · [Citation metadata](CITATION.cff) · [Rights and reuse](RIGHTS_AND_REUSE.md) · [Collaboration](COLLABORATION.md)
+[中文](README.zh-CN.md) · [Definition 2.1](https://doi.org/10.5281/zenodo.21630406) · **[18 Core + 104 Specific Capacities](papers/capacity-system/README.md)** · [Formal framework](papers/formal-framework/README.md) · [Unification](papers/unification/README.md) · [Papers](papers/README.md) · [Version archive](versions/README.md) · [Publication map](PUBLICATIONS.json) · [Rights and reuse](RIGHTS_AND_REUSE.md) · [Collaboration](COLLABORATION.md)
 
 **Official name:** Unified Ontology of Human Function  
 **Official abbreviation:** UOHF  
 **Current authoritative framework:** UOHF Definition 2.1  
-**Current publication revision:** 2.1.1  
+**Current authoritative publication revision:** 2.1.1  
 **Author:** Lei Che  
 **Affiliation:** MoveTips Technology (Beijing) Co., Ltd.  
 **Correspondence:** dlehche@gmail.com  
-**DOI:** [10.5281/zenodo.21630406](https://doi.org/10.5281/zenodo.21630406)  
-**License:** CC BY-NC 4.0  
-**Copyright:** © 2026 Lei Che and MoveTips Technology (Beijing) Co., Ltd.
-
-**Philosophical starting point:**
+**Authoritative framework DOI:** [10.5281/zenodo.21630406](https://doi.org/10.5281/zenodo.21630406)  
+**Repository/publication licensing:** see each publication record; current UOHF publications use CC BY-NC 4.0
 
 > **Life continually calls upon the body.**
 
-**Formal definition:**
-
 > **Human function is the body's capacity to be appropriately engaged to meet internal and external demands.**
-
-**Chinese philosophical definition:**
 
 > **人体功能，就是身体被正常调用的能力。**
 
 ---
 
-## Latest focused publication
+## Latest focused publication: the Version 1.0 human-function capacity system
 
-### Unification in the Unified Ontology of Human Function
+[![UOHF Human Function Capacity System Version 1.0](papers/capacity-system/assets/uohf-capacity-system-v1-cover.svg)](papers/capacity-system/README.md)
 
-**A Whole-Person Conceptual Framework Centered on Human Function and Functional Engagement**
+### 18 core human functional capacities + 104 specific human functional capacities
 
-This focused Version 1.0 paper, currently published as licensing revision 1.0.2, explains what UOHF unifies, why functional engagement belongs inside the concept of human function, and how function, demand, bodily structure, bodily process, coordination, compensation, boundaries, state, time, and change are returned to the same whole person.
+The new Version 1.0 capacity-system publication makes the UOHF human-function capacity catalogue a public, citable scientific object. It defines **18 core capacities and 104 specific capacities**, each at the whole-person level and with traceable scientific or professional source support. It also publishes the catalogue-construction method, adjacent-capacity boundaries, version rule, and explicit public/non-public boundary.
 
-- **[English complete-text index](papers/unification/UOHF_Unification_EN_V1.0.2.md)**
-- **[中文完整全文索引](papers/unification/UOHF_Unification_ZH_V1.0.2.md)**
-- [Canonical Zenodo publication: 10.5281/zenodo.21635694](https://doi.org/10.5281/zenodo.21635694)
-- [Paper overview and citation](papers/unification/README.md)
+- **[Publication overview](papers/capacity-system/README.md)**
+- **[Complete English paper](papers/capacity-system/source/en/README.md)**
+- **[中文完整论文](papers/capacity-system/source/zh/README.md)**
+- Reserved Zenodo DOI: `10.5281/zenodo.21975100` — registration occurs when the Zenodo record is published
+- License: **CC BY-NC 4.0**
 
-The complete academic text is retained in the ordered source files under `papers/unification/source/en/` and `papers/unification/source/zh/`.
-
-> **Unification in UOHF means using one coherent semantic system to describe human functions as they exist within an integrated whole person, together with their functional engagement.**
+The public catalogue is a versioned scientific coordinate set, not a claim of permanent exhaustiveness. The complete demand-to-capacity matrix, anatomical/physiological realization network, assessment/intervention mappings, person-specific reasoning rules, decision weights, production payloads, and real-user operational data are not released by this publication.
 
 ---
 
-## Formal and computational framework paper
+## Current focused publications
 
 ### A Formal Framework for Human Function in UOHF
 
 **Capacity, Functional Engagement, Demand-Bounded Realizability, and Evidence-Constrained Decision Support**
 
-This Version 1.0 Zenodo-archived focused publication develops the formal mathematical and implementation-oriented core under UOHF Definition 2.1. It specifies typed formal objects, twelve axioms, the demand-bounded realizability criterion, result non-identifiability, evidence-bounded problem hypotheses, governed action selection, dynamic state update, falsification conditions, and a staged empirical research program.
+This Version 1.0 paper develops the formal mathematical and implementation-oriented core under UOHF Definition 2.1: typed formal objects, twelve axioms, demand-bounded realizability, result non-identifiability, evidence-bounded hypotheses, governed action selection, dynamic state update, falsification conditions, and a staged empirical research program.
 
-- **[Canonical Zenodo publication: 10.5281/zenodo.21721599](https://doi.org/10.5281/zenodo.21721599)**
-- **[Complete English paper](papers/formal-framework/UOHF_Formal_Framework_EN_V1.0.md)**
-- **[中文完整论文](papers/formal-framework/UOHF_Formal_Framework_ZH_V1.0.md)**
-- [Paper overview, scope, citation, and rights](papers/formal-framework/README.md)
+- [Zenodo: 10.5281/zenodo.21721599](https://doi.org/10.5281/zenodo.21721599)
+- [Complete English paper](papers/formal-framework/UOHF_Formal_Framework_EN_V1.0.md)
+- [中文完整论文](papers/formal-framework/UOHF_Formal_Framework_ZH_V1.0.md)
+- [Overview](papers/formal-framework/README.md)
 
-The archived PDF is `UOHF_Formal_Framework_for_Human_Function_V1.0_CC_BY_NC_4.0.pdf`. The English version is maintained as ordered source files under `papers/formal-framework/source/en/`. The Chinese file is a directly readable complete edition preserving the equations, axioms, propositions, examples, limitations, and research boundaries.
+### Unification in the Unified Ontology of Human Function
 
-> **The paper does not claim that one equation already computes the whole human body. It proposes one typed, demand-conditioned, evidence-bounded, safety-constrained, longitudinally revisable formal framework into which valid human-function knowledge can enter.**
+**A Whole-Person Conceptual Framework Centered on Human Function and Functional Engagement**
+
+This focused paper explains what UOHF unifies, why functional engagement belongs inside the concept of human function, and how function, demand, bodily structure, bodily process, coordination, compensation, boundaries, state, time, and change are returned to the same whole person.
+
+- [Zenodo: 10.5281/zenodo.21635694](https://doi.org/10.5281/zenodo.21635694)
+- [English complete-text index](papers/unification/UOHF_Unification_EN_V1.0.2.md)
+- [中文完整全文索引](papers/unification/UOHF_Unification_ZH_V1.0.2.md)
+- [Overview](papers/unification/README.md)
 
 ---
 
 ## What problem does UOHF solve?
 
-Medicine, physiology, rehabilitation, movement training, behavior, environment, and personal health records can all describe the same person, but they do not automatically form one shared computational object.
-
-UOHF establishes **human function** as that shared object and provides a governed semantic and rule foundation for asking:
+Medicine, physiology, rehabilitation, exercise science, behavior, environment, and personal health records can all describe the same person, but they do not automatically form one shared computational object. UOHF establishes **human function** as that shared object and provides a governed semantic and rule foundation for asking:
 
 - What internal or external demand is present?
-- What must the body organize to meet it?
-- How is the body actually being engaged?
+- Which human functional capacities are required?
+- Which of those capacities are currently available and within what boundary?
+- How are those capacities actually engaged under the specified demand?
 - What was observed, reported, measured, or inferred?
-- What cost, burden, boundary, and reserve are relevant?
+- What cost, burden, boundary, reserve, and recovery consequence are relevant?
 - What state is supported by the current evidence?
-- What action is permissible, and what changed afterward?
+- What governed action is admissible, and what changed afterward?
 
 The objective is not to replace domain expertise. It is to make cross-domain human-function reasoning **computable, constrained, traceable, auditable, revisable, and longitudinally continuous**.
-
----
-
-## Why UOHF is different
-
-UOHF is not a terminology list, a generic knowledge graph, a medical diagnosis engine, or a black-box recommendation model.
-
-It explicitly separates:
-
-- **Demand** from **Demand Specification**;
-- **Task** from **Task Demand**;
-- **Engagement Requirement** from **Actual Engagement Process**;
-- **Actual Engagement Process** from its **Inference** and **Representation**;
-- **Actual Response** from **Manifestation** and **Measurement Result**;
-- **Immediate Cost** from **Accumulated Burden**;
-- **Boundary** from **Reserve**;
-- **Human Function State** from **State Inference** and **State Representation**;
-- **Endogenous Regulation** from **Governed External Action**;
-- **Actual Change** from **Feedback Information**.
-
-This distinction between reality, evidence, inference, and representation is central to auditable AI and governed decision support.
 
 ---
 
@@ -110,45 +87,21 @@ This distinction between reality, evidence, inference, and representation is cen
 
 ```mermaid
 flowchart LR
-    D[Internal or External Demand] --> ER[Engagement Requirement]
-    ER --> REP[Required Engagement Process Type]
-    REP --> AEP[Actual Engagement Process]
-    AEP --> AR[Actual Response]
-    AR --> E[Manifestation and Measurement]
-    E --> C[Cost, Burden, Boundary, Reserve]
-    C --> SI[State Inference and Representation]
-    SI --> G[Governed Action / Endogenous Regulation / Time / Exposure]
-    G --> AC[Actual Change]
-    AC --> F[New Evidence and Feedback]
-    F --> R[Reassessment and Versioned Write-back]
-    R --> SI
+    T[Internal or External Task / Demand] --> RC[Required Human Functional Capacities]
+    RC --> FE[Functional Engagement]
+    FE --> R[Response / Manifestation / Measurement]
+    R --> C[Cost / Boundary / Reserve / Recovery]
+    C --> E[Evidence and Hypotheses]
+    E --> S[Human Function State]
+    S --> A[Governed Action]
+    A --> CH[Actual Change]
+    CH --> FB[Feedback and Reassessment]
+    FB --> S
 ```
 
-UOHF Definition 2.1 distinguishes four connected components:
-
-1. **UOHF** — governed ontology and semantic-rule layer;
-2. **Human Function Engine** — bounded runtime inference and write-back layer;
-3. **Individual Human Function Model (IHFM)** — person-specific longitudinal state memory;
-4. **Human Function World Model (HFWM)** — temporal and action-conditioned state-transition modeling.
+UOHF distinguishes the governed ontology and semantic-rule layer, the Human Function Engine, the Individual Human Function Model (IHFM), and the Human Function World Model (HFWM).
 
 > **Governed ontology topology → Human Function Engine → Individual longitudinal model → Human Function World Model**
-
----
-
-## Current operational specialization
-
-Current implementation is strongest in real-world task reasoning and longitudinal service workflows:
-
-> **Safety Boundary → Task and Context → Task Demand → Required Engagement → Actual Engagement → Manifestation and Measurement → Cost and Boundary → Limiting-Factor Hypotheses → Evidence Convergence → Primary Problem → State → Governed Action → Execution → Actual Change → Feedback → Reassessment → Write-back**
-
-The four current person-level task-centered state classes are:
-
-- **Normal Functional State**
-- **Compensatory Functional State**
-- **Boundary-Critical Functional State**
-- **Functional Incapacity State**
-
-These are not medical diagnoses, permanent identities, or universal labels for organ, cellular, or molecular processes.
 
 ---
 
@@ -156,75 +109,47 @@ These are not medical diagnoses, permanent identities, or universal labels for o
 
 | Resource | Purpose |
 |---|---|
-| [UOHF Definition 2.1](https://doi.org/10.5281/zenodo.21630406) | Current authoritative framework paper, publication revision 2.1.1 |
-| [Formal framework publication](https://doi.org/10.5281/zenodo.21721599) | Canonical Zenodo record for the Version 1.0 formal and computational framework |
-| [Formal framework — complete English paper](papers/formal-framework/UOHF_Formal_Framework_EN_V1.0.md) | Mathematical and implementation-oriented complete-text index |
-| [人体功能形式化框架——中文完整论文](papers/formal-framework/UOHF_Formal_Framework_ZH_V1.0.md) | 中文公式、公理、命题、案例、可证伪条件与研究路线全文 |
-| [Formal framework overview](papers/formal-framework/README.md) | Bilingual entry point, scope, claim boundary, citation, and rights |
-| [Unification paper — English complete-text index](papers/unification/UOHF_Unification_EN_V1.0.2.md) | Ordered entry point to the version-controlled English academic source |
-| [“统一”论文——中文完整全文索引](papers/unification/UOHF_Unification_ZH_V1.0.2.md) | 中文分卷全文的顺序入口 |
-| [中文概览](README.zh-CN.md) | Concise Chinese repository introduction |
-| [中文完整定义](UOHF_DEFINITION_ZH.md) | Detailed Chinese framework definition |
-| [Public ontology release status](ontology/README.md) | Current machine-readable release boundary and release requirements |
-| [Version archive](versions/README.md) | V1.0.1, Definition 2.0.1, Definition 2.1.1, and focused publications |
-| [Canonical publication map](PUBLICATIONS.json) | Machine-readable version, DOI, date, license, and status mapping |
-| [Minimal task-centered example](examples/minimal-task-centered-case.json) | Non-normative example of structured reasoning objects |
-| [CITATION.cff](CITATION.cff) | Formal citation metadata |
-| [LICENSE](LICENSE) | Mixed-license repository notice |
-| [Rights and reuse](RIGHTS_AND_REUSE.md) | Publication, reuse, attribution, and repository-rights guidance |
-| [Research and collaboration](COLLABORATION.md) | Collaboration priorities and contribution routes |
+| [UOHF Definition 2.1](https://doi.org/10.5281/zenodo.21630406) | Current authoritative overall framework |
+| **[Human Function Capacity System V1.0](papers/capacity-system/README.md)** | **18 core + 104 specific capacity catalogue, definitions, sources, PDFs and citation** |
+| [Capacity System — English full text](papers/capacity-system/source/en/README.md) | Complete English Version 1.0 paper |
+| [人体功能能力体系——中文完整论文](papers/capacity-system/source/zh/README.md) | 第一版18项核心能力与104项具体能力全文 |
+| [Formal framework](papers/formal-framework/README.md) | Mathematical and computational formalization |
+| [Unification paper](papers/unification/README.md) | Whole-person conceptual unification |
+| [Papers index](papers/README.md) | All focused publications |
+| [Version archive](versions/README.md) | Public version and focused-publication history |
+| [Publication map](PUBLICATIONS.json) | Machine-readable version, DOI, date, license and status map |
+| [Public ontology release status](ontology/README.md) | Current machine-readable release boundary |
+| [Rights and reuse](RIGHTS_AND_REUSE.md) | Attribution, licensing and commercial-use boundaries |
+| [Research and collaboration](COLLABORATION.md) | Collaboration priorities and routes |
 
 ---
 
-## Version history
+## Publication and version history
 
-- **UOHF V1.0 / publication revision 1.0.1** — initial ontology-driven, safety-constrained, auditable human-function inference framework; eight decision factors, Task–Capacity Matching, and early MVSS operationalization. DOI: [10.5281/zenodo.21630183](https://doi.org/10.5281/zenodo.21630183).
-- **UOHF Definition 2.0 / publication revision 2.0.1** — task-centered Functional Engagement architecture, semantic state–action spine, observation–inference separation, continuous write-back, and separation of UOHF, IHFM, and HFWM. DOI: [10.5281/zenodo.21630339](https://doi.org/10.5281/zenodo.21630339).
-- **UOHF Definition 2.1 / publication revision 2.1.1** — current authoritative framework; restores the full internal-and-external-demand scope, distinguishes Task from Task Demand, generalizes Functional Engagement, and defines the multiscale development trajectory. DOI: [10.5281/zenodo.21630406](https://doi.org/10.5281/zenodo.21630406).
-- **Unification in UOHF / publication revision 1.0.2** — focused conceptual paper on unification and functional engagement. DOI: [10.5281/zenodo.21635694](https://doi.org/10.5281/zenodo.21635694).
-- **A Formal Framework for Human Function in UOHF / Version 1.0** — focused formal and computational publication on capacity, engagement, demand-bounded realizability, evidence-constrained reasoning, governed action, and longitudinal update. DOI: [10.5281/zenodo.21721599](https://doi.org/10.5281/zenodo.21721599).
+- **UOHF V1.0 / publication revision 1.0.1** — initial ontology-driven, safety-constrained, auditable human-function inference framework. DOI: [10.5281/zenodo.21630183](https://doi.org/10.5281/zenodo.21630183).
+- **UOHF Definition 2.0 / publication revision 2.0.1** — task-centered Functional Engagement architecture and continuous write-back. DOI: [10.5281/zenodo.21630339](https://doi.org/10.5281/zenodo.21630339).
+- **UOHF Definition 2.1 / publication revision 2.1.1** — current authoritative overall framework, restoring the full internal-and-external-demand scope. DOI: [10.5281/zenodo.21630406](https://doi.org/10.5281/zenodo.21630406).
+- **Unification in UOHF / publication revision 1.0.2** — focused conceptual publication. DOI: [10.5281/zenodo.21635694](https://doi.org/10.5281/zenodo.21635694).
+- **A Formal Framework for Human Function in UOHF / Version 1.0** — focused formal and computational publication. DOI: [10.5281/zenodo.21721599](https://doi.org/10.5281/zenodo.21721599).
+- **The UOHF Human Function Capacity System / Version 1.0** — first public 18-core/104-specific human-function capacity catalogue. Reserved DOI: `10.5281/zenodo.21975100` (pending Zenodo publication).
 
-UOHF Definition 2.1 remains the current authoritative framework. The unification and formal-framework papers are separately archived focused publications developed under the governed UOHF publication structure. All current canonical publication records identify CC BY-NC 4.0 as the applicable license. Historical versions remain citable under their version-specific DOI and are preserved in the [version archive](versions/README.md).
+UOHF Definition 2.1 remains the current authoritative overall framework. Focused publications develop specific scientific layers under that framework and do not silently replace the root definition.
 
 ---
 
 ## Current implementation and claim boundary
 
-The governed implementation currently supports concept domains, stable identifiers, typed relations, relation contracts, evidence structures, authority constraints, lifecycle governance, task-centered state convergence, action semantics, execution feedback, reassessment, and longitudinal monitoring.
+The governed implementation supports concept domains, stable identifiers, typed relations, relation contracts, evidence structures, authority constraints, lifecycle governance, task-centered state convergence, action semantics, execution feedback, reassessment, and longitudinal monitoring.
 
-The complete production ontology, relation topology, implementation rules, and operational data assets are not reproduced in full in this public repository.
-
-UOHF Definition 2.1 does **not** claim:
-
-- completed BFO conformance;
-- completed OWL axiomatization;
-- universal physiological state classification;
-- external expert consensus;
-- clinical outcome validation;
-- a completed molecular-to-person simulator;
-- autonomous diagnosis or treatment.
-
-Internal-demand operationalization and multiscale modeling remain active research, formalization, and validation work.
-
-The status and release requirements for a future reviewed public OWL/Turtle/RDF/JSON-LD/SHACL subset are documented in [`ontology/README.md`](ontology/README.md). No unreviewed formal file is presented as the authoritative production ontology.
-
----
-
-## Relationship to existing standards and models
-
-UOHF does not replace ICF, SNOMED CT, UMLS, PROV-O, OWL, JSON-LD, OBO Foundry ontologies, BFO, Uberon, Gene Ontology, the Human Reference Atlas, Physiome, CellML, or domain-specific physiological and clinical models.
-
-UOHF uses mapping, provenance, and interoperability strategies so that external concepts retain their established identity and scientific scope while contributing to a shared human-function model.
+The complete production ontology, relation topology, implementation rules, and operational data assets are not reproduced in full in this public repository. UOHF does not currently claim completed BFO conformance, completed OWL axiomatization, universal physiological state classification, external expert consensus, clinical outcome validation, a completed molecular-to-person simulator, or autonomous diagnosis/treatment.
 
 ---
 
 ## Research and collaboration
 
-Relevant collaboration areas include ontology engineering, whole-person and multiscale physiological modeling, rehabilitation and movement science, longitudinal health-state modeling, auditable health AI, semantic interoperability, and task-centered assessment, action, feedback, and reassessment systems.
+Relevant collaboration areas include ontology engineering, whole-person and multiscale physiological modeling, human-function reference systems, rehabilitation and exercise science, longitudinal health-state modeling, auditable health AI, semantic interoperability, capacity measurement, and task-centered assessment/action/feedback systems.
 
-See [`COLLABORATION.md`](COLLABORATION.md) for contribution routes, current priorities, and claim boundaries.
-
-For research, interoperability, implementation, or institutional collaboration: **dlehche@gmail.com**
+See [`COLLABORATION.md`](COLLABORATION.md). For research, interoperability, implementation, or institutional collaboration: **dlehche@gmail.com**
 
 ---
 
@@ -232,9 +157,9 @@ For research, interoperability, implementation, or institutional collaboration: 
 
 > Che, Lei. *UOHF Definition 2.1: Unified Ontology of Human Function*. Version 2.1.1. MoveTips Technology (Beijing) Co., Ltd., 2026. DOI: [10.5281/zenodo.21630406](https://doi.org/10.5281/zenodo.21630406).
 
-> Che, Lei. *A Formal Framework for Human Function in UOHF: Capacity, Functional Engagement, Demand-Bounded Realizability, and Evidence-Constrained Decision Support*. Version 1.0. MoveTips Technology (Beijing) Co., Ltd., 2026. DOI: [10.5281/zenodo.21721599](https://doi.org/10.5281/zenodo.21721599).
+> Che, Lei. *The UOHF Human Function Capacity System, Version 1.0: Unified Definitions of 18 Core and 104 Specific Human Functional Capacities*. MoveTips Technology (Beijing) Co., Ltd., 2026. Reserved DOI: `10.5281/zenodo.21975100`.
 
-Repository citation metadata is maintained in [`CITATION.cff`](CITATION.cff). The focused unification paper has separate citation metadata in [`papers/unification/CITATION.cff`](papers/unification/CITATION.cff), and the formal-framework publication has separate metadata in [`papers/formal-framework/CITATION.cff`](papers/formal-framework/CITATION.cff).
+Paper-specific citation metadata is maintained in each paper directory. Repository-level citation metadata remains in [`CITATION.cff`](CITATION.cff).
 
 ---
 
@@ -242,6 +167,4 @@ Repository citation metadata is maintained in [`CITATION.cff`](CITATION.cff). Th
 
 **Copyright © 2026 Lei Che and MoveTips Technology (Beijing) Co., Ltd.**
 
-The current UOHF publication records are identified as licensed under CC BY-NC 4.0. Public reuse requires appropriate attribution, identification of the applicable title and version, citation of the version-specific DOI, license information, and disclosure of modifications. Commercial use requires prior written permission from MoveTips Technology (Beijing) Co., Ltd. Record-specific terms remain governed by the corresponding canonical Zenodo record. Repository-wide guidance is maintained in [`RIGHTS_AND_REUSE.md`](RIGHTS_AND_REUSE.md).
-
-When citing, adapting, translating, mapping, or implementing UOHF, preserve the author, framework version, publication revision, canonical DOI when applicable, provenance of modifications, and the medical, safety, evidence, and professional-scope limitations stated in the publication.
+Current UOHF publications are identified as **CC BY-NC 4.0**. Academic citation and non-commercial reuse are permitted subject to the applicable license terms. Commercial use of copyright-protected publication content requires separate permission where copyright permission is required. Repository-wide guidance is maintained in [`RIGHTS_AND_REUSE.md`](RIGHTS_AND_REUSE.md).

@@ -1,108 +1,56 @@
 # Rights, Citation, and Reuse / 权利、引用与复用说明
 
-This repository contains several different classes of material: canonical publication source text, explanatory documentation, version records, non-normative examples, citation metadata, and public ontology-release status documents. Public access to the repository does not mean that every file is governed by the same license.
+This repository contains canonical publication source text, focused-publication source text, explanatory documentation, version records, non-normative examples, citation metadata, and public ontology-release status documents. Public access does not mean that every file is governed by one repository-wide license.
 
-本仓库包含多类材料：正式论文源文本、说明文档、版本记录、非规范性示例、引用元数据以及公共本体发布状态文档。仓库公开可访问，不代表所有文件自动适用同一种许可。
+本仓库包含权威论文与专题论文源文本、说明文档、版本记录、非规范性示例、引用元数据和公共本体发布状态文档。仓库公开可访问，不代表所有文件自动适用同一种仓库级许可。
 
-## 1. Canonical publications / 正式出版物
+## 1. Publication records / 出版记录
 
-The license, attribution requirements, and reuse conditions attached to each canonical Zenodo record govern that specific publication and its downloadable files.
+Each publication is governed by the license and attribution conditions attached to its corresponding publication record. Current UOHF publication records include:
 
-各篇正式出版物及其下载文件，以对应 Zenodo 权威记录中标注的许可、署名要求和复用条件为准。
+- **UOHF V1.0** — revision 1.0.1 — CC BY-NC 4.0 — [10.5281/zenodo.21630183](https://doi.org/10.5281/zenodo.21630183)
+- **UOHF Definition 2.0** — revision 2.0.1 — CC BY-NC 4.0 — [10.5281/zenodo.21630339](https://doi.org/10.5281/zenodo.21630339)
+- **UOHF Definition 2.1** — revision 2.1.1 — CC BY-NC 4.0 — [10.5281/zenodo.21630406](https://doi.org/10.5281/zenodo.21630406)
+- **Unification in the Unified Ontology of Human Function** — revision 1.0.2 — CC BY-NC 4.0 — [10.5281/zenodo.21635694](https://doi.org/10.5281/zenodo.21635694)
+- **A Formal Framework for Human Function in UOHF** — Version 1.0 — CC BY-NC 4.0 — [10.5281/zenodo.21721599](https://doi.org/10.5281/zenodo.21721599)
+- **The UOHF Human Function Capacity System, Version 1.0** — CC BY-NC 4.0 — reserved DOI `10.5281/zenodo.21975100`; DOI registration occurs when the Zenodo record is published
 
-Current canonical records include:
+The machine-readable status of each record is maintained in [`PUBLICATIONS.json`](PUBLICATIONS.json). Until a reserved DOI is registered, the GitHub source and explicit reserved-status metadata must not be described as an already registered Zenodo publication.
 
-- **UOHF V1.0: An Auditable Human-Function Inference and Safety-Constrained Decision-Support Framework**  
-  Publication revision: **1.0.1**  
-  License: **CC BY-NC 4.0**  
-  DOI: [10.5281/zenodo.21630183](https://doi.org/10.5281/zenodo.21630183)
-- **UOHF Definition 2.0: Unified Ontology of Human Function**  
-  Publication revision: **2.0.1**  
-  License: **CC BY-NC 4.0**  
-  DOI: [10.5281/zenodo.21630339](https://doi.org/10.5281/zenodo.21630339)
-- **UOHF Definition 2.1: Unified Ontology of Human Function**  
-  Publication revision: **2.1.1**  
-  License: **CC BY-NC 4.0**  
-  DOI: [10.5281/zenodo.21630406](https://doi.org/10.5281/zenodo.21630406)
-- **Unification in the Unified Ontology of Human Function: A Whole-Person Conceptual Framework Centered on Human Function and Functional Engagement**  
-  Publication revision: **1.0.2**  
-  License: **CC BY-NC 4.0**  
-  DOI: [10.5281/zenodo.21635694](https://doi.org/10.5281/zenodo.21635694)
-
-If repository text and the corresponding Zenodo record differ on publication-specific licensing, attribution, version identity, or downloadable file status, the canonical Zenodo record controls.
-
-如果仓库文字与对应 Zenodo 记录在某篇论文的许可、署名、版本身份或下载文件状态上存在差异，以该 Zenodo 权威记录为准。
+各出版记录的机器可读状态见 [`PUBLICATIONS.json`](PUBLICATIONS.json)。预留 DOI 在 Zenodo 正式发布前不得被描述为已经注册完成的正式 DOI。
 
 ## 2. Citation and linking / 引用与链接
 
-Scholarly citation, bibliographic reference, and linking to this public repository or its canonical DOI records are permitted and encouraged. Citations and other public reuse should preserve:
+Scholarly citation, bibliographic reference, and linking are permitted and encouraged. Citations should preserve the author, exact publication title, applicable version/revision, version-specific DOI when registered or clearly identify its reserved status, license information, and provenance of modifications.
 
-- author name;
-- publication title;
-- framework version and publication revision where applicable;
-- version-specific DOI;
-- provenance of translations, adaptations, or modifications.
-
-允许并鼓励对本仓库及其权威 DOI 记录进行学术引用、书目引用和链接。引用及其他公开复用应保留：
-
-- 作者；
-- 论文标题；
-- 适用情况下的框架版本与出版修订版本；
-- 具体版本 DOI；
-- 翻译、改写或修改的来源说明。
-
-Repository-level citation metadata is maintained in [`CITATION.cff`](CITATION.cff). Paper-specific citation metadata is maintained within the corresponding paper directory.
+允许并鼓励学术引用、书目引用和链接。引用时应保留作者、准确作品标题、适用版本/修订版本、具体 DOI（如尚为预留状态应明确注明）、许可证信息和修改来源。
 
 ## 3. Translation, adaptation, mapping, and implementation / 翻译、改写、映射与实现
 
-The four current canonical UOHF publications listed above are identified on their canonical records as licensed under **Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)**.
+Current UOHF publications are identified as **Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)**. Public reproduction, distribution, translation, adaptation, and other non-commercial reuse of copyright-protected publication content must comply with the license terms, including attribution and indication of modifications. Commercial use is not licensed under CC BY-NC 4.0 and requires separate permission where copyright permission is required.
 
-上述四篇当前 UOHF 权威出版物在其权威记录中均标注为采用 **Creative Commons Attribution-NonCommercial 4.0 International（CC BY-NC 4.0）**。
+当前 UOHF 出版物采用 **CC BY-NC 4.0**。对受著作权保护的出版内容进行公开复制、传播、翻译、改编及其他非商业复用时，应遵守许可证条款，包括适当署名和说明修改。商业使用不在 CC BY-NC 4.0 授权范围内；在需要著作权许可的情况下，应另行取得许可。
 
-Any public reproduction, distribution, translation, adaptation, or other reuse of material governed by those licenses must provide appropriate attribution to Lei Che, identify the work title and applicable version, cite the version-specific Zenodo DOI, provide the applicable license information, and indicate whether changes were made. Commercial use requires prior written permission from MoveTips Technology (Beijing) Co., Ltd.
+Scientific facts, ideas, methods, and other uncopyrightable elements are not converted into proprietary rights merely because they are described in a UOHF publication.
 
-任何受上述许可约束的公开复制、传播、翻译、改编或其他复用，均须署名车雷，注明作品标题和适用版本，引用具体版本 Zenodo DOI，注明适用许可证，并说明是否进行了修改。商业使用须事先取得木梯科技（北京）有限公司的书面许可。
+科学事实、思想、方法及其他不受著作权保护的内容，不会因为被 UOHF 出版物描述而自动转化为专有权利。
 
-Any permitted derivative use should:
+## 4. Public release boundary / 公开边界
 
-1. identify UOHF and the original author;
-2. cite the canonical version-specific DOI and source revision;
-3. clearly mark all modifications and derivative assertions;
-4. avoid implying endorsement, validation, clinical approval, or institutional partnership;
-5. preserve the medical, safety, evidence, and professional-scope limitations stated in the source publication.
+The complete production ontology, relation topology, demand-capacity matrices, structural/process realization networks, assessment and intervention mappings, person-specific reasoning rules, decision weights, governed payloads, private datasets, and operational assets are not released in full merely by publication of the public papers.
 
-任何获准的衍生使用都应：
-
-1. 标明 UOHF 与原作者；
-2. 引用权威的具体版本 DOI 和源修订版本；
-3. 明确标记全部修改和衍生主张；
-4. 不得暗示已经获得认可、验证、临床批准或机构合作；
-5. 保留原出版物中的医学、安全、证据和专业权限边界。
-
-For permissions not clearly covered by a file-specific or Zenodo license, contact: **dlehche@gmail.com**.
-
-## 4. Code, examples, ontology files, and operational assets / 代码、示例、本体文件与运行资产
-
-A file or directory may declare its own license. Where no explicit license is provided, no broad reuse license should be inferred merely from public availability.
-
-具体文件或目录可以声明独立许可。未明确声明许可的文件，不应仅因公开可见而推定获得广泛复用权。
-
-The complete production ontology, relation topology, implementation rules, governed payloads, and operational data assets are not released in full through this public repository. Public examples are non-normative unless explicitly marked otherwise.
-
-完整生产本体、关系拓扑、实现规则、受治理载荷和运行数据资产不会通过本仓库全部公开。除非明确标注，公开示例均为非规范性示例。
+正式论文的公开不等于开放完整生产本体、关系拓扑、任务—能力需求矩阵、结构/过程实现网络、评估与干预映射、个体推理规则、决策权重、受治理 payload、私有数据集和运行资产。
 
 ## 5. Historical naming, licensing, and provenance / 历史命名、许可与来源
 
-Earlier publications and archived DOI records preserve the terminology and licensing attached to their specific publication versions. The current project identity is **Unified Ontology of Human Function (UOHF)**. Historical titles must not be silently rewritten when cited.
+Earlier publications retain the terminology, title, version identity, and licensing attached to their specific records. Historical titles must not be silently rewritten when cited. A later licensing statement does not purport to revoke rights already validly granted for copies obtained under an earlier applicable license.
 
-早期论文及历史 DOI 记录保留各自具体出版版本对应的术语和许可。当前项目正式身份为 **人体功能统一本体（UOHF）/ Unified Ontology of Human Function**。引用历史版本时不得擅自改写其真实出版标题。
-
-The current CC BY-NC 4.0 statements do not purport to revoke rights that may already have been validly granted for copies previously obtained under an earlier license. Each reuse must be assessed according to the license that validly governs the copy and use in question.
-
-当前 CC BY-NC 4.0 声明不声称追溯撤销此前针对已取得副本可能已经有效授予的权利。具体复用应按照实际适用于相关副本及使用行为的有效许可判断。
+早期出版物保留其具体记录对应的术语、标题、版本身份和许可。引用历史版本时不得静默改写真实出版标题。后续许可声明不声称追溯撤销此前针对已取得副本可能已经有效授予的权利。
 
 ## 6. Names and marks / 名称与标识
 
-MoveTips, 木梯, UOHF, Unified Ontology of Human Function, and related product or project identifiers may function as names, marks, or source identifiers. No trademark or brand-use permission is granted by repository access alone.
+MoveTips, 木梯, UOHF, Unified Ontology of Human Function, and related identifiers may function as names, marks, or source identifiers. Repository access or CC licensing of publication text does not grant trademark or brand-use permission.
 
-MoveTips、木梯、UOHF、Unified Ontology of Human Function 及相关产品或项目标识可能构成名称、标识或来源识别。访问本仓库本身不授予品牌或商标使用许可。
+MoveTips、木梯、UOHF、Unified Ontology of Human Function 及相关标识可能构成名称、标识或来源识别。仓库访问或论文文本的 CC 许可不授予商标或品牌使用许可。
+
+For commercial permissions or institutional reuse questions: **dlehche@gmail.com**.
