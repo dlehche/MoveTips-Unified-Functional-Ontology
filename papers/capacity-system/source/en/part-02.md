@@ -1,43 +1,45 @@
-## 6. Sensory-Perceptual Information Integration Capacity
+## 6. C06 | Sensory-Perceptual Information Integration Capacity
 **Definition:** The stable whole-person capacity to receive, discriminate, integrate, and update information from the internal body, body position, and external environment to form usable body-environment representations for orientation, judgment, and action adjustment. [1,2,3,4,5,9,10,11,29,30]
 
-## 7. Sustained Task Endurance Capacity
+## 7. C07 | Sustained Task Endurance Capacity
 **Definition:** The stable whole-person capacity to sustain a task across specified intensity, duration, frequency, and repetition while preserving essential quality, pace, safety, and acceptable cost. [1,2,3,4,5,6]
 
-## 8. Intake and Swallowing Protection Capacity
+## 8. C08 | Intake and Swallowing Protection Capacity
 **Definition:** The stable whole-person capacity to safely and effectively receive, process, form, transport, and swallow food, liquid, or medication while protecting the airway and coordinating respiration during intake and swallowing. [1,2,3,4,12]
 
-## 9. Elimination and Pelvic Floor Control Capacity
+## 9. C09 | Elimination and Pelvic Floor Control Capacity
 **Definition:** The stable whole-person capacity to sense elimination needs and perform storage, timing, initiation, continence, coordination, and emptying with appropriate pelvic-floor and abdominal-pressure coordination. [1,2,3,4,13]
 
-## 10. Recovery and Adaptation Capacity
+## 10. C10 | Recovery and Adaptation Capacity
 **Definition:** The stable whole-person capacity to return to a usable state after task, training, illness, injury, or other disturbance and to develop stable, proportionate, and sustainable adaptation under repeated or progressive demand. [1,2,3,14,15,31,36]
 
-## 11. Cognitive and Executive Capacity
+## 11. C11 | Cognitive and Executive Capacity
 **Definition:** The stable whole-person capacity to comprehend demands, sustain and divide attention, encode and retrieve information, plan, judge, inhibit, switch, monitor, and organize goal-directed task completion. [1,2,3,4,5,16]
 
-## 12. Emotional and Behavioral Regulation Capacity
+## 12. C12 | Emotional and Behavioral Regulation Capacity
 **Definition:** The stable whole-person capacity to recognize and regulate emotion and motivation and to initiate, maintain, adjust, and terminate goal-directed behavior with proportionate behavioral control under change, frustration, or stress. [1,2,3,4,5,17]
 
-## 13. Communication and Expression Capacity
+## 13. C13 | Communication and Expression Capacity
 **Definition:** The stable whole-person capacity to receive and understand communicative information, formulate messages, and express, interact, clarify, and sustain communication through language, voice, writing, symbols, or augmentative means. [1,2,3,4,5,18]
 
-## 14. Homeostatic and Internal Physiological Regulation Capacity
+## 14. C14 | Homeostatic and Internal Physiological Regulation Capacity
 **Definition:** The stable whole-person capacity, during internal or external change, to coordinate multiple systems so that temperature, gas exchange, perfusion and transport, fluid and electrolytes, acid-base balance, glucose and available energy, and nutrient availability remain or return within ranges usable and safe for current demand. [1,2,3,19,20,21,31]
 
-## 15. Protection and Defense Regulation Capacity
+## 15. C15 | Protection and Defense Regulation Capacity
 **Definition:** The stable whole-person capacity, when internal or external threats or risks of damage arise, to recruit, scale, sustain, and terminate proportionate protective and defensive responses that limit harm without unnecessary persistent protection. [1,2,3,15,22,33,34]
 
-## 16. Consciousness, Sleep–Wake and Arousal Regulation Capacity
+## 16. C16 | Consciousness, Sleep–Wake and Arousal Regulation Capacity
 **Definition:** The stable whole-person capacity to regulate circadian timing, initiate and maintain sleep, maintain or restore wakefulness and arousal, and preserve sufficient continuity and clarity of conscious awareness for other functions to become usable under current conditions. [1,2,3,4,5,23,32]
 
-## 17. Sexual and Reproductive Function Capacity
-**Definition:** The stable whole-person capacity, as applicable to the person and life stage, to support sexual response and reproductive demands, including reproductive-cycle regulation, reproductive potential, gestational support, childbirth, and lactation. These functions may be supported by pelvic-floor and elimination control, general internal physiological regulation, protection and defense, recovery and adaptation, and emotional or behavioral regulation, but they are not replaced by those capacities. [1,2,3,4,5,24,41]
+## 17. C17 | Sexual and Reproductive Function Capacity
+**Definition:** The stable whole-person capacity, under applicable sex, reproductive stage, and real-world conditions, to form and maintain the functions required for sexual response and reproductive demands, including sexual response, reproductive-cycle regulation, fertility/reproductive potential, gestational support, childbirth, and lactation. These functions may be supported by C09 pelvic-floor control, C14 internal physiological regulation, C15 protection and defense, C10 recovery and adaptation, and C12 behavioral regulation, but are not replaced by those capacities. [1,2,3,4,5,24,41]
 
-## 18. Growth and Developmental Maturation Capacity
-**Definition:** The stable whole-person capacity, across relevant life stages, to realize appropriate somatic growth and biological maturation so that bodily structures, systems, and regulatory networks develop in ways that support the internal demands of the current life stage. The acquisition of movement, cognitive, communication, and other capacities remains represented as development over time within those respective capacities rather than being collapsed into growth and maturation. [1,2,3,4,5,25,35]
+## 18. C18 | Growth and Developmental Maturation Capacity
+**Definition:** The stable whole-person capacity, at the relevant life stage, to realize appropriate somatic growth and biological maturation so that bodily structures, systems, and regulatory networks develop across the life course in ways that meet the internal demands of the current stage. Acquisition of specific movement, cognitive, communication, and other skills remains represented as formation and change over time within the corresponding C01–C17 capacities rather than being collapsed into C18. [1,2,3,4,5,25,35]
 
 # 5. Unified Definitions of the 104 Specific Human Functional Capacities
+For public readability, the 104 objects below are collectively called “specific human functional capacities.” Their governed ontology types remain `SUBCAPACITY` or `CAPACITY_COMPONENT`, both subordinate to the relevant `CORE_CAPACITY`; this reading label does not create a new peer-level type.
+
 ## 1. Usable Range of Motion Capacity
 Version 1.0 publishes 3 specific capacities; each definition lists traceable source bases supporting the relevant construct, component, or boundary.
 
