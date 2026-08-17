@@ -88,7 +88,7 @@ UOHF 不替代专业知识，而是让跨专业人体功能判断变得：
 
 ```mermaid
 flowchart LR
-    T[内部或外部任务 / 需求] --> RC[所需人体功能能力]
+    D[内部或外部需求] --> RC[所需人体功能能力]
     RC --> FE[实际功能调用]
     FE --> R[反应 / 表现 / 测量]
     R --> C[代价 / 边界 / 储备 / 恢复]
@@ -111,7 +111,7 @@ UOHF 区分受治理本体与语义规则层、人体功能引擎、个人人体
 | 内容 | 用途 |
 |---|---|
 | [UOHF Definition 2.1](https://doi.org/10.5281/zenodo.21630406) | 当前权威总体框架 |
-| **[人体功能能力体系第一版](papers/capacity-system/README.zh-CN.md)** | **18项核心 + 104项具体能力、统一定义、来源、PDF与引用信息** |
+| **[人体功能能力体系第一版](papers/capacity-system/README.zh-CN.md)** | **18项核心 + 104项具体能力、统一定义、来源与引用信息** |
 | [能力体系——中文完整论文](papers/capacity-system/source/zh/README.md) | 18+104 第一版全文 |
 | [Capacity System — English full text](papers/capacity-system/source/en/README.md) | English Version 1.0 full paper |
 | [人体功能形式化框架](papers/formal-framework/README.zh-CN.md) | 数学与计算形式化 |

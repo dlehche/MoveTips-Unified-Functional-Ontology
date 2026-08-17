@@ -10,7 +10,7 @@
 **First public date:** 17 August 2026  
 **Reserved Zenodo DOI:** `10.5281/zenodo.21975100` — reserved; registration occurs when the Zenodo upload is published  
 **License:** Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)  
-**Status:** focused UOHF publication; it does not replace the current authoritative UOHF Definition 2.1
+**Status:** focused UOHF publication source; Zenodo archival pending; it does not replace the current authoritative UOHF Definition 2.1
 
 ## Read and download
 
@@ -30,27 +30,27 @@ The catalogue was produced through conceptual analysis, type-boundary audit, ext
 
 | # | Core human functional capacity | Specific capacities |
 |---:|---|---:|
-| 1 | Available Range of Motion Capacity | 3 |
+| 1 | Usable Range of Motion Capacity | 3 |
 | 2 | Force Output Capacity | 6 |
 | 3 | Load-Bearing and Load-Tolerance Capacity | 5 |
 | 4 | Postural and Balance Control Capacity | 5 |
 | 5 | Movement Organization and Coordination Capacity | 8 |
-| 6 | Sensory, Perceptual, and Information Integration Capacity | 8 |
-| 7 | Sustained Task Tolerance Capacity | 0 |
+| 6 | Sensory-Perceptual Information Integration Capacity | 8 |
+| 7 | Sustained Task Endurance Capacity | 0 |
 | 8 | Intake and Swallowing Protection Capacity | 6 |
-| 9 | Elimination and Pelvic-Floor Control Capacity | 5 |
+| 9 | Elimination and Pelvic Floor Control Capacity | 5 |
 | 10 | Recovery and Adaptation Capacity | 5 |
 | 11 | Cognitive and Executive Capacity | 11 |
-| 12 | Emotion and Behavior Regulation Capacity | 7 |
+| 12 | Emotional and Behavioral Regulation Capacity | 7 |
 | 13 | Communication and Expression Capacity | 9 |
 | 14 | Homeostatic and Internal Physiological Regulation Capacity | 7 |
 | 15 | Protection and Defense Regulation Capacity | 6 |
-| 16 | Consciousness, Sleep–Wake, and Arousal Regulation Capacity | 5 |
-| 17 | Sexual and Reproductive Functional Capacity | 6 |
+| 16 | Consciousness, Sleep–Wake and Arousal Regulation Capacity | 5 |
+| 17 | Sexual and Reproductive Function Capacity | 6 |
 | 18 | Growth and Developmental Maturation Capacity | 2 |
 |  | **Total** | **104** |
 
-Sustained Task Tolerance Capacity is intentionally retained as a single core capacity in Version 1.0. Intensity, duration, frequency, repetition, pace, and task cost are treated primarily as demand conditions or evidence dimensions rather than being converted into artificial subcapacities merely to make the hierarchy symmetrical.
+Sustained Task Endurance Capacity is intentionally retained as a single core capacity in Version 1.0. Intensity, duration, frequency, repetition, pace, and task cost are treated primarily as demand conditions or evidence dimensions rather than being converted into artificial subcapacities merely to make the hierarchy symmetrical.
 
 ## Scientific and publication boundary
 

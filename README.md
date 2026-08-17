@@ -87,7 +87,7 @@ The objective is not to replace domain expertise. It is to make cross-domain hum
 
 ```mermaid
 flowchart LR
-    T[Internal or External Task / Demand] --> RC[Required Human Functional Capacities]
+    D[Internal or External Demand] --> RC[Required Human Functional Capacities]
     RC --> FE[Functional Engagement]
     FE --> R[Response / Manifestation / Measurement]
     R --> C[Cost / Boundary / Reserve / Recovery]
@@ -110,7 +110,7 @@ UOHF distinguishes the governed ontology and semantic-rule layer, the Human Func
 | Resource | Purpose |
 |---|---|
 | [UOHF Definition 2.1](https://doi.org/10.5281/zenodo.21630406) | Current authoritative overall framework |
-| **[Human Function Capacity System V1.0](papers/capacity-system/README.md)** | **18 core + 104 specific capacity catalogue, definitions, sources, PDFs and citation** |
+| **[Human Function Capacity System V1.0](papers/capacity-system/README.md)** | **18 core + 104 specific capacity catalogue, definitions, sources and citation metadata** |
 | [Capacity System — English full text](papers/capacity-system/source/en/README.md) | Complete English Version 1.0 paper |
 | [人体功能能力体系——中文完整论文](papers/capacity-system/source/zh/README.md) | 第一版18项核心能力与104项具体能力全文 |
 | [Formal framework](papers/formal-framework/README.md) | Mathematical and computational formalization |

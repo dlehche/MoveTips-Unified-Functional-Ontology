@@ -10,7 +10,7 @@
 **首次公开日期：** 2026年8月17日  
 **预留 Zenodo DOI：** `10.5281/zenodo.21975100`——当前为预留状态，Zenodo 正式发布后注册生效  
 **许可：** Creative Commons Attribution-NonCommercial 4.0 International（CC BY-NC 4.0）  
-**状态：** UOHF 专题出版物；不替代当前权威总体框架 UOHF Definition 2.1
+**状态：** UOHF 专题出版源文件；Zenodo 归档待发布；不替代当前权威总体框架 UOHF Definition 2.1
 
 ## 阅读与下载
 

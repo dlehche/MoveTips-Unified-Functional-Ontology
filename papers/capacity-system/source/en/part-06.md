@@ -3,7 +3,7 @@
 
 2\. Che L. Unification in the Unified Ontology of Human Function: A Whole-Person Conceptual Framework Centered on Human Function and Functional Engagement. Version 1.0.2. MoveTips Technology (Beijing) Co., Ltd.; 2026. doi:10.5281/zenodo.21635694.
 
-3\. Che L. A Formal Framework for Human Function in UOHF: Capacity, Functional Engagement, Demand-Bounded Realizability, and Evidence-Constrained Decision Support. Version 1.0 English Academic Preprint. MoveTips Technology (Beijing) Co., Ltd.; 31 July 2026.
+3\. Che L. A Formal Framework for Human Function in UOHF: Capacity, Functional Engagement, Demand-Bounded Realizability, and Evidence-Constrained Decision Support. Version 1.0 English Academic Preprint. MoveTips Technology (Beijing) Co., Ltd.; 31 July 2026. doi:10.5281/zenodo.21721599.
 
 4\. World Health Organization. International Classification of Functioning, Disability and Health: ICF. Geneva: World Health Organization; 2001.
 
