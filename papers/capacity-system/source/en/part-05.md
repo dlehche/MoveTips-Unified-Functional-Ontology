@@ -34,6 +34,8 @@ This paper releases capacity names, upper-level placement, unified definitions, 
 
 This paper is not a clinical diagnostic standard, treatment guideline, or autonomous decision algorithm. No capacity definition alone converts a symptom, measurement value, or single task performance into a disease diagnosis, causal attribution, or specific intervention prescription.
 
+This paper also **does not claim** external multidisciplinary consensus, completed clinical-outcome validation, completed measurement or psychometric validation for every capacity, or established reference intervals across populations and life stages. Those remain subjects for subsequent independent research.
+
 # 10. License and Citation
 This paper is licensed under the Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0). Within the copyright scope governed by that license, copying, sharing, citation, and adaptation for research, teaching, and other non-commercial knowledge dissemination are permitted provided that appropriate attribution is given, the license is identified, and modifications are indicated.
 
@@ -42,4 +44,6 @@ Commercial use is not licensed under CC BY-NC 4.0. Commercial copying, redistrib
 Recommended citations should include the author, title, version, year, and the DOI once assigned to the released version. Citation of this paper does not grant access to or use rights for unpublished relation networks, assessment mappings, intervention mappings, reasoning rules, or other controlled assets.
 
 # 11. Conclusion
-UOHF Version 1.0 establishes a whole-person capacity coordinate system comprising 18 core and 104 specific human functional capacities across movement, physiology, cognition, behavior, communication, protection, reproduction, and the life course. Every definition is linked to traceable sources while preserving the distinction between external scientific provenance and UOHF ontological synthesis. The construction method shows that 18 + 104 is not a numerically engineered target but the Version 1.0 result of type exclusion, boundary audit, and completeness stress testing. The catalogue turns the question “what functional capacities does the human body have?” into a citable, measurable, comparable, falsifiable, and revisable scientific object.
+UOHF Version 1.0 establishes a whole-person coordinate system comprising 18 core capacities and 104 fine-grained capacity objects across movement, physiology, cognition, behavior, communication, protection, reproduction, and the life course. The 18 + 104 structure is the Version 1.0 result of type exclusion, boundary audit, and completeness stress testing rather than a numerically engineered target.
+
+The immediate contribution is to make the question “what stable functional capacities does the whole person have?” **citable, comparable, falsifiable, versioned, and revisable**, while providing explicit coordinates for later operational measurement, Human Function Reference System construction, task–capacity validation, and longitudinal empirical research. The publication does not present unfinished measurement validation, external consensus, or production-runtime coverage as already completed.
